@@ -4,7 +4,11 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            int[] result = TwoNumberSum(new int[]{ 3, 5, -4, 8, 11, 1, -1, 6 }, 10);
+            foreach(int i in result)
+            {
+                Console.WriteLine(i);
+            }
         }
 
         public static int[] TwoNumberSum(int[] array, int targetSum)
