@@ -1,0 +1,15 @@
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Validate Subsequence\bin\Debug\net7.0\Validate Subsequence.exe
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Validate Subsequence\bin\Debug\net7.0\Validate Subsequence.deps.json
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Validate Subsequence\bin\Debug\net7.0\Validate Subsequence.runtimeconfig.json
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Validate Subsequence\bin\Debug\net7.0\Validate Subsequence.dll
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Validate Subsequence\bin\Debug\net7.0\Validate Subsequence.pdb
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Validate Subsequence\obj\Debug\net7.0\Validate Subsequence.csproj.AssemblyReference.cache
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Validate Subsequence\obj\Debug\net7.0\Validate Subsequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Validate Subsequence\obj\Debug\net7.0\Validate Subsequence.AssemblyInfoInputs.cache
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Validate Subsequence\obj\Debug\net7.0\Validate Subsequence.AssemblyInfo.cs
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Validate Subsequence\obj\Debug\net7.0\Validate Subsequence.csproj.CoreCompileInputs.cache
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Validate Subsequence\obj\Debug\net7.0\Validate Subsequence.dll
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Validate Subsequence\obj\Debug\net7.0\refint\Validate Subsequence.dll
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Validate Subsequence\obj\Debug\net7.0\Validate Subsequence.pdb
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Validate Subsequence\obj\Debug\net7.0\Validate Subsequence.genruntimeconfig.cache
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Validate Subsequence\obj\Debug\net7.0\ref\Validate Subsequence.dll
