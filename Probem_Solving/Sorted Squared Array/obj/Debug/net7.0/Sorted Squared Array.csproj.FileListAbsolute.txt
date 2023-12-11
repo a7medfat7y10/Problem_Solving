@@ -1,0 +1,15 @@
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Sorted Squared Array\bin\Debug\net7.0\Sorted Squared Array.exe
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Sorted Squared Array\bin\Debug\net7.0\Sorted Squared Array.deps.json
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Sorted Squared Array\bin\Debug\net7.0\Sorted Squared Array.runtimeconfig.json
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Sorted Squared Array\bin\Debug\net7.0\Sorted Squared Array.dll
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Sorted Squared Array\bin\Debug\net7.0\Sorted Squared Array.pdb
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Sorted Squared Array\obj\Debug\net7.0\Sorted Squared Array.csproj.AssemblyReference.cache
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Sorted Squared Array\obj\Debug\net7.0\Sorted Squared Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Sorted Squared Array\obj\Debug\net7.0\Sorted Squared Array.AssemblyInfoInputs.cache
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Sorted Squared Array\obj\Debug\net7.0\Sorted Squared Array.AssemblyInfo.cs
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Sorted Squared Array\obj\Debug\net7.0\Sorted Squared Array.csproj.CoreCompileInputs.cache
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Sorted Squared Array\obj\Debug\net7.0\Sorted Squared Array.dll
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Sorted Squared Array\obj\Debug\net7.0\refint\Sorted Squared Array.dll
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Sorted Squared Array\obj\Debug\net7.0\Sorted Squared Array.pdb
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Sorted Squared Array\obj\Debug\net7.0\Sorted Squared Array.genruntimeconfig.cache
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Sorted Squared Array\obj\Debug\net7.0\ref\Sorted Squared Array.dll
