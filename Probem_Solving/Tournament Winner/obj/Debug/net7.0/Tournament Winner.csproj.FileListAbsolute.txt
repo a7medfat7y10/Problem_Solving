@@ -1,0 +1,15 @@
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Tournament Winner\bin\Debug\net7.0\Tournament Winner.exe
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Tournament Winner\bin\Debug\net7.0\Tournament Winner.deps.json
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Tournament Winner\bin\Debug\net7.0\Tournament Winner.runtimeconfig.json
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Tournament Winner\bin\Debug\net7.0\Tournament Winner.dll
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Tournament Winner\bin\Debug\net7.0\Tournament Winner.pdb
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Tournament Winner\obj\Debug\net7.0\Tournament Winner.csproj.AssemblyReference.cache
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Tournament Winner\obj\Debug\net7.0\Tournament Winner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Tournament Winner\obj\Debug\net7.0\Tournament Winner.AssemblyInfoInputs.cache
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Tournament Winner\obj\Debug\net7.0\Tournament Winner.AssemblyInfo.cs
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Tournament Winner\obj\Debug\net7.0\Tournament Winner.csproj.CoreCompileInputs.cache
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Tournament Winner\obj\Debug\net7.0\Tournament Winner.dll
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Tournament Winner\obj\Debug\net7.0\refint\Tournament Winner.dll
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Tournament Winner\obj\Debug\net7.0\Tournament Winner.pdb
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Tournament Winner\obj\Debug\net7.0\Tournament Winner.genruntimeconfig.cache
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Tournament Winner\obj\Debug\net7.0\ref\Tournament Winner.dll
