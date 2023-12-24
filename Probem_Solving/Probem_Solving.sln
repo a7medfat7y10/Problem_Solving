@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Validate Subsequence", "Val
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sorted Squared Array", "Sorted Squared Array\Sorted Squared Array.csproj", "{7B6B66F7-3477-451B-ABA7-C7E1B97B3C92}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tournament Winner", "Tournament Winner\Tournament Winner.csproj", "{746EA16B-D6BA-43B1-A063-F998B420B9CF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tournament Winner", "Tournament Winner\Tournament Winner.csproj", "{746EA16B-D6BA-43B1-A063-F998B420B9CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Non-Constructible Change", "Non-Constructible Change\Non-Constructible Change.csproj", "{641CA455-8580-4E64-A802-688FDDED7083}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{746EA16B-D6BA-43B1-A063-F998B420B9CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{746EA16B-D6BA-43B1-A063-F998B420B9CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{746EA16B-D6BA-43B1-A063-F998B420B9CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{641CA455-8580-4E64-A802-688FDDED7083}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{641CA455-8580-4E64-A802-688FDDED7083}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{641CA455-8580-4E64-A802-688FDDED7083}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{641CA455-8580-4E64-A802-688FDDED7083}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
