@@ -1,0 +1,15 @@
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Transpose Matrix\bin\Debug\net7.0\Transpose Matrix.exe
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Transpose Matrix\bin\Debug\net7.0\Transpose Matrix.deps.json
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Transpose Matrix\bin\Debug\net7.0\Transpose Matrix.runtimeconfig.json
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Transpose Matrix\bin\Debug\net7.0\Transpose Matrix.dll
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Transpose Matrix\bin\Debug\net7.0\Transpose Matrix.pdb
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Transpose Matrix\obj\Debug\net7.0\Transpose Matrix.csproj.AssemblyReference.cache
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Transpose Matrix\obj\Debug\net7.0\Transpose Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Transpose Matrix\obj\Debug\net7.0\Transpose Matrix.AssemblyInfoInputs.cache
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Transpose Matrix\obj\Debug\net7.0\Transpose Matrix.AssemblyInfo.cs
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Transpose Matrix\obj\Debug\net7.0\Transpose Matrix.csproj.CoreCompileInputs.cache
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Transpose Matrix\obj\Debug\net7.0\Transpose Matrix.dll
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Transpose Matrix\obj\Debug\net7.0\refint\Transpose Matrix.dll
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Transpose Matrix\obj\Debug\net7.0\Transpose Matrix.pdb
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Transpose Matrix\obj\Debug\net7.0\Transpose Matrix.genruntimeconfig.cache
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Transpose Matrix\obj\Debug\net7.0\ref\Transpose Matrix.dll
