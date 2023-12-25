@@ -28,7 +28,6 @@
             }
             result = count.ToString() + str[str.Length -1];
             output += result;
-            count = 1;
 
             return output;
         }
