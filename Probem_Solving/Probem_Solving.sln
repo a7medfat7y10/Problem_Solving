@@ -11,13 +11,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sorted Squared Array", "Sor
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tournament Winner", "Tournament Winner\Tournament Winner.csproj", "{746EA16B-D6BA-43B1-A063-F998B420B9CF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Non-Constructible Change", "Non-Constructible Change\Non-Constructible Change.csproj", "{641CA455-8580-4E64-A802-688FDDED7083}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Non-Constructible Change", "Non-Constructible Change\Non-Constructible Change.csproj", "{641CA455-8580-4E64-A802-688FDDED7083}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Transpose Matrix", "Transpose Matrix\Transpose Matrix.csproj", "{7D988C6C-6952-4A04-9729-4CBEDD249455}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Transpose Matrix", "Transpose Matrix\Transpose Matrix.csproj", "{7D988C6C-6952-4A04-9729-4CBEDD249455}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caesar Cipher Encryptor", "Caesar Cipher Encryptor\Caesar Cipher Encryptor.csproj", "{E74D8FE4-628C-45CF-A294-B0E801D82DD9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Caesar Cipher Encryptor", "Caesar Cipher Encryptor\Caesar Cipher Encryptor.csproj", "{E74D8FE4-628C-45CF-A294-B0E801D82DD9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrome Check", "Palindrome Check\Palindrome Check.csproj", "{AC00B2E9-0DF5-4122-8225-EF26A468721F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Palindrome Check", "Palindrome Check\Palindrome Check.csproj", "{AC00B2E9-0DF5-4122-8225-EF26A468721F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Run-Length Encoding", "Run-Length Encoding\Run-Length Encoding.csproj", "{FF10F563-E4FB-4F31-8249-827D70A3474B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{AC00B2E9-0DF5-4122-8225-EF26A468721F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC00B2E9-0DF5-4122-8225-EF26A468721F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC00B2E9-0DF5-4122-8225-EF26A468721F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF10F563-E4FB-4F31-8249-827D70A3474B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF10F563-E4FB-4F31-8249-827D70A3474B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF10F563-E4FB-4F31-8249-827D70A3474B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF10F563-E4FB-4F31-8249-827D70A3474B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
