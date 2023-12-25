@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Transpose Matrix", "Transpo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caesar Cipher Encryptor", "Caesar Cipher Encryptor\Caesar Cipher Encryptor.csproj", "{E74D8FE4-628C-45CF-A294-B0E801D82DD9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrome Check", "Palindrome Check\Palindrome Check.csproj", "{AC00B2E9-0DF5-4122-8225-EF26A468721F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{E74D8FE4-628C-45CF-A294-B0E801D82DD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E74D8FE4-628C-45CF-A294-B0E801D82DD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E74D8FE4-628C-45CF-A294-B0E801D82DD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC00B2E9-0DF5-4122-8225-EF26A468721F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC00B2E9-0DF5-4122-8225-EF26A468721F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC00B2E9-0DF5-4122-8225-EF26A468721F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC00B2E9-0DF5-4122-8225-EF26A468721F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
