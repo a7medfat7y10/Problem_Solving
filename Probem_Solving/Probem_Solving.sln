@@ -19,9 +19,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Caesar Cipher Encryptor", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Palindrome Check", "Palindrome Check\Palindrome Check.csproj", "{AC00B2E9-0DF5-4122-8225-EF26A468721F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Run-Length Encoding", "Run-Length Encoding\Run-Length Encoding.csproj", "{FF10F563-E4FB-4F31-8249-827D70A3474B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Run-Length Encoding", "Run-Length Encoding\Run-Length Encoding.csproj", "{FF10F563-E4FB-4F31-8249-827D70A3474B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common Characters", "Common Characters\Common Characters.csproj", "{6A7C89EC-77FB-4A86-AD9B-33B04C015351}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Common Characters", "Common Characters\Common Characters.csproj", "{6A7C89EC-77FB-4A86-AD9B-33B04C015351}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generate Document", "Generate Document\Generate Document.csproj", "{6568C198-BF08-4729-9963-9645E299E7F9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{6A7C89EC-77FB-4A86-AD9B-33B04C015351}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6A7C89EC-77FB-4A86-AD9B-33B04C015351}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6A7C89EC-77FB-4A86-AD9B-33B04C015351}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6568C198-BF08-4729-9963-9645E299E7F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6568C198-BF08-4729-9963-9645E299E7F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6568C198-BF08-4729-9963-9645E299E7F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6568C198-BF08-4729-9963-9645E299E7F9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

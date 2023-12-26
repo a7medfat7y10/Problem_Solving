@@ -1,0 +1,15 @@
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Generate Document\bin\Debug\net7.0\Generate Document.exe
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Generate Document\bin\Debug\net7.0\Generate Document.deps.json
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Generate Document\bin\Debug\net7.0\Generate Document.runtimeconfig.json
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Generate Document\bin\Debug\net7.0\Generate Document.dll
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Generate Document\bin\Debug\net7.0\Generate Document.pdb
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Generate Document\obj\Debug\net7.0\Generate Document.csproj.AssemblyReference.cache
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Generate Document\obj\Debug\net7.0\Generate Document.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Generate Document\obj\Debug\net7.0\Generate Document.AssemblyInfoInputs.cache
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Generate Document\obj\Debug\net7.0\Generate Document.AssemblyInfo.cs
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Generate Document\obj\Debug\net7.0\Generate Document.csproj.CoreCompileInputs.cache
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Generate Document\obj\Debug\net7.0\Generate Document.dll
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Generate Document\obj\Debug\net7.0\refint\Generate Document.dll
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Generate Document\obj\Debug\net7.0\Generate Document.pdb
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Generate Document\obj\Debug\net7.0\Generate Document.genruntimeconfig.cache
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Generate Document\obj\Debug\net7.0\ref\Generate Document.dll
