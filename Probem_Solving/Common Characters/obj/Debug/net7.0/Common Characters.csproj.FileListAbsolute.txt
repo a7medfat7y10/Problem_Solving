@@ -1,0 +1,15 @@
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Common Characters\bin\Debug\net7.0\Common Characters.exe
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Common Characters\bin\Debug\net7.0\Common Characters.deps.json
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Common Characters\bin\Debug\net7.0\Common Characters.runtimeconfig.json
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Common Characters\bin\Debug\net7.0\Common Characters.dll
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Common Characters\bin\Debug\net7.0\Common Characters.pdb
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Common Characters\obj\Debug\net7.0\Common Characters.csproj.AssemblyReference.cache
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Common Characters\obj\Debug\net7.0\Common Characters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Common Characters\obj\Debug\net7.0\Common Characters.AssemblyInfoInputs.cache
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Common Characters\obj\Debug\net7.0\Common Characters.AssemblyInfo.cs
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Common Characters\obj\Debug\net7.0\Common Characters.csproj.CoreCompileInputs.cache
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Common Characters\obj\Debug\net7.0\Common Characters.dll
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Common Characters\obj\Debug\net7.0\refint\Common Characters.dll
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Common Characters\obj\Debug\net7.0\Common Characters.pdb
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Common Characters\obj\Debug\net7.0\Common Characters.genruntimeconfig.cache
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Common Characters\obj\Debug\net7.0\ref\Common Characters.dll
