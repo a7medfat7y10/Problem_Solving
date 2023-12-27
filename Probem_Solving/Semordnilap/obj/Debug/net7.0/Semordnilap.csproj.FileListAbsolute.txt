@@ -1,0 +1,15 @@
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Semordnilap\bin\Debug\net7.0\Semordnilap.exe
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Semordnilap\bin\Debug\net7.0\Semordnilap.deps.json
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Semordnilap\bin\Debug\net7.0\Semordnilap.runtimeconfig.json
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Semordnilap\bin\Debug\net7.0\Semordnilap.dll
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Semordnilap\bin\Debug\net7.0\Semordnilap.pdb
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Semordnilap\obj\Debug\net7.0\Semordnilap.csproj.AssemblyReference.cache
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Semordnilap\obj\Debug\net7.0\Semordnilap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Semordnilap\obj\Debug\net7.0\Semordnilap.AssemblyInfoInputs.cache
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Semordnilap\obj\Debug\net7.0\Semordnilap.AssemblyInfo.cs
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Semordnilap\obj\Debug\net7.0\Semordnilap.csproj.CoreCompileInputs.cache
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Semordnilap\obj\Debug\net7.0\Semordnilap.dll
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Semordnilap\obj\Debug\net7.0\refint\Semordnilap.dll
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Semordnilap\obj\Debug\net7.0\Semordnilap.pdb
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Semordnilap\obj\Debug\net7.0\Semordnilap.genruntimeconfig.cache
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Semordnilap\obj\Debug\net7.0\ref\Semordnilap.dll

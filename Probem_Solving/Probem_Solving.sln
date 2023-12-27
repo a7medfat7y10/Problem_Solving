@@ -23,9 +23,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Run-Length Encoding", "Run-
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Common Characters", "Common Characters\Common Characters.csproj", "{6A7C89EC-77FB-4A86-AD9B-33B04C015351}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generate Document", "Generate Document\Generate Document.csproj", "{6568C198-BF08-4729-9963-9645E299E7F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generate Document", "Generate Document\Generate Document.csproj", "{6568C198-BF08-4729-9963-9645E299E7F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "First Non-Repeating Character", "First Non-Repeating Character\First Non-Repeating Character.csproj", "{19992BF4-9FAC-48DC-B6D8-34AB650B1D55}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "First Non-Repeating Character", "First Non-Repeating Character\First Non-Repeating Character.csproj", "{19992BF4-9FAC-48DC-B6D8-34AB650B1D55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Semordnilap", "Semordnilap\Semordnilap.csproj", "{5BF3A548-C0FC-427E-8553-500F915BAF45}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{19992BF4-9FAC-48DC-B6D8-34AB650B1D55}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19992BF4-9FAC-48DC-B6D8-34AB650B1D55}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19992BF4-9FAC-48DC-B6D8-34AB650B1D55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BF3A548-C0FC-427E-8553-500F915BAF45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BF3A548-C0FC-427E-8553-500F915BAF45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BF3A548-C0FC-427E-8553-500F915BAF45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BF3A548-C0FC-427E-8553-500F915BAF45}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
