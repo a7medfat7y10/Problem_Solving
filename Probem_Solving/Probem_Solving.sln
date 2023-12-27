@@ -29,6 +29,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "First Non-Repeating Charact
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Semordnilap", "Semordnilap\Semordnilap.csproj", "{5BF3A548-C0FC-427E-8553-500F915BAF45}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove Duplicates From Linked List", "Remove Duplicates From Linked List\Remove Duplicates From Linked List.csproj", "{D8AE6368-0B59-4707-A290-6ADC078F19A1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{5BF3A548-C0FC-427E-8553-500F915BAF45}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5BF3A548-C0FC-427E-8553-500F915BAF45}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5BF3A548-C0FC-427E-8553-500F915BAF45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8AE6368-0B59-4707-A290-6ADC078F19A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8AE6368-0B59-4707-A290-6ADC078F19A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8AE6368-0B59-4707-A290-6ADC078F19A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8AE6368-0B59-4707-A290-6ADC078F19A1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
