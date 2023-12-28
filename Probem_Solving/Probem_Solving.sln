@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove Duplicates From Link
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Middle Node", "Middle Node\Middle Node.csproj", "{89D5BAF8-CB29-459A-9323-CBE91326D6D7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nth Fibonacci", "Nth Fibonacci\Nth Fibonacci.csproj", "{5548D778-9B56-42C6-8054-0D96A22B5856}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{89D5BAF8-CB29-459A-9323-CBE91326D6D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89D5BAF8-CB29-459A-9323-CBE91326D6D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{89D5BAF8-CB29-459A-9323-CBE91326D6D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5548D778-9B56-42C6-8054-0D96A22B5856}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5548D778-9B56-42C6-8054-0D96A22B5856}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5548D778-9B56-42C6-8054-0D96A22B5856}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5548D778-9B56-42C6-8054-0D96A22B5856}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
