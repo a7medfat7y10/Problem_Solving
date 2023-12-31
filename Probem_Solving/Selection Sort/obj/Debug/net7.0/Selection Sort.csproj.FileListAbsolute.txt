@@ -1,0 +1,15 @@
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Selection Sort\bin\Debug\net7.0\Selection Sort.exe
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Selection Sort\bin\Debug\net7.0\Selection Sort.deps.json
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Selection Sort\bin\Debug\net7.0\Selection Sort.runtimeconfig.json
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Selection Sort\bin\Debug\net7.0\Selection Sort.dll
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Selection Sort\bin\Debug\net7.0\Selection Sort.pdb
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Selection Sort\obj\Debug\net7.0\Selection Sort.csproj.AssemblyReference.cache
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Selection Sort\obj\Debug\net7.0\Selection Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Selection Sort\obj\Debug\net7.0\Selection Sort.AssemblyInfoInputs.cache
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Selection Sort\obj\Debug\net7.0\Selection Sort.AssemblyInfo.cs
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Selection Sort\obj\Debug\net7.0\Selection Sort.csproj.CoreCompileInputs.cache
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Selection Sort\obj\Debug\net7.0\Selection Sort.dll
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Selection Sort\obj\Debug\net7.0\refint\Selection Sort.dll
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Selection Sort\obj\Debug\net7.0\Selection Sort.pdb
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Selection Sort\obj\Debug\net7.0\Selection Sort.genruntimeconfig.cache
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Selection Sort\obj\Debug\net7.0\ref\Selection Sort.dll
