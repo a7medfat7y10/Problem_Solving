@@ -1,0 +1,15 @@
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Product Sum\bin\Debug\net7.0\Product Sum.exe
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Product Sum\bin\Debug\net7.0\Product Sum.deps.json
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Product Sum\bin\Debug\net7.0\Product Sum.runtimeconfig.json
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Product Sum\bin\Debug\net7.0\Product Sum.dll
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Product Sum\bin\Debug\net7.0\Product Sum.pdb
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Product Sum\obj\Debug\net7.0\Product Sum.csproj.AssemblyReference.cache
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Product Sum\obj\Debug\net7.0\Product Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Product Sum\obj\Debug\net7.0\Product Sum.AssemblyInfoInputs.cache
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Product Sum\obj\Debug\net7.0\Product Sum.AssemblyInfo.cs
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Product Sum\obj\Debug\net7.0\Product Sum.csproj.CoreCompileInputs.cache
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Product Sum\obj\Debug\net7.0\Product Sum.dll
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Product Sum\obj\Debug\net7.0\refint\Product Sum.dll
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Product Sum\obj\Debug\net7.0\Product Sum.pdb
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Product Sum\obj\Debug\net7.0\Product Sum.genruntimeconfig.cache
+C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Product Sum\obj\Debug\net7.0\ref\Product Sum.dll
