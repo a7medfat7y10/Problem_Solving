@@ -9,6 +9,7 @@
                 Console.WriteLine(num);
             }
         }
+        //O(n) time / O(1) space
         public static int[] FindThreeLargestNumbers(int[] array)
         {
             // Write your code here.
