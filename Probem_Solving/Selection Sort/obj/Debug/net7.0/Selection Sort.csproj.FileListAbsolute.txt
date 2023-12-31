@@ -13,3 +13,18 @@ C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Selection 
 C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Selection Sort\obj\Debug\net7.0\Selection Sort.pdb
 C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Selection Sort\obj\Debug\net7.0\Selection Sort.genruntimeconfig.cache
 C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Selection Sort\obj\Debug\net7.0\ref\Selection Sort.dll
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Selection Sort\bin\Debug\net7.0\Selection Sort.exe
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Selection Sort\bin\Debug\net7.0\Selection Sort.deps.json
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Selection Sort\bin\Debug\net7.0\Selection Sort.runtimeconfig.json
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Selection Sort\bin\Debug\net7.0\Selection Sort.dll
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Selection Sort\bin\Debug\net7.0\Selection Sort.pdb
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Selection Sort\obj\Debug\net7.0\Selection Sort.csproj.AssemblyReference.cache
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Selection Sort\obj\Debug\net7.0\Selection Sort.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Selection Sort\obj\Debug\net7.0\Selection Sort.AssemblyInfoInputs.cache
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Selection Sort\obj\Debug\net7.0\Selection Sort.AssemblyInfo.cs
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Selection Sort\obj\Debug\net7.0\Selection Sort.csproj.CoreCompileInputs.cache
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Selection Sort\obj\Debug\net7.0\Selection Sort.dll
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Selection Sort\obj\Debug\net7.0\refint\Selection Sort.dll
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Selection Sort\obj\Debug\net7.0\Selection Sort.pdb
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Selection Sort\obj\Debug\net7.0\Selection Sort.genruntimeconfig.cache
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Selection Sort\obj\Debug\net7.0\ref\Selection Sort.dll

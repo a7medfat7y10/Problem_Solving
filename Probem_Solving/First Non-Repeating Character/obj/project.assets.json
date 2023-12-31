@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Fathy\\Desktop\\Problem_Solving\\Problem_Solving\\Probem_Solving\\First Non-Repeating Character\\First Non-Repeating Character.csproj",
+      "projectUniqueName": "E:\\Courses\\Software Engineering\\MyProjects\\Problem_Solving\\Problem_Solving\\Probem_Solving\\First Non-Repeating Character\\First Non-Repeating Character.csproj",
       "projectName": "First Non-Repeating Character",
-      "projectPath": "C:\\Users\\Fathy\\Desktop\\Problem_Solving\\Problem_Solving\\Probem_Solving\\First Non-Repeating Character\\First Non-Repeating Character.csproj",
+      "projectPath": "E:\\Courses\\Software Engineering\\MyProjects\\Problem_Solving\\Problem_Solving\\Probem_Solving\\First Non-Repeating Character\\First Non-Repeating Character.csproj",
       "packagesPath": "C:\\Users\\Fathy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Fathy\\Desktop\\Problem_Solving\\Problem_Solving\\Probem_Solving\\First Non-Repeating Character\\obj\\",
+      "outputPath": "E:\\Courses\\Software Engineering\\MyProjects\\Problem_Solving\\Problem_Solving\\Probem_Solving\\First Non-Repeating Character\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

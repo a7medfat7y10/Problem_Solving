@@ -13,3 +13,18 @@ C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Two Number
 C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Two Number Sum\obj\Debug\net7.0\Two Number Sum.pdb
 C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Two Number Sum\obj\Debug\net7.0\Two Number Sum.genruntimeconfig.cache
 C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Two Number Sum\obj\Debug\net7.0\ref\Two Number Sum.dll
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Two Number Sum\bin\Debug\net7.0\Two Number Sum.exe
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Two Number Sum\bin\Debug\net7.0\Two Number Sum.deps.json
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Two Number Sum\bin\Debug\net7.0\Two Number Sum.runtimeconfig.json
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Two Number Sum\bin\Debug\net7.0\Two Number Sum.dll
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Two Number Sum\bin\Debug\net7.0\Two Number Sum.pdb
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Two Number Sum\obj\Debug\net7.0\Two Number Sum.csproj.AssemblyReference.cache
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Two Number Sum\obj\Debug\net7.0\Two Number Sum.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Two Number Sum\obj\Debug\net7.0\Two Number Sum.AssemblyInfoInputs.cache
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Two Number Sum\obj\Debug\net7.0\Two Number Sum.AssemblyInfo.cs
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Two Number Sum\obj\Debug\net7.0\Two Number Sum.csproj.CoreCompileInputs.cache
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Two Number Sum\obj\Debug\net7.0\Two Number Sum.dll
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Two Number Sum\obj\Debug\net7.0\refint\Two Number Sum.dll
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Two Number Sum\obj\Debug\net7.0\Two Number Sum.pdb
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Two Number Sum\obj\Debug\net7.0\Two Number Sum.genruntimeconfig.cache
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Two Number Sum\obj\Debug\net7.0\ref\Two Number Sum.dll

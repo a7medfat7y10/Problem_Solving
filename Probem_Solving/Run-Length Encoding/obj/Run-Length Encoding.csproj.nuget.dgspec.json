@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Fathy\\Desktop\\Problem_Solving\\Problem_Solving\\Probem_Solving\\Run-Length Encoding\\Run-Length Encoding.csproj": {}
+    "E:\\Courses\\Software Engineering\\MyProjects\\Problem_Solving\\Problem_Solving\\Probem_Solving\\Run-Length Encoding\\Run-Length Encoding.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Fathy\\Desktop\\Problem_Solving\\Problem_Solving\\Probem_Solving\\Run-Length Encoding\\Run-Length Encoding.csproj": {
+    "E:\\Courses\\Software Engineering\\MyProjects\\Problem_Solving\\Problem_Solving\\Probem_Solving\\Run-Length Encoding\\Run-Length Encoding.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Fathy\\Desktop\\Problem_Solving\\Problem_Solving\\Probem_Solving\\Run-Length Encoding\\Run-Length Encoding.csproj",
+        "projectUniqueName": "E:\\Courses\\Software Engineering\\MyProjects\\Problem_Solving\\Problem_Solving\\Probem_Solving\\Run-Length Encoding\\Run-Length Encoding.csproj",
         "projectName": "Run-Length Encoding",
-        "projectPath": "C:\\Users\\Fathy\\Desktop\\Problem_Solving\\Problem_Solving\\Probem_Solving\\Run-Length Encoding\\Run-Length Encoding.csproj",
+        "projectPath": "E:\\Courses\\Software Engineering\\MyProjects\\Problem_Solving\\Problem_Solving\\Probem_Solving\\Run-Length Encoding\\Run-Length Encoding.csproj",
         "packagesPath": "C:\\Users\\Fathy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Fathy\\Desktop\\Problem_Solving\\Problem_Solving\\Probem_Solving\\Run-Length Encoding\\obj\\",
+        "outputPath": "E:\\Courses\\Software Engineering\\MyProjects\\Problem_Solving\\Problem_Solving\\Probem_Solving\\Run-Length Encoding\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

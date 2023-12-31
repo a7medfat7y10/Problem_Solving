@@ -13,3 +13,18 @@ C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Common Cha
 C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Common Characters\obj\Debug\net7.0\Common Characters.pdb
 C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Common Characters\obj\Debug\net7.0\Common Characters.genruntimeconfig.cache
 C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Common Characters\obj\Debug\net7.0\ref\Common Characters.dll
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Common Characters\bin\Debug\net7.0\Common Characters.exe
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Common Characters\bin\Debug\net7.0\Common Characters.deps.json
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Common Characters\bin\Debug\net7.0\Common Characters.runtimeconfig.json
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Common Characters\bin\Debug\net7.0\Common Characters.dll
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Common Characters\bin\Debug\net7.0\Common Characters.pdb
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Common Characters\obj\Debug\net7.0\Common Characters.csproj.AssemblyReference.cache
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Common Characters\obj\Debug\net7.0\Common Characters.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Common Characters\obj\Debug\net7.0\Common Characters.AssemblyInfoInputs.cache
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Common Characters\obj\Debug\net7.0\Common Characters.AssemblyInfo.cs
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Common Characters\obj\Debug\net7.0\Common Characters.csproj.CoreCompileInputs.cache
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Common Characters\obj\Debug\net7.0\Common Characters.dll
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Common Characters\obj\Debug\net7.0\refint\Common Characters.dll
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Common Characters\obj\Debug\net7.0\Common Characters.pdb
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Common Characters\obj\Debug\net7.0\Common Characters.genruntimeconfig.cache
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Common Characters\obj\Debug\net7.0\ref\Common Characters.dll

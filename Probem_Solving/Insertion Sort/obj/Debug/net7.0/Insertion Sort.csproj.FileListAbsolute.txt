@@ -13,3 +13,18 @@ C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Insertion 
 C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Insertion Sort\obj\Debug\net7.0\Insertion Sort.pdb
 C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Insertion Sort\obj\Debug\net7.0\Insertion Sort.genruntimeconfig.cache
 C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Insertion Sort\obj\Debug\net7.0\ref\Insertion Sort.dll
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Insertion Sort\bin\Debug\net7.0\Insertion Sort.exe
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Insertion Sort\bin\Debug\net7.0\Insertion Sort.deps.json
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Insertion Sort\bin\Debug\net7.0\Insertion Sort.runtimeconfig.json
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Insertion Sort\bin\Debug\net7.0\Insertion Sort.dll
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Insertion Sort\bin\Debug\net7.0\Insertion Sort.pdb
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Insertion Sort\obj\Debug\net7.0\Insertion Sort.csproj.AssemblyReference.cache
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Insertion Sort\obj\Debug\net7.0\Insertion Sort.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Insertion Sort\obj\Debug\net7.0\Insertion Sort.AssemblyInfoInputs.cache
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Insertion Sort\obj\Debug\net7.0\Insertion Sort.AssemblyInfo.cs
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Insertion Sort\obj\Debug\net7.0\Insertion Sort.csproj.CoreCompileInputs.cache
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Insertion Sort\obj\Debug\net7.0\Insertion Sort.dll
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Insertion Sort\obj\Debug\net7.0\refint\Insertion Sort.dll
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Insertion Sort\obj\Debug\net7.0\Insertion Sort.pdb
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Insertion Sort\obj\Debug\net7.0\Insertion Sort.genruntimeconfig.cache
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Insertion Sort\obj\Debug\net7.0\ref\Insertion Sort.dll

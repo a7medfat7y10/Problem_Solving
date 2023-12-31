@@ -13,3 +13,18 @@ C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Binary Sea
 C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Binary Search\obj\Debug\net7.0\Binary Search.pdb
 C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Binary Search\obj\Debug\net7.0\Binary Search.genruntimeconfig.cache
 C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Binary Search\obj\Debug\net7.0\ref\Binary Search.dll
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Binary Search\bin\Debug\net7.0\Binary Search.exe
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Binary Search\bin\Debug\net7.0\Binary Search.deps.json
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Binary Search\bin\Debug\net7.0\Binary Search.runtimeconfig.json
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Binary Search\bin\Debug\net7.0\Binary Search.dll
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Binary Search\bin\Debug\net7.0\Binary Search.pdb
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Binary Search\obj\Debug\net7.0\Binary Search.csproj.AssemblyReference.cache
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Binary Search\obj\Debug\net7.0\Binary Search.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Binary Search\obj\Debug\net7.0\Binary Search.AssemblyInfoInputs.cache
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Binary Search\obj\Debug\net7.0\Binary Search.AssemblyInfo.cs
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Binary Search\obj\Debug\net7.0\Binary Search.csproj.CoreCompileInputs.cache
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Binary Search\obj\Debug\net7.0\Binary Search.dll
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Binary Search\obj\Debug\net7.0\refint\Binary Search.dll
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Binary Search\obj\Debug\net7.0\Binary Search.pdb
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Binary Search\obj\Debug\net7.0\Binary Search.genruntimeconfig.cache
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Binary Search\obj\Debug\net7.0\ref\Binary Search.dll

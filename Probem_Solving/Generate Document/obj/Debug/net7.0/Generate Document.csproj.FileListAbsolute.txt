@@ -13,3 +13,18 @@ C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Generate D
 C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Generate Document\obj\Debug\net7.0\Generate Document.pdb
 C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Generate Document\obj\Debug\net7.0\Generate Document.genruntimeconfig.cache
 C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Generate Document\obj\Debug\net7.0\ref\Generate Document.dll
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Generate Document\bin\Debug\net7.0\Generate Document.exe
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Generate Document\bin\Debug\net7.0\Generate Document.deps.json
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Generate Document\bin\Debug\net7.0\Generate Document.runtimeconfig.json
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Generate Document\bin\Debug\net7.0\Generate Document.dll
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Generate Document\bin\Debug\net7.0\Generate Document.pdb
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Generate Document\obj\Debug\net7.0\Generate Document.csproj.AssemblyReference.cache
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Generate Document\obj\Debug\net7.0\Generate Document.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Generate Document\obj\Debug\net7.0\Generate Document.AssemblyInfoInputs.cache
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Generate Document\obj\Debug\net7.0\Generate Document.AssemblyInfo.cs
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Generate Document\obj\Debug\net7.0\Generate Document.csproj.CoreCompileInputs.cache
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Generate Document\obj\Debug\net7.0\Generate Document.dll
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Generate Document\obj\Debug\net7.0\refint\Generate Document.dll
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Generate Document\obj\Debug\net7.0\Generate Document.pdb
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Generate Document\obj\Debug\net7.0\Generate Document.genruntimeconfig.cache
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Generate Document\obj\Debug\net7.0\ref\Generate Document.dll

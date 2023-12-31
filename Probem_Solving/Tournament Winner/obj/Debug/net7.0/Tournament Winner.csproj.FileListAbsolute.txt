@@ -13,3 +13,18 @@ C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Tournament
 C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Tournament Winner\obj\Debug\net7.0\Tournament Winner.pdb
 C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Tournament Winner\obj\Debug\net7.0\Tournament Winner.genruntimeconfig.cache
 C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Tournament Winner\obj\Debug\net7.0\ref\Tournament Winner.dll
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Tournament Winner\bin\Debug\net7.0\Tournament Winner.exe
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Tournament Winner\bin\Debug\net7.0\Tournament Winner.deps.json
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Tournament Winner\bin\Debug\net7.0\Tournament Winner.runtimeconfig.json
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Tournament Winner\bin\Debug\net7.0\Tournament Winner.dll
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Tournament Winner\bin\Debug\net7.0\Tournament Winner.pdb
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Tournament Winner\obj\Debug\net7.0\Tournament Winner.csproj.AssemblyReference.cache
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Tournament Winner\obj\Debug\net7.0\Tournament Winner.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Tournament Winner\obj\Debug\net7.0\Tournament Winner.AssemblyInfoInputs.cache
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Tournament Winner\obj\Debug\net7.0\Tournament Winner.AssemblyInfo.cs
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Tournament Winner\obj\Debug\net7.0\Tournament Winner.csproj.CoreCompileInputs.cache
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Tournament Winner\obj\Debug\net7.0\Tournament Winner.dll
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Tournament Winner\obj\Debug\net7.0\refint\Tournament Winner.dll
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Tournament Winner\obj\Debug\net7.0\Tournament Winner.pdb
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Tournament Winner\obj\Debug\net7.0\Tournament Winner.genruntimeconfig.cache
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Tournament Winner\obj\Debug\net7.0\ref\Tournament Winner.dll

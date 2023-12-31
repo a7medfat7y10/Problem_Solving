@@ -13,3 +13,18 @@ C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Semordnila
 C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Semordnilap\obj\Debug\net7.0\Semordnilap.pdb
 C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Semordnilap\obj\Debug\net7.0\Semordnilap.genruntimeconfig.cache
 C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Semordnilap\obj\Debug\net7.0\ref\Semordnilap.dll
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Semordnilap\bin\Debug\net7.0\Semordnilap.exe
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Semordnilap\bin\Debug\net7.0\Semordnilap.deps.json
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Semordnilap\bin\Debug\net7.0\Semordnilap.runtimeconfig.json
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Semordnilap\bin\Debug\net7.0\Semordnilap.dll
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Semordnilap\bin\Debug\net7.0\Semordnilap.pdb
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Semordnilap\obj\Debug\net7.0\Semordnilap.csproj.AssemblyReference.cache
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Semordnilap\obj\Debug\net7.0\Semordnilap.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Semordnilap\obj\Debug\net7.0\Semordnilap.AssemblyInfoInputs.cache
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Semordnilap\obj\Debug\net7.0\Semordnilap.AssemblyInfo.cs
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Semordnilap\obj\Debug\net7.0\Semordnilap.csproj.CoreCompileInputs.cache
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Semordnilap\obj\Debug\net7.0\Semordnilap.dll
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Semordnilap\obj\Debug\net7.0\refint\Semordnilap.dll
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Semordnilap\obj\Debug\net7.0\Semordnilap.pdb
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Semordnilap\obj\Debug\net7.0\Semordnilap.genruntimeconfig.cache
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Semordnilap\obj\Debug\net7.0\ref\Semordnilap.dll

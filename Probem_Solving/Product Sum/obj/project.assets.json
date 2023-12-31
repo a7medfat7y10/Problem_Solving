@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Fathy\\Desktop\\Problem_Solving\\Problem_Solving\\Probem_Solving\\Product Sum\\Product Sum.csproj",
+      "projectUniqueName": "E:\\Courses\\Software Engineering\\MyProjects\\Problem_Solving\\Problem_Solving\\Probem_Solving\\Product Sum\\Product Sum.csproj",
       "projectName": "Product Sum",
-      "projectPath": "C:\\Users\\Fathy\\Desktop\\Problem_Solving\\Problem_Solving\\Probem_Solving\\Product Sum\\Product Sum.csproj",
+      "projectPath": "E:\\Courses\\Software Engineering\\MyProjects\\Problem_Solving\\Problem_Solving\\Probem_Solving\\Product Sum\\Product Sum.csproj",
       "packagesPath": "C:\\Users\\Fathy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Fathy\\Desktop\\Problem_Solving\\Problem_Solving\\Probem_Solving\\Product Sum\\obj\\",
+      "outputPath": "E:\\Courses\\Software Engineering\\MyProjects\\Problem_Solving\\Problem_Solving\\Probem_Solving\\Product Sum\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

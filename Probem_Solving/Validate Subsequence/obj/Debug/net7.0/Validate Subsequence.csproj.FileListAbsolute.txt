@@ -13,3 +13,18 @@ C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Validate S
 C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Validate Subsequence\obj\Debug\net7.0\Validate Subsequence.pdb
 C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Validate Subsequence\obj\Debug\net7.0\Validate Subsequence.genruntimeconfig.cache
 C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Validate Subsequence\obj\Debug\net7.0\ref\Validate Subsequence.dll
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Validate Subsequence\bin\Debug\net7.0\Validate Subsequence.exe
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Validate Subsequence\bin\Debug\net7.0\Validate Subsequence.deps.json
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Validate Subsequence\bin\Debug\net7.0\Validate Subsequence.runtimeconfig.json
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Validate Subsequence\bin\Debug\net7.0\Validate Subsequence.dll
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Validate Subsequence\bin\Debug\net7.0\Validate Subsequence.pdb
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Validate Subsequence\obj\Debug\net7.0\Validate Subsequence.csproj.AssemblyReference.cache
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Validate Subsequence\obj\Debug\net7.0\Validate Subsequence.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Validate Subsequence\obj\Debug\net7.0\Validate Subsequence.AssemblyInfoInputs.cache
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Validate Subsequence\obj\Debug\net7.0\Validate Subsequence.AssemblyInfo.cs
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Validate Subsequence\obj\Debug\net7.0\Validate Subsequence.csproj.CoreCompileInputs.cache
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Validate Subsequence\obj\Debug\net7.0\Validate Subsequence.dll
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Validate Subsequence\obj\Debug\net7.0\refint\Validate Subsequence.dll
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Validate Subsequence\obj\Debug\net7.0\Validate Subsequence.pdb
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Validate Subsequence\obj\Debug\net7.0\Validate Subsequence.genruntimeconfig.cache
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Validate Subsequence\obj\Debug\net7.0\ref\Validate Subsequence.dll

@@ -13,3 +13,18 @@ C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Sorted Squ
 C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Sorted Squared Array\obj\Debug\net7.0\Sorted Squared Array.pdb
 C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Sorted Squared Array\obj\Debug\net7.0\Sorted Squared Array.genruntimeconfig.cache
 C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Sorted Squared Array\obj\Debug\net7.0\ref\Sorted Squared Array.dll
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Sorted Squared Array\bin\Debug\net7.0\Sorted Squared Array.exe
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Sorted Squared Array\bin\Debug\net7.0\Sorted Squared Array.deps.json
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Sorted Squared Array\bin\Debug\net7.0\Sorted Squared Array.runtimeconfig.json
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Sorted Squared Array\bin\Debug\net7.0\Sorted Squared Array.dll
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Sorted Squared Array\bin\Debug\net7.0\Sorted Squared Array.pdb
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Sorted Squared Array\obj\Debug\net7.0\Sorted Squared Array.csproj.AssemblyReference.cache
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Sorted Squared Array\obj\Debug\net7.0\Sorted Squared Array.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Sorted Squared Array\obj\Debug\net7.0\Sorted Squared Array.AssemblyInfoInputs.cache
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Sorted Squared Array\obj\Debug\net7.0\Sorted Squared Array.AssemblyInfo.cs
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Sorted Squared Array\obj\Debug\net7.0\Sorted Squared Array.csproj.CoreCompileInputs.cache
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Sorted Squared Array\obj\Debug\net7.0\Sorted Squared Array.dll
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Sorted Squared Array\obj\Debug\net7.0\refint\Sorted Squared Array.dll
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Sorted Squared Array\obj\Debug\net7.0\Sorted Squared Array.pdb
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Sorted Squared Array\obj\Debug\net7.0\Sorted Squared Array.genruntimeconfig.cache
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Sorted Squared Array\obj\Debug\net7.0\ref\Sorted Squared Array.dll

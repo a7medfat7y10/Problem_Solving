@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Fathy\\Desktop\\Problem_Solving\\Problem_Solving\\Probem_Solving\\Non-Constructible Change\\Non-Constructible Change.csproj": {}
+    "E:\\Courses\\Software Engineering\\MyProjects\\Problem_Solving\\Problem_Solving\\Probem_Solving\\Non-Constructible Change\\Non-Constructible Change.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Fathy\\Desktop\\Problem_Solving\\Problem_Solving\\Probem_Solving\\Non-Constructible Change\\Non-Constructible Change.csproj": {
+    "E:\\Courses\\Software Engineering\\MyProjects\\Problem_Solving\\Problem_Solving\\Probem_Solving\\Non-Constructible Change\\Non-Constructible Change.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Fathy\\Desktop\\Problem_Solving\\Problem_Solving\\Probem_Solving\\Non-Constructible Change\\Non-Constructible Change.csproj",
+        "projectUniqueName": "E:\\Courses\\Software Engineering\\MyProjects\\Problem_Solving\\Problem_Solving\\Probem_Solving\\Non-Constructible Change\\Non-Constructible Change.csproj",
         "projectName": "Non-Constructible Change",
-        "projectPath": "C:\\Users\\Fathy\\Desktop\\Problem_Solving\\Problem_Solving\\Probem_Solving\\Non-Constructible Change\\Non-Constructible Change.csproj",
+        "projectPath": "E:\\Courses\\Software Engineering\\MyProjects\\Problem_Solving\\Problem_Solving\\Probem_Solving\\Non-Constructible Change\\Non-Constructible Change.csproj",
         "packagesPath": "C:\\Users\\Fathy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Fathy\\Desktop\\Problem_Solving\\Problem_Solving\\Probem_Solving\\Non-Constructible Change\\obj\\",
+        "outputPath": "E:\\Courses\\Software Engineering\\MyProjects\\Problem_Solving\\Problem_Solving\\Probem_Solving\\Non-Constructible Change\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

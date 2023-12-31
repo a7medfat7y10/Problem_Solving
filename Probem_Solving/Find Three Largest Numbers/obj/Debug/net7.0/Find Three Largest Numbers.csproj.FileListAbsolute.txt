@@ -1,0 +1,15 @@
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Find Three Largest Numbers\bin\Debug\net7.0\Find Three Largest Numbers.exe
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Find Three Largest Numbers\bin\Debug\net7.0\Find Three Largest Numbers.deps.json
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Find Three Largest Numbers\bin\Debug\net7.0\Find Three Largest Numbers.runtimeconfig.json
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Find Three Largest Numbers\bin\Debug\net7.0\Find Three Largest Numbers.dll
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Find Three Largest Numbers\bin\Debug\net7.0\Find Three Largest Numbers.pdb
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Find Three Largest Numbers\obj\Debug\net7.0\Find Three Largest Numbers.csproj.AssemblyReference.cache
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Find Three Largest Numbers\obj\Debug\net7.0\Find Three Largest Numbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Find Three Largest Numbers\obj\Debug\net7.0\Find Three Largest Numbers.AssemblyInfoInputs.cache
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Find Three Largest Numbers\obj\Debug\net7.0\Find Three Largest Numbers.AssemblyInfo.cs
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Find Three Largest Numbers\obj\Debug\net7.0\Find Three Largest Numbers.csproj.CoreCompileInputs.cache
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Find Three Largest Numbers\obj\Debug\net7.0\Find Three Largest Numbers.dll
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Find Three Largest Numbers\obj\Debug\net7.0\refint\Find Three Largest Numbers.dll
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Find Three Largest Numbers\obj\Debug\net7.0\Find Three Largest Numbers.pdb
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Find Three Largest Numbers\obj\Debug\net7.0\Find Three Largest Numbers.genruntimeconfig.cache
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Find Three Largest Numbers\obj\Debug\net7.0\ref\Find Three Largest Numbers.dll

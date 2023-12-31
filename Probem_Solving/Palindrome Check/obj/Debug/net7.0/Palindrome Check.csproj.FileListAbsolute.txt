@@ -13,3 +13,18 @@ C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Palindrome
 C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Palindrome Check\obj\Debug\net7.0\Palindrome Check.pdb
 C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Palindrome Check\obj\Debug\net7.0\Palindrome Check.genruntimeconfig.cache
 C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Palindrome Check\obj\Debug\net7.0\ref\Palindrome Check.dll
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Palindrome Check\bin\Debug\net7.0\Palindrome Check.exe
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Palindrome Check\bin\Debug\net7.0\Palindrome Check.deps.json
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Palindrome Check\bin\Debug\net7.0\Palindrome Check.runtimeconfig.json
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Palindrome Check\bin\Debug\net7.0\Palindrome Check.dll
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Palindrome Check\bin\Debug\net7.0\Palindrome Check.pdb
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Palindrome Check\obj\Debug\net7.0\Palindrome Check.csproj.AssemblyReference.cache
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Palindrome Check\obj\Debug\net7.0\Palindrome Check.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Palindrome Check\obj\Debug\net7.0\Palindrome Check.AssemblyInfoInputs.cache
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Palindrome Check\obj\Debug\net7.0\Palindrome Check.AssemblyInfo.cs
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Palindrome Check\obj\Debug\net7.0\Palindrome Check.csproj.CoreCompileInputs.cache
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Palindrome Check\obj\Debug\net7.0\Palindrome Check.dll
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Palindrome Check\obj\Debug\net7.0\refint\Palindrome Check.dll
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Palindrome Check\obj\Debug\net7.0\Palindrome Check.pdb
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Palindrome Check\obj\Debug\net7.0\Palindrome Check.genruntimeconfig.cache
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Palindrome Check\obj\Debug\net7.0\ref\Palindrome Check.dll

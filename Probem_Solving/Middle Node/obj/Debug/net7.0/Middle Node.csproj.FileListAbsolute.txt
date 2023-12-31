@@ -13,3 +13,18 @@ C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Middle Nod
 C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Middle Node\obj\Debug\net7.0\Middle Node.pdb
 C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Middle Node\obj\Debug\net7.0\Middle Node.genruntimeconfig.cache
 C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Middle Node\obj\Debug\net7.0\ref\Middle Node.dll
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Middle Node\bin\Debug\net7.0\Middle Node.exe
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Middle Node\bin\Debug\net7.0\Middle Node.deps.json
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Middle Node\bin\Debug\net7.0\Middle Node.runtimeconfig.json
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Middle Node\bin\Debug\net7.0\Middle Node.dll
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Middle Node\bin\Debug\net7.0\Middle Node.pdb
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Middle Node\obj\Debug\net7.0\Middle Node.csproj.AssemblyReference.cache
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Middle Node\obj\Debug\net7.0\Middle Node.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Middle Node\obj\Debug\net7.0\Middle Node.AssemblyInfoInputs.cache
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Middle Node\obj\Debug\net7.0\Middle Node.AssemblyInfo.cs
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Middle Node\obj\Debug\net7.0\Middle Node.csproj.CoreCompileInputs.cache
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Middle Node\obj\Debug\net7.0\Middle Node.dll
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Middle Node\obj\Debug\net7.0\refint\Middle Node.dll
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Middle Node\obj\Debug\net7.0\Middle Node.pdb
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Middle Node\obj\Debug\net7.0\Middle Node.genruntimeconfig.cache
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Middle Node\obj\Debug\net7.0\ref\Middle Node.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Fathy\\Desktop\\Problem_Solving\\Problem_Solving\\Probem_Solving\\Middle Node\\Middle Node.csproj": {}
+    "E:\\Courses\\Software Engineering\\MyProjects\\Problem_Solving\\Problem_Solving\\Probem_Solving\\Middle Node\\Middle Node.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Fathy\\Desktop\\Problem_Solving\\Problem_Solving\\Probem_Solving\\Middle Node\\Middle Node.csproj": {
+    "E:\\Courses\\Software Engineering\\MyProjects\\Problem_Solving\\Problem_Solving\\Probem_Solving\\Middle Node\\Middle Node.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Fathy\\Desktop\\Problem_Solving\\Problem_Solving\\Probem_Solving\\Middle Node\\Middle Node.csproj",
+        "projectUniqueName": "E:\\Courses\\Software Engineering\\MyProjects\\Problem_Solving\\Problem_Solving\\Probem_Solving\\Middle Node\\Middle Node.csproj",
         "projectName": "Middle Node",
-        "projectPath": "C:\\Users\\Fathy\\Desktop\\Problem_Solving\\Problem_Solving\\Probem_Solving\\Middle Node\\Middle Node.csproj",
+        "projectPath": "E:\\Courses\\Software Engineering\\MyProjects\\Problem_Solving\\Problem_Solving\\Probem_Solving\\Middle Node\\Middle Node.csproj",
         "packagesPath": "C:\\Users\\Fathy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Fathy\\Desktop\\Problem_Solving\\Problem_Solving\\Probem_Solving\\Middle Node\\obj\\",
+        "outputPath": "E:\\Courses\\Software Engineering\\MyProjects\\Problem_Solving\\Problem_Solving\\Probem_Solving\\Middle Node\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

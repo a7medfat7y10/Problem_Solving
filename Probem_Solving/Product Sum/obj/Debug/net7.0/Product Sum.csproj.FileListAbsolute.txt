@@ -13,3 +13,18 @@ C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Product Su
 C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Product Sum\obj\Debug\net7.0\Product Sum.pdb
 C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Product Sum\obj\Debug\net7.0\Product Sum.genruntimeconfig.cache
 C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Product Sum\obj\Debug\net7.0\ref\Product Sum.dll
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Product Sum\bin\Debug\net7.0\Product Sum.exe
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Product Sum\bin\Debug\net7.0\Product Sum.deps.json
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Product Sum\bin\Debug\net7.0\Product Sum.runtimeconfig.json
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Product Sum\bin\Debug\net7.0\Product Sum.dll
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Product Sum\bin\Debug\net7.0\Product Sum.pdb
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Product Sum\obj\Debug\net7.0\Product Sum.csproj.AssemblyReference.cache
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Product Sum\obj\Debug\net7.0\Product Sum.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Product Sum\obj\Debug\net7.0\Product Sum.AssemblyInfoInputs.cache
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Product Sum\obj\Debug\net7.0\Product Sum.AssemblyInfo.cs
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Product Sum\obj\Debug\net7.0\Product Sum.csproj.CoreCompileInputs.cache
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Product Sum\obj\Debug\net7.0\Product Sum.dll
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Product Sum\obj\Debug\net7.0\refint\Product Sum.dll
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Product Sum\obj\Debug\net7.0\Product Sum.pdb
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Product Sum\obj\Debug\net7.0\Product Sum.genruntimeconfig.cache
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Product Sum\obj\Debug\net7.0\ref\Product Sum.dll

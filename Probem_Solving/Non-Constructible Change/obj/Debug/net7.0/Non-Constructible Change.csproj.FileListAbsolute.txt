@@ -13,3 +13,18 @@ C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Non-Constr
 C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Non-Constructible Change\obj\Debug\net7.0\Non-Constructible Change.pdb
 C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Non-Constructible Change\obj\Debug\net7.0\Non-Constructible Change.genruntimeconfig.cache
 C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Non-Constructible Change\obj\Debug\net7.0\ref\Non-Constructible Change.dll
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Non-Constructible Change\bin\Debug\net7.0\Non-Constructible Change.exe
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Non-Constructible Change\bin\Debug\net7.0\Non-Constructible Change.deps.json
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Non-Constructible Change\bin\Debug\net7.0\Non-Constructible Change.runtimeconfig.json
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Non-Constructible Change\bin\Debug\net7.0\Non-Constructible Change.dll
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Non-Constructible Change\bin\Debug\net7.0\Non-Constructible Change.pdb
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Non-Constructible Change\obj\Debug\net7.0\Non-Constructible Change.csproj.AssemblyReference.cache
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Non-Constructible Change\obj\Debug\net7.0\Non-Constructible Change.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Non-Constructible Change\obj\Debug\net7.0\Non-Constructible Change.AssemblyInfoInputs.cache
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Non-Constructible Change\obj\Debug\net7.0\Non-Constructible Change.AssemblyInfo.cs
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Non-Constructible Change\obj\Debug\net7.0\Non-Constructible Change.csproj.CoreCompileInputs.cache
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Non-Constructible Change\obj\Debug\net7.0\Non-Constructible Change.dll
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Non-Constructible Change\obj\Debug\net7.0\refint\Non-Constructible Change.dll
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Non-Constructible Change\obj\Debug\net7.0\Non-Constructible Change.pdb
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Non-Constructible Change\obj\Debug\net7.0\Non-Constructible Change.genruntimeconfig.cache
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Non-Constructible Change\obj\Debug\net7.0\ref\Non-Constructible Change.dll

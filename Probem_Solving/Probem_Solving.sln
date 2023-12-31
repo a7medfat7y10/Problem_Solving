@@ -35,15 +35,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Middle Node", "Middle Node\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nth Fibonacci", "Nth Fibonacci\Nth Fibonacci.csproj", "{5548D778-9B56-42C6-8054-0D96A22B5856}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Product Sum", "Product Sum\Product Sum.csproj", "{5E0AC36B-350D-4B25-B9E0-3963E9E4F2F7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Product Sum", "Product Sum\Product Sum.csproj", "{5E0AC36B-350D-4B25-B9E0-3963E9E4F2F7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binary Search", "Binary Search\Binary Search.csproj", "{54FC672B-CC83-4787-AC04-6E7C431E1C51}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Binary Search", "Binary Search\Binary Search.csproj", "{54FC672B-CC83-4787-AC04-6E7C431E1C51}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bubble Sort", "Bubble Sort\Bubble Sort.csproj", "{9EE228F9-922C-400D-B87A-FBBA3D4B9959}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bubble Sort", "Bubble Sort\Bubble Sort.csproj", "{9EE228F9-922C-400D-B87A-FBBA3D4B9959}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Insertion Sort", "Insertion Sort\Insertion Sort.csproj", "{083E92AD-C0F6-4A97-BFB9-399BE9F1D220}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Insertion Sort", "Insertion Sort\Insertion Sort.csproj", "{083E92AD-C0F6-4A97-BFB9-399BE9F1D220}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Selection Sort", "Selection Sort\Selection Sort.csproj", "{337576A0-BC5B-4CC0-8550-DFF625F4E443}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Selection Sort", "Selection Sort\Selection Sort.csproj", "{337576A0-BC5B-4CC0-8550-DFF625F4E443}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find Three Largest Numbers", "Find Three Largest Numbers\Find Three Largest Numbers.csproj", "{BA5064FB-272F-405E-A457-C7BA1CD40BEB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -135,6 +137,10 @@ Global
 		{337576A0-BC5B-4CC0-8550-DFF625F4E443}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{337576A0-BC5B-4CC0-8550-DFF625F4E443}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{337576A0-BC5B-4CC0-8550-DFF625F4E443}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA5064FB-272F-405E-A457-C7BA1CD40BEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA5064FB-272F-405E-A457-C7BA1CD40BEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA5064FB-272F-405E-A457-C7BA1CD40BEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA5064FB-272F-405E-A457-C7BA1CD40BEB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

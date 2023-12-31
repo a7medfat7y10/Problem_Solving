@@ -13,3 +13,18 @@ C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Transpose 
 C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Transpose Matrix\obj\Debug\net7.0\Transpose Matrix.pdb
 C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Transpose Matrix\obj\Debug\net7.0\Transpose Matrix.genruntimeconfig.cache
 C:\Users\Fathy\Desktop\Problem_Solving\Problem_Solving\Probem_Solving\Transpose Matrix\obj\Debug\net7.0\ref\Transpose Matrix.dll
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Transpose Matrix\bin\Debug\net7.0\Transpose Matrix.exe
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Transpose Matrix\bin\Debug\net7.0\Transpose Matrix.deps.json
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Transpose Matrix\bin\Debug\net7.0\Transpose Matrix.runtimeconfig.json
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Transpose Matrix\bin\Debug\net7.0\Transpose Matrix.dll
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Transpose Matrix\bin\Debug\net7.0\Transpose Matrix.pdb
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Transpose Matrix\obj\Debug\net7.0\Transpose Matrix.csproj.AssemblyReference.cache
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Transpose Matrix\obj\Debug\net7.0\Transpose Matrix.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Transpose Matrix\obj\Debug\net7.0\Transpose Matrix.AssemblyInfoInputs.cache
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Transpose Matrix\obj\Debug\net7.0\Transpose Matrix.AssemblyInfo.cs
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Transpose Matrix\obj\Debug\net7.0\Transpose Matrix.csproj.CoreCompileInputs.cache
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Transpose Matrix\obj\Debug\net7.0\Transpose Matrix.dll
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Transpose Matrix\obj\Debug\net7.0\refint\Transpose Matrix.dll
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Transpose Matrix\obj\Debug\net7.0\Transpose Matrix.pdb
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Transpose Matrix\obj\Debug\net7.0\Transpose Matrix.genruntimeconfig.cache
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Transpose Matrix\obj\Debug\net7.0\ref\Transpose Matrix.dll
