@@ -1,0 +1,15 @@
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Evaluate Expression Tree\bin\Debug\net7.0\Evaluate Expression Tree.exe
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Evaluate Expression Tree\bin\Debug\net7.0\Evaluate Expression Tree.deps.json
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Evaluate Expression Tree\bin\Debug\net7.0\Evaluate Expression Tree.runtimeconfig.json
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Evaluate Expression Tree\bin\Debug\net7.0\Evaluate Expression Tree.dll
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Evaluate Expression Tree\bin\Debug\net7.0\Evaluate Expression Tree.pdb
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Evaluate Expression Tree\obj\Debug\net7.0\Evaluate Expression Tree.csproj.AssemblyReference.cache
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Evaluate Expression Tree\obj\Debug\net7.0\Evaluate Expression Tree.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Evaluate Expression Tree\obj\Debug\net7.0\Evaluate Expression Tree.AssemblyInfoInputs.cache
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Evaluate Expression Tree\obj\Debug\net7.0\Evaluate Expression Tree.AssemblyInfo.cs
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Evaluate Expression Tree\obj\Debug\net7.0\Evaluate Expression Tree.csproj.CoreCompileInputs.cache
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Evaluate Expression Tree\obj\Debug\net7.0\Evaluate Expression Tree.dll
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Evaluate Expression Tree\obj\Debug\net7.0\refint\Evaluate Expression Tree.dll
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Evaluate Expression Tree\obj\Debug\net7.0\Evaluate Expression Tree.pdb
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Evaluate Expression Tree\obj\Debug\net7.0\Evaluate Expression Tree.genruntimeconfig.cache
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Evaluate Expression Tree\obj\Debug\net7.0\ref\Evaluate Expression Tree.dll
