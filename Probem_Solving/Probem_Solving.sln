@@ -57,6 +57,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Evaluate Expression Tree", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minimum Waiting Time", "Minimum Waiting Time\Minimum Waiting Time.csproj", "{41E0631D-4A83-405B-856A-C6C3776DCF75}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class Photos", "Class Photos\Class Photos.csproj", "{4978F705-ED58-4A8B-9A5A-5A1586D1F351}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -171,6 +173,10 @@ Global
 		{41E0631D-4A83-405B-856A-C6C3776DCF75}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{41E0631D-4A83-405B-856A-C6C3776DCF75}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{41E0631D-4A83-405B-856A-C6C3776DCF75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4978F705-ED58-4A8B-9A5A-5A1586D1F351}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4978F705-ED58-4A8B-9A5A-5A1586D1F351}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4978F705-ED58-4A8B-9A5A-5A1586D1F351}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4978F705-ED58-4A8B-9A5A-5A1586D1F351}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
