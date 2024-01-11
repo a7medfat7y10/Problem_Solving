@@ -8,6 +8,7 @@
             int[] blue = new int[] { 7, 2, 3, 9, 3 };
             Console.WriteLine(TandemBicycle(red, blue, true));
         }
+        //O(nlog(n)) time / O(1) space
         public static int TandemBicycle(int[] redShirtSpeeds, int[] blueShirtSpeeds, bool fastest)
         {
             Array.Sort(redShirtSpeeds);
