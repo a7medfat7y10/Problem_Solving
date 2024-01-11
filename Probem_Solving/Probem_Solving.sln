@@ -47,13 +47,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Selection Sort", "Selection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Find Three Largest Numbers", "Find Three Largest Numbers\Find Three Largest Numbers.csproj", "{BA5064FB-272F-405E-A457-C7BA1CD40BEB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find Closest Value In BST", "Find Closest Value In BST\Find Closest Value In BST.csproj", "{D4E5227D-AADE-4553-8116-55B5648055C8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Find Closest Value In BST", "Find Closest Value In BST\Find Closest Value In BST.csproj", "{D4E5227D-AADE-4553-8116-55B5648055C8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Branch Sums", "Branch Sums\Branch Sums.csproj", "{7DAAB984-33D2-4029-AADA-8D9B84D52E18}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Branch Sums", "Branch Sums\Branch Sums.csproj", "{7DAAB984-33D2-4029-AADA-8D9B84D52E18}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Node Depths", "Node Depths\Node Depths.csproj", "{E9030245-79C4-4629-AAA7-D66788679ED0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Node Depths", "Node Depths\Node Depths.csproj", "{E9030245-79C4-4629-AAA7-D66788679ED0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Evaluate Expression Tree", "Evaluate Expression Tree\Evaluate Expression Tree.csproj", "{04D237A8-B075-4B26-9D66-9E57E38A7686}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Evaluate Expression Tree", "Evaluate Expression Tree\Evaluate Expression Tree.csproj", "{04D237A8-B075-4B26-9D66-9E57E38A7686}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minimum Waiting Time", "Minimum Waiting Time\Minimum Waiting Time.csproj", "{41E0631D-4A83-405B-856A-C6C3776DCF75}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -165,6 +167,10 @@ Global
 		{04D237A8-B075-4B26-9D66-9E57E38A7686}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{04D237A8-B075-4B26-9D66-9E57E38A7686}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{04D237A8-B075-4B26-9D66-9E57E38A7686}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41E0631D-4A83-405B-856A-C6C3776DCF75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41E0631D-4A83-405B-856A-C6C3776DCF75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41E0631D-4A83-405B-856A-C6C3776DCF75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41E0631D-4A83-405B-856A-C6C3776DCF75}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

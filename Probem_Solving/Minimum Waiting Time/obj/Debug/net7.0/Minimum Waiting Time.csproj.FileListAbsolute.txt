@@ -1,0 +1,15 @@
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Minimum Waiting Time\bin\Debug\net7.0\Minimum Waiting Time.exe
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Minimum Waiting Time\bin\Debug\net7.0\Minimum Waiting Time.deps.json
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Minimum Waiting Time\bin\Debug\net7.0\Minimum Waiting Time.runtimeconfig.json
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Minimum Waiting Time\bin\Debug\net7.0\Minimum Waiting Time.dll
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Minimum Waiting Time\bin\Debug\net7.0\Minimum Waiting Time.pdb
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Minimum Waiting Time\obj\Debug\net7.0\Minimum Waiting Time.csproj.AssemblyReference.cache
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Minimum Waiting Time\obj\Debug\net7.0\Minimum Waiting Time.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Minimum Waiting Time\obj\Debug\net7.0\Minimum Waiting Time.AssemblyInfoInputs.cache
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Minimum Waiting Time\obj\Debug\net7.0\Minimum Waiting Time.AssemblyInfo.cs
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Minimum Waiting Time\obj\Debug\net7.0\Minimum Waiting Time.csproj.CoreCompileInputs.cache
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Minimum Waiting Time\obj\Debug\net7.0\Minimum Waiting Time.dll
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Minimum Waiting Time\obj\Debug\net7.0\refint\Minimum Waiting Time.dll
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Minimum Waiting Time\obj\Debug\net7.0\Minimum Waiting Time.pdb
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Minimum Waiting Time\obj\Debug\net7.0\Minimum Waiting Time.genruntimeconfig.cache
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Minimum Waiting Time\obj\Debug\net7.0\ref\Minimum Waiting Time.dll
