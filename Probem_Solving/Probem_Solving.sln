@@ -61,6 +61,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class Photos", "Class Photo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tandem Bicycle", "Tandem Bicycle\Tandem Bicycle.csproj", "{35263CB4-0E6D-406B-AB8F-4F0FFEF3C8C5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Optimal Freelancing", "Optimal Freelancing\Optimal Freelancing.csproj", "{3B0BD7BD-FFB8-4656-89BB-D2DAFF2E3DEC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -183,6 +185,10 @@ Global
 		{35263CB4-0E6D-406B-AB8F-4F0FFEF3C8C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{35263CB4-0E6D-406B-AB8F-4F0FFEF3C8C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{35263CB4-0E6D-406B-AB8F-4F0FFEF3C8C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B0BD7BD-FFB8-4656-89BB-D2DAFF2E3DEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B0BD7BD-FFB8-4656-89BB-D2DAFF2E3DEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B0BD7BD-FFB8-4656-89BB-D2DAFF2E3DEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B0BD7BD-FFB8-4656-89BB-D2DAFF2E3DEC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
