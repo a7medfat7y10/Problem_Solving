@@ -55,21 +55,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Node Depths", "Node Depths\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Evaluate Expression Tree", "Evaluate Expression Tree\Evaluate Expression Tree.csproj", "{04D237A8-B075-4B26-9D66-9E57E38A7686}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minimum Waiting Time", "Minimum Waiting Time\Minimum Waiting Time.csproj", "{41E0631D-4A83-405B-856A-C6C3776DCF75}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Minimum Waiting Time", "Minimum Waiting Time\Minimum Waiting Time.csproj", "{41E0631D-4A83-405B-856A-C6C3776DCF75}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class Photos", "Class Photos\Class Photos.csproj", "{4978F705-ED58-4A8B-9A5A-5A1586D1F351}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Class Photos", "Class Photos\Class Photos.csproj", "{4978F705-ED58-4A8B-9A5A-5A1586D1F351}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tandem Bicycle", "Tandem Bicycle\Tandem Bicycle.csproj", "{35263CB4-0E6D-406B-AB8F-4F0FFEF3C8C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tandem Bicycle", "Tandem Bicycle\Tandem Bicycle.csproj", "{35263CB4-0E6D-406B-AB8F-4F0FFEF3C8C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Optimal Freelancing", "Optimal Freelancing\Optimal Freelancing.csproj", "{3B0BD7BD-FFB8-4656-89BB-D2DAFF2E3DEC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Optimal Freelancing", "Optimal Freelancing\Optimal Freelancing.csproj", "{3B0BD7BD-FFB8-4656-89BB-D2DAFF2E3DEC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Depth-first Search", "Depth-first Search\Depth-first Search.csproj", "{4554DAA3-68C4-45A6-B808-AF715C80EA95}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Depth-first Search", "Depth-first Search\Depth-first Search.csproj", "{4554DAA3-68C4-45A6-B808-AF715C80EA95}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Breadth-first Search", "Breadth-first Search\Breadth-first Search.csproj", "{2CA2F77B-9F9C-4B96-ADAF-41B675218DDF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Breadth-first Search", "Breadth-first Search\Breadth-first Search.csproj", "{2CA2F77B-9F9C-4B96-ADAF-41B675218DDF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Merge Sort", "Merge Sort\Merge Sort.csproj", "{07462100-2554-4B72-91D8-92345CF83160}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Merge Sort", "Merge Sort\Merge Sort.csproj", "{07462100-2554-4B72-91D8-92345CF83160}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quick Sort", "Quick Sort\Quick Sort.csproj", "{FDDF1E49-4550-43B1-B2AC-E0AE4B745E04}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Quick Sort", "Quick Sort\Quick Sort.csproj", "{FDDF1E49-4550-43B1-B2AC-E0AE4B745E04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Three Number Sum", "Three Number Sum\Three Number Sum.csproj", "{33B22E2A-EDD8-47FC-A803-217DD20AAB9D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -213,6 +215,10 @@ Global
 		{FDDF1E49-4550-43B1-B2AC-E0AE4B745E04}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FDDF1E49-4550-43B1-B2AC-E0AE4B745E04}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FDDF1E49-4550-43B1-B2AC-E0AE4B745E04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33B22E2A-EDD8-47FC-A803-217DD20AAB9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33B22E2A-EDD8-47FC-A803-217DD20AAB9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33B22E2A-EDD8-47FC-A803-217DD20AAB9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33B22E2A-EDD8-47FC-A803-217DD20AAB9D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
