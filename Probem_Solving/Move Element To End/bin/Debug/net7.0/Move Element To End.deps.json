@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Move Element To End/1.0.0": {
+        "runtime": {
+          "Move Element To End.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Move Element To End/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
