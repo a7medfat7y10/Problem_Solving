@@ -6,6 +6,7 @@
         {
             Console.WriteLine(LongestPeak(new int[] {2,4,5,6,8,4,3}));
         }
+        //O(n) time / O(1) space
         public static int LongestPeak(int[] array)
         {
             // Write your code here.
