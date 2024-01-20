@@ -1,0 +1,15 @@
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\First Duplicate Value\bin\Debug\net7.0\First Duplicate Value.exe
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\First Duplicate Value\bin\Debug\net7.0\First Duplicate Value.deps.json
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\First Duplicate Value\bin\Debug\net7.0\First Duplicate Value.runtimeconfig.json
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\First Duplicate Value\bin\Debug\net7.0\First Duplicate Value.dll
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\First Duplicate Value\bin\Debug\net7.0\First Duplicate Value.pdb
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\First Duplicate Value\obj\Debug\net7.0\First Duplicate Value.csproj.AssemblyReference.cache
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\First Duplicate Value\obj\Debug\net7.0\First Duplicate Value.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\First Duplicate Value\obj\Debug\net7.0\First Duplicate Value.AssemblyInfoInputs.cache
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\First Duplicate Value\obj\Debug\net7.0\First Duplicate Value.AssemblyInfo.cs
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\First Duplicate Value\obj\Debug\net7.0\First Duplicate Value.csproj.CoreCompileInputs.cache
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\First Duplicate Value\obj\Debug\net7.0\First Duplicate Value.dll
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\First Duplicate Value\obj\Debug\net7.0\refint\First Duplicate Value.dll
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\First Duplicate Value\obj\Debug\net7.0\First Duplicate Value.pdb
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\First Duplicate Value\obj\Debug\net7.0\First Duplicate Value.genruntimeconfig.cache
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\First Duplicate Value\obj\Debug\net7.0\ref\First Duplicate Value.dll
