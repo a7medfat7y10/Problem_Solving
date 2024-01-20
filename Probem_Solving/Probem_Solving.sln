@@ -71,17 +71,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Merge Sort", "Merge Sort\Me
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Quick Sort", "Quick Sort\Quick Sort.csproj", "{FDDF1E49-4550-43B1-B2AC-E0AE4B745E04}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Three Number Sum", "Three Number Sum\Three Number Sum.csproj", "{33B22E2A-EDD8-47FC-A803-217DD20AAB9D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Three Number Sum", "Three Number Sum\Three Number Sum.csproj", "{33B22E2A-EDD8-47FC-A803-217DD20AAB9D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smallest Difference", "Smallest Difference\Smallest Difference.csproj", "{CE9DE14A-0355-4C12-A240-DF258708D7E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Smallest Difference", "Smallest Difference\Smallest Difference.csproj", "{CE9DE14A-0355-4C12-A240-DF258708D7E4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Move Element To End", "Move Element To End\Move Element To End.csproj", "{CDD3CB89-92D0-443D-8532-E38B1DEBE5C8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Move Element To End", "Move Element To End\Move Element To End.csproj", "{CDD3CB89-92D0-443D-8532-E38B1DEBE5C8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Three Number Sort", "Three Number Sort\Three Number Sort.csproj", "{1831238B-50C4-4A30-8927-82A276491576}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Three Number Sort", "Three Number Sort\Three Number Sort.csproj", "{1831238B-50C4-4A30-8927-82A276491576}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monotonic Array", "Monotonic Array\Monotonic Array.csproj", "{CB2EC0CA-3168-4B48-9439-2A6C994DDD48}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Monotonic Array", "Monotonic Array\Monotonic Array.csproj", "{CB2EC0CA-3168-4B48-9439-2A6C994DDD48}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spiral Traverse", "Spiral Traverse\Spiral Traverse.csproj", "{513CB48A-5BF0-4667-B0D2-1855AB8ECC6B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Spiral Traverse", "Spiral Traverse\Spiral Traverse.csproj", "{513CB48A-5BF0-4667-B0D2-1855AB8ECC6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Longest Peak", "longest Peak\Longest Peak.csproj", "{460E6608-44F6-49CA-9330-5DC9D4664263}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -249,6 +251,10 @@ Global
 		{513CB48A-5BF0-4667-B0D2-1855AB8ECC6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{513CB48A-5BF0-4667-B0D2-1855AB8ECC6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{513CB48A-5BF0-4667-B0D2-1855AB8ECC6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{460E6608-44F6-49CA-9330-5DC9D4664263}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{460E6608-44F6-49CA-9330-5DC9D4664263}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{460E6608-44F6-49CA-9330-5DC9D4664263}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{460E6608-44F6-49CA-9330-5DC9D4664263}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
