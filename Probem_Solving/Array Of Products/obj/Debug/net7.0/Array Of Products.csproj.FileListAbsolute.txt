@@ -1,0 +1,15 @@
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Array Of Products\bin\Debug\net7.0\Array Of Products.exe
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Array Of Products\bin\Debug\net7.0\Array Of Products.deps.json
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Array Of Products\bin\Debug\net7.0\Array Of Products.runtimeconfig.json
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Array Of Products\bin\Debug\net7.0\Array Of Products.dll
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Array Of Products\bin\Debug\net7.0\Array Of Products.pdb
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Array Of Products\obj\Debug\net7.0\Array Of Products.csproj.AssemblyReference.cache
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Array Of Products\obj\Debug\net7.0\Array Of Products.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Array Of Products\obj\Debug\net7.0\Array Of Products.AssemblyInfoInputs.cache
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Array Of Products\obj\Debug\net7.0\Array Of Products.AssemblyInfo.cs
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Array Of Products\obj\Debug\net7.0\Array Of Products.csproj.CoreCompileInputs.cache
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Array Of Products\obj\Debug\net7.0\Array Of Products.dll
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Array Of Products\obj\Debug\net7.0\refint\Array Of Products.dll
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Array Of Products\obj\Debug\net7.0\Array Of Products.pdb
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Array Of Products\obj\Debug\net7.0\Array Of Products.genruntimeconfig.cache
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Array Of Products\obj\Debug\net7.0\ref\Array Of Products.dll
