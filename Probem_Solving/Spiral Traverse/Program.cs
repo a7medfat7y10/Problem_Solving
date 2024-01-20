@@ -14,6 +14,7 @@
                 Console.WriteLine(i);
             }
         }
+        //O(n) time /O(n) space : n is the total number of elements in the array
         public static List<int> SpiralTraverse(int[,] array)
         {
             // Write your code here.
