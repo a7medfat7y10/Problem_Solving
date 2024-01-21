@@ -6,6 +6,7 @@
         {
             MergeOverlappingIntervals(new int[][] {new int[] { 1, 2 }, new int[] { 3, 5 }, new int[] { 4, 9 } });
         }
+        //O(nlog(n)) time / O(n) space
         public static int[][] MergeOverlappingIntervals(int[][] intervals)
         {
             // Write your code here.
