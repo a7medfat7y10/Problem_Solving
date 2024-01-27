@@ -97,6 +97,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zero Sum Subarray", "Zero S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Missing Numbers", "Missing Numbers\Missing Numbers.csproj", "{A56D1566-8AEA-440B-BBD5-A319D9CC2766}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Majority Element", "Majority Element\Majority Element.csproj", "{100D74DD-4A07-4623-95D6-1CFC7ACF4F8F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -291,6 +293,10 @@ Global
 		{A56D1566-8AEA-440B-BBD5-A319D9CC2766}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A56D1566-8AEA-440B-BBD5-A319D9CC2766}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A56D1566-8AEA-440B-BBD5-A319D9CC2766}.Release|Any CPU.Build.0 = Release|Any CPU
+		{100D74DD-4A07-4623-95D6-1CFC7ACF4F8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{100D74DD-4A07-4623-95D6-1CFC7ACF4F8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{100D74DD-4A07-4623-95D6-1CFC7ACF4F8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{100D74DD-4A07-4623-95D6-1CFC7ACF4F8F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
