@@ -1,0 +1,15 @@
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Sweet And Savory\bin\Debug\net7.0\Sweet And Savory.exe
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Sweet And Savory\bin\Debug\net7.0\Sweet And Savory.deps.json
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Sweet And Savory\bin\Debug\net7.0\Sweet And Savory.runtimeconfig.json
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Sweet And Savory\bin\Debug\net7.0\Sweet And Savory.dll
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Sweet And Savory\bin\Debug\net7.0\Sweet And Savory.pdb
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Sweet And Savory\obj\Debug\net7.0\Sweet And Savory.csproj.AssemblyReference.cache
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Sweet And Savory\obj\Debug\net7.0\Sweet And Savory.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Sweet And Savory\obj\Debug\net7.0\Sweet And Savory.AssemblyInfoInputs.cache
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Sweet And Savory\obj\Debug\net7.0\Sweet And Savory.AssemblyInfo.cs
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Sweet And Savory\obj\Debug\net7.0\Sweet And Savory.csproj.CoreCompileInputs.cache
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Sweet And Savory\obj\Debug\net7.0\Sweet And Savory.dll
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Sweet And Savory\obj\Debug\net7.0\refint\Sweet And Savory.dll
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Sweet And Savory\obj\Debug\net7.0\Sweet And Savory.pdb
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Sweet And Savory\obj\Debug\net7.0\Sweet And Savory.genruntimeconfig.cache
+E:\Courses\Software Engineering\MyProjects\Problem_Solving\Problem_Solving\Probem_Solving\Sweet And Savory\obj\Debug\net7.0\ref\Sweet And Savory.dll

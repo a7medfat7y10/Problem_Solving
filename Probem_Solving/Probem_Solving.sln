@@ -91,13 +91,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "First Duplicate Value", "Fi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Merge Overlapping Intervals", "Merge Overlapping Intervals\Merge Overlapping Intervals.csproj", "{11354B4F-A089-47D8-8330-8250294A45C9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beat Seat", "Beat Seat\Beat Seat.csproj", "{D1011F6A-C723-466C-B736-2E3D3183A126}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Beat Seat", "Beat Seat\Beat Seat.csproj", "{D1011F6A-C723-466C-B736-2E3D3183A126}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zero Sum Subarray", "Zero Sum Subarray\Zero Sum Subarray.csproj", "{48A55E60-1E8C-45E2-A156-11AA0A98297A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zero Sum Subarray", "Zero Sum Subarray\Zero Sum Subarray.csproj", "{48A55E60-1E8C-45E2-A156-11AA0A98297A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Missing Numbers", "Missing Numbers\Missing Numbers.csproj", "{A56D1566-8AEA-440B-BBD5-A319D9CC2766}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Missing Numbers", "Missing Numbers\Missing Numbers.csproj", "{A56D1566-8AEA-440B-BBD5-A319D9CC2766}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Majority Element", "Majority Element\Majority Element.csproj", "{100D74DD-4A07-4623-95D6-1CFC7ACF4F8F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Majority Element", "Majority Element\Majority Element.csproj", "{100D74DD-4A07-4623-95D6-1CFC7ACF4F8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sweet And Savory", "Sweet And Savory\Sweet And Savory.csproj", "{18133277-892D-4E94-B9A0-E9B9B5B39BAA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -297,6 +299,10 @@ Global
 		{100D74DD-4A07-4623-95D6-1CFC7ACF4F8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{100D74DD-4A07-4623-95D6-1CFC7ACF4F8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{100D74DD-4A07-4623-95D6-1CFC7ACF4F8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18133277-892D-4E94-B9A0-E9B9B5B39BAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18133277-892D-4E94-B9A0-E9B9B5B39BAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18133277-892D-4E94-B9A0-E9B9B5B39BAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18133277-892D-4E94-B9A0-E9B9B5B39BAA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
