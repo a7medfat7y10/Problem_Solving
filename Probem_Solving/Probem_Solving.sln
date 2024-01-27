@@ -95,6 +95,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beat Seat", "Beat Seat\Beat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zero Sum Subarray", "Zero Sum Subarray\Zero Sum Subarray.csproj", "{48A55E60-1E8C-45E2-A156-11AA0A98297A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Missing Numbers", "Missing Numbers\Missing Numbers.csproj", "{A56D1566-8AEA-440B-BBD5-A319D9CC2766}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -285,6 +287,10 @@ Global
 		{48A55E60-1E8C-45E2-A156-11AA0A98297A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{48A55E60-1E8C-45E2-A156-11AA0A98297A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{48A55E60-1E8C-45E2-A156-11AA0A98297A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A56D1566-8AEA-440B-BBD5-A319D9CC2766}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A56D1566-8AEA-440B-BBD5-A319D9CC2766}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A56D1566-8AEA-440B-BBD5-A319D9CC2766}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A56D1566-8AEA-440B-BBD5-A319D9CC2766}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
