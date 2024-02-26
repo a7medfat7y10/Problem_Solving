@@ -1,0 +1,15 @@
+D:\Repos\Problem_Solving\Probem_Solving\Group Anagrams\bin\Debug\net7.0\Group Anagrams.exe
+D:\Repos\Problem_Solving\Probem_Solving\Group Anagrams\bin\Debug\net7.0\Group Anagrams.deps.json
+D:\Repos\Problem_Solving\Probem_Solving\Group Anagrams\bin\Debug\net7.0\Group Anagrams.runtimeconfig.json
+D:\Repos\Problem_Solving\Probem_Solving\Group Anagrams\bin\Debug\net7.0\Group Anagrams.dll
+D:\Repos\Problem_Solving\Probem_Solving\Group Anagrams\bin\Debug\net7.0\Group Anagrams.pdb
+D:\Repos\Problem_Solving\Probem_Solving\Group Anagrams\obj\Debug\net7.0\Group Anagrams.csproj.AssemblyReference.cache
+D:\Repos\Problem_Solving\Probem_Solving\Group Anagrams\obj\Debug\net7.0\Group Anagrams.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Problem_Solving\Probem_Solving\Group Anagrams\obj\Debug\net7.0\Group Anagrams.AssemblyInfoInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\Group Anagrams\obj\Debug\net7.0\Group Anagrams.AssemblyInfo.cs
+D:\Repos\Problem_Solving\Probem_Solving\Group Anagrams\obj\Debug\net7.0\Group Anagrams.csproj.CoreCompileInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\Group Anagrams\obj\Debug\net7.0\Group Anagrams.dll
+D:\Repos\Problem_Solving\Probem_Solving\Group Anagrams\obj\Debug\net7.0\refint\Group Anagrams.dll
+D:\Repos\Problem_Solving\Probem_Solving\Group Anagrams\obj\Debug\net7.0\Group Anagrams.pdb
+D:\Repos\Problem_Solving\Probem_Solving\Group Anagrams\obj\Debug\net7.0\Group Anagrams.genruntimeconfig.cache
+D:\Repos\Problem_Solving\Probem_Solving\Group Anagrams\obj\Debug\net7.0\ref\Group Anagrams.dll
