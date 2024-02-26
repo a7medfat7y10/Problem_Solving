@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Courses\\Software Engineering\\MyProjects\\Problem_Solving\\Problem_Solving\\Probem_Solving\\Sweet And Savory\\Sweet And Savory.csproj": {}
+    "D:\\Repos\\Problem_Solving\\Probem_Solving\\Sweet And Savory\\Sweet And Savory.csproj": {}
   },
   "projects": {
-    "E:\\Courses\\Software Engineering\\MyProjects\\Problem_Solving\\Problem_Solving\\Probem_Solving\\Sweet And Savory\\Sweet And Savory.csproj": {
+    "D:\\Repos\\Problem_Solving\\Probem_Solving\\Sweet And Savory\\Sweet And Savory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Courses\\Software Engineering\\MyProjects\\Problem_Solving\\Problem_Solving\\Probem_Solving\\Sweet And Savory\\Sweet And Savory.csproj",
+        "projectUniqueName": "D:\\Repos\\Problem_Solving\\Probem_Solving\\Sweet And Savory\\Sweet And Savory.csproj",
         "projectName": "Sweet And Savory",
-        "projectPath": "E:\\Courses\\Software Engineering\\MyProjects\\Problem_Solving\\Problem_Solving\\Probem_Solving\\Sweet And Savory\\Sweet And Savory.csproj",
+        "projectPath": "D:\\Repos\\Problem_Solving\\Probem_Solving\\Sweet And Savory\\Sweet And Savory.csproj",
         "packagesPath": "C:\\Users\\Fathy\\.nuget\\packages\\",
-        "outputPath": "E:\\Courses\\Software Engineering\\MyProjects\\Problem_Solving\\Problem_Solving\\Probem_Solving\\Sweet And Savory\\obj\\",
+        "outputPath": "D:\\Repos\\Problem_Solving\\Probem_Solving\\Sweet And Savory\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Courses\\Software Engineering\\MyProjects\\Problem_Solving\\Problem_Solving\\Probem_Solving\\Move Element To End\\Move Element To End.csproj": {}
+    "D:\\Repos\\Problem_Solving\\Probem_Solving\\Move Element To End\\Move Element To End.csproj": {}
   },
   "projects": {
-    "E:\\Courses\\Software Engineering\\MyProjects\\Problem_Solving\\Problem_Solving\\Probem_Solving\\Move Element To End\\Move Element To End.csproj": {
+    "D:\\Repos\\Problem_Solving\\Probem_Solving\\Move Element To End\\Move Element To End.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Courses\\Software Engineering\\MyProjects\\Problem_Solving\\Problem_Solving\\Probem_Solving\\Move Element To End\\Move Element To End.csproj",
+        "projectUniqueName": "D:\\Repos\\Problem_Solving\\Probem_Solving\\Move Element To End\\Move Element To End.csproj",
         "projectName": "Move Element To End",
-        "projectPath": "E:\\Courses\\Software Engineering\\MyProjects\\Problem_Solving\\Problem_Solving\\Probem_Solving\\Move Element To End\\Move Element To End.csproj",
+        "projectPath": "D:\\Repos\\Problem_Solving\\Probem_Solving\\Move Element To End\\Move Element To End.csproj",
         "packagesPath": "C:\\Users\\Fathy\\.nuget\\packages\\",
-        "outputPath": "E:\\Courses\\Software Engineering\\MyProjects\\Problem_Solving\\Problem_Solving\\Probem_Solving\\Move Element To End\\obj\\",
+        "outputPath": "D:\\Repos\\Problem_Solving\\Probem_Solving\\Move Element To End\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

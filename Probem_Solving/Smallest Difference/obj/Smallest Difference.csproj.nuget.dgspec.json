@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Courses\\Software Engineering\\MyProjects\\Problem_Solving\\Problem_Solving\\Probem_Solving\\Smallest Difference\\Smallest Difference.csproj": {}
+    "D:\\Repos\\Problem_Solving\\Probem_Solving\\Smallest Difference\\Smallest Difference.csproj": {}
   },
   "projects": {
-    "E:\\Courses\\Software Engineering\\MyProjects\\Problem_Solving\\Problem_Solving\\Probem_Solving\\Smallest Difference\\Smallest Difference.csproj": {
+    "D:\\Repos\\Problem_Solving\\Probem_Solving\\Smallest Difference\\Smallest Difference.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Courses\\Software Engineering\\MyProjects\\Problem_Solving\\Problem_Solving\\Probem_Solving\\Smallest Difference\\Smallest Difference.csproj",
+        "projectUniqueName": "D:\\Repos\\Problem_Solving\\Probem_Solving\\Smallest Difference\\Smallest Difference.csproj",
         "projectName": "Smallest Difference",
-        "projectPath": "E:\\Courses\\Software Engineering\\MyProjects\\Problem_Solving\\Problem_Solving\\Probem_Solving\\Smallest Difference\\Smallest Difference.csproj",
+        "projectPath": "D:\\Repos\\Problem_Solving\\Probem_Solving\\Smallest Difference\\Smallest Difference.csproj",
         "packagesPath": "C:\\Users\\Fathy\\.nuget\\packages\\",
-        "outputPath": "E:\\Courses\\Software Engineering\\MyProjects\\Problem_Solving\\Problem_Solving\\Probem_Solving\\Smallest Difference\\obj\\",
+        "outputPath": "D:\\Repos\\Problem_Solving\\Probem_Solving\\Smallest Difference\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

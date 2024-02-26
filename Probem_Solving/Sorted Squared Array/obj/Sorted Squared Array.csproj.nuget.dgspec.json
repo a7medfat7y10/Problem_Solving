@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Courses\\Software Engineering\\MyProjects\\Problem_Solving\\Problem_Solving\\Probem_Solving\\Sorted Squared Array\\Sorted Squared Array.csproj": {}
+    "D:\\Repos\\Problem_Solving\\Probem_Solving\\Sorted Squared Array\\Sorted Squared Array.csproj": {}
   },
   "projects": {
-    "E:\\Courses\\Software Engineering\\MyProjects\\Problem_Solving\\Problem_Solving\\Probem_Solving\\Sorted Squared Array\\Sorted Squared Array.csproj": {
+    "D:\\Repos\\Problem_Solving\\Probem_Solving\\Sorted Squared Array\\Sorted Squared Array.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Courses\\Software Engineering\\MyProjects\\Problem_Solving\\Problem_Solving\\Probem_Solving\\Sorted Squared Array\\Sorted Squared Array.csproj",
+        "projectUniqueName": "D:\\Repos\\Problem_Solving\\Probem_Solving\\Sorted Squared Array\\Sorted Squared Array.csproj",
         "projectName": "Sorted Squared Array",
-        "projectPath": "E:\\Courses\\Software Engineering\\MyProjects\\Problem_Solving\\Problem_Solving\\Probem_Solving\\Sorted Squared Array\\Sorted Squared Array.csproj",
+        "projectPath": "D:\\Repos\\Problem_Solving\\Probem_Solving\\Sorted Squared Array\\Sorted Squared Array.csproj",
         "packagesPath": "C:\\Users\\Fathy\\.nuget\\packages\\",
-        "outputPath": "E:\\Courses\\Software Engineering\\MyProjects\\Problem_Solving\\Problem_Solving\\Probem_Solving\\Sorted Squared Array\\obj\\",
+        "outputPath": "D:\\Repos\\Problem_Solving\\Probem_Solving\\Sorted Squared Array\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

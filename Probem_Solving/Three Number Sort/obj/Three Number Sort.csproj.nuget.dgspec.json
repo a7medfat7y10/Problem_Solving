@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Courses\\Software Engineering\\MyProjects\\Problem_Solving\\Problem_Solving\\Probem_Solving\\Three Number Sort\\Three Number Sort.csproj": {}
+    "D:\\Repos\\Problem_Solving\\Probem_Solving\\Three Number Sort\\Three Number Sort.csproj": {}
   },
   "projects": {
-    "E:\\Courses\\Software Engineering\\MyProjects\\Problem_Solving\\Problem_Solving\\Probem_Solving\\Three Number Sort\\Three Number Sort.csproj": {
+    "D:\\Repos\\Problem_Solving\\Probem_Solving\\Three Number Sort\\Three Number Sort.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Courses\\Software Engineering\\MyProjects\\Problem_Solving\\Problem_Solving\\Probem_Solving\\Three Number Sort\\Three Number Sort.csproj",
+        "projectUniqueName": "D:\\Repos\\Problem_Solving\\Probem_Solving\\Three Number Sort\\Three Number Sort.csproj",
         "projectName": "Three Number Sort",
-        "projectPath": "E:\\Courses\\Software Engineering\\MyProjects\\Problem_Solving\\Problem_Solving\\Probem_Solving\\Three Number Sort\\Three Number Sort.csproj",
+        "projectPath": "D:\\Repos\\Problem_Solving\\Probem_Solving\\Three Number Sort\\Three Number Sort.csproj",
         "packagesPath": "C:\\Users\\Fathy\\.nuget\\packages\\",
-        "outputPath": "E:\\Courses\\Software Engineering\\MyProjects\\Problem_Solving\\Problem_Solving\\Probem_Solving\\Three Number Sort\\obj\\",
+        "outputPath": "D:\\Repos\\Problem_Solving\\Probem_Solving\\Three Number Sort\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
