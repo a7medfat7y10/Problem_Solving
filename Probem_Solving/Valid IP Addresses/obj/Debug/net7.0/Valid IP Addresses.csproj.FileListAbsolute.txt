@@ -1,0 +1,15 @@
+D:\Repos\Problem_Solving\Probem_Solving\Valid IP Addresses\bin\Debug\net7.0\Valid IP Addresses.exe
+D:\Repos\Problem_Solving\Probem_Solving\Valid IP Addresses\bin\Debug\net7.0\Valid IP Addresses.deps.json
+D:\Repos\Problem_Solving\Probem_Solving\Valid IP Addresses\bin\Debug\net7.0\Valid IP Addresses.runtimeconfig.json
+D:\Repos\Problem_Solving\Probem_Solving\Valid IP Addresses\bin\Debug\net7.0\Valid IP Addresses.dll
+D:\Repos\Problem_Solving\Probem_Solving\Valid IP Addresses\bin\Debug\net7.0\Valid IP Addresses.pdb
+D:\Repos\Problem_Solving\Probem_Solving\Valid IP Addresses\obj\Debug\net7.0\Valid IP Addresses.csproj.AssemblyReference.cache
+D:\Repos\Problem_Solving\Probem_Solving\Valid IP Addresses\obj\Debug\net7.0\Valid IP Addresses.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Problem_Solving\Probem_Solving\Valid IP Addresses\obj\Debug\net7.0\Valid IP Addresses.AssemblyInfoInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\Valid IP Addresses\obj\Debug\net7.0\Valid IP Addresses.AssemblyInfo.cs
+D:\Repos\Problem_Solving\Probem_Solving\Valid IP Addresses\obj\Debug\net7.0\Valid IP Addresses.csproj.CoreCompileInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\Valid IP Addresses\obj\Debug\net7.0\Valid IP Addresses.dll
+D:\Repos\Problem_Solving\Probem_Solving\Valid IP Addresses\obj\Debug\net7.0\refint\Valid IP Addresses.dll
+D:\Repos\Problem_Solving\Probem_Solving\Valid IP Addresses\obj\Debug\net7.0\Valid IP Addresses.pdb
+D:\Repos\Problem_Solving\Probem_Solving\Valid IP Addresses\obj\Debug\net7.0\Valid IP Addresses.genruntimeconfig.cache
+D:\Repos\Problem_Solving\Probem_Solving\Valid IP Addresses\obj\Debug\net7.0\ref\Valid IP Addresses.dll
