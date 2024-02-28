@@ -1,0 +1,15 @@
+D:\Repos\Problem_Solving\Probem_Solving\Reverse Words In String\bin\Debug\net7.0\Reverse Words In String.exe
+D:\Repos\Problem_Solving\Probem_Solving\Reverse Words In String\bin\Debug\net7.0\Reverse Words In String.deps.json
+D:\Repos\Problem_Solving\Probem_Solving\Reverse Words In String\bin\Debug\net7.0\Reverse Words In String.runtimeconfig.json
+D:\Repos\Problem_Solving\Probem_Solving\Reverse Words In String\bin\Debug\net7.0\Reverse Words In String.dll
+D:\Repos\Problem_Solving\Probem_Solving\Reverse Words In String\bin\Debug\net7.0\Reverse Words In String.pdb
+D:\Repos\Problem_Solving\Probem_Solving\Reverse Words In String\obj\Debug\net7.0\Reverse Words In String.csproj.AssemblyReference.cache
+D:\Repos\Problem_Solving\Probem_Solving\Reverse Words In String\obj\Debug\net7.0\Reverse Words In String.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Problem_Solving\Probem_Solving\Reverse Words In String\obj\Debug\net7.0\Reverse Words In String.AssemblyInfoInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\Reverse Words In String\obj\Debug\net7.0\Reverse Words In String.AssemblyInfo.cs
+D:\Repos\Problem_Solving\Probem_Solving\Reverse Words In String\obj\Debug\net7.0\Reverse Words In String.csproj.CoreCompileInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\Reverse Words In String\obj\Debug\net7.0\Reverse Words In String.dll
+D:\Repos\Problem_Solving\Probem_Solving\Reverse Words In String\obj\Debug\net7.0\refint\Reverse Words In String.dll
+D:\Repos\Problem_Solving\Probem_Solving\Reverse Words In String\obj\Debug\net7.0\Reverse Words In String.pdb
+D:\Repos\Problem_Solving\Probem_Solving\Reverse Words In String\obj\Debug\net7.0\Reverse Words In String.genruntimeconfig.cache
+D:\Repos\Problem_Solving\Probem_Solving\Reverse Words In String\obj\Debug\net7.0\ref\Reverse Words In String.dll

@@ -107,6 +107,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Group Anagrams", "Group Ana
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Valid IP Addresses", "Valid IP Addresses\Valid IP Addresses.csproj", "{39D733D2-26A9-4572-A83E-DA815F213659}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse Words In String", "Reverse Words In String\Reverse Words In String.csproj", "{3C6A594E-6AAE-43CE-9072-74DCB3C7AE73}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -321,6 +323,10 @@ Global
 		{39D733D2-26A9-4572-A83E-DA815F213659}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{39D733D2-26A9-4572-A83E-DA815F213659}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{39D733D2-26A9-4572-A83E-DA815F213659}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C6A594E-6AAE-43CE-9072-74DCB3C7AE73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C6A594E-6AAE-43CE-9072-74DCB3C7AE73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C6A594E-6AAE-43CE-9072-74DCB3C7AE73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C6A594E-6AAE-43CE-9072-74DCB3C7AE73}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
