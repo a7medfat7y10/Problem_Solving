@@ -1,0 +1,15 @@
+D:\Repos\Problem_Solving\Probem_Solving\Minimum Characters For Words\bin\Debug\net7.0\Minimum Characters For Words.exe
+D:\Repos\Problem_Solving\Probem_Solving\Minimum Characters For Words\bin\Debug\net7.0\Minimum Characters For Words.deps.json
+D:\Repos\Problem_Solving\Probem_Solving\Minimum Characters For Words\bin\Debug\net7.0\Minimum Characters For Words.runtimeconfig.json
+D:\Repos\Problem_Solving\Probem_Solving\Minimum Characters For Words\bin\Debug\net7.0\Minimum Characters For Words.dll
+D:\Repos\Problem_Solving\Probem_Solving\Minimum Characters For Words\bin\Debug\net7.0\Minimum Characters For Words.pdb
+D:\Repos\Problem_Solving\Probem_Solving\Minimum Characters For Words\obj\Debug\net7.0\Minimum Characters For Words.csproj.AssemblyReference.cache
+D:\Repos\Problem_Solving\Probem_Solving\Minimum Characters For Words\obj\Debug\net7.0\Minimum Characters For Words.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Problem_Solving\Probem_Solving\Minimum Characters For Words\obj\Debug\net7.0\Minimum Characters For Words.AssemblyInfoInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\Minimum Characters For Words\obj\Debug\net7.0\Minimum Characters For Words.AssemblyInfo.cs
+D:\Repos\Problem_Solving\Probem_Solving\Minimum Characters For Words\obj\Debug\net7.0\Minimum Characters For Words.csproj.CoreCompileInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\Minimum Characters For Words\obj\Debug\net7.0\Minimum Characters For Words.dll
+D:\Repos\Problem_Solving\Probem_Solving\Minimum Characters For Words\obj\Debug\net7.0\refint\Minimum Characters For Words.dll
+D:\Repos\Problem_Solving\Probem_Solving\Minimum Characters For Words\obj\Debug\net7.0\Minimum Characters For Words.pdb
+D:\Repos\Problem_Solving\Probem_Solving\Minimum Characters For Words\obj\Debug\net7.0\Minimum Characters For Words.genruntimeconfig.cache
+D:\Repos\Problem_Solving\Probem_Solving\Minimum Characters For Words\obj\Debug\net7.0\ref\Minimum Characters For Words.dll
