@@ -1,0 +1,15 @@
+D:\Repos\Problem_Solving\Probem_Solving\One Edit\bin\Debug\net7.0\One Edit.exe
+D:\Repos\Problem_Solving\Probem_Solving\One Edit\bin\Debug\net7.0\One Edit.deps.json
+D:\Repos\Problem_Solving\Probem_Solving\One Edit\bin\Debug\net7.0\One Edit.runtimeconfig.json
+D:\Repos\Problem_Solving\Probem_Solving\One Edit\bin\Debug\net7.0\One Edit.dll
+D:\Repos\Problem_Solving\Probem_Solving\One Edit\bin\Debug\net7.0\One Edit.pdb
+D:\Repos\Problem_Solving\Probem_Solving\One Edit\obj\Debug\net7.0\One Edit.csproj.AssemblyReference.cache
+D:\Repos\Problem_Solving\Probem_Solving\One Edit\obj\Debug\net7.0\One Edit.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Problem_Solving\Probem_Solving\One Edit\obj\Debug\net7.0\One Edit.AssemblyInfoInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\One Edit\obj\Debug\net7.0\One Edit.AssemblyInfo.cs
+D:\Repos\Problem_Solving\Probem_Solving\One Edit\obj\Debug\net7.0\One Edit.csproj.CoreCompileInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\One Edit\obj\Debug\net7.0\One Edit.dll
+D:\Repos\Problem_Solving\Probem_Solving\One Edit\obj\Debug\net7.0\refint\One Edit.dll
+D:\Repos\Problem_Solving\Probem_Solving\One Edit\obj\Debug\net7.0\One Edit.pdb
+D:\Repos\Problem_Solving\Probem_Solving\One Edit\obj\Debug\net7.0\One Edit.genruntimeconfig.cache
+D:\Repos\Problem_Solving\Probem_Solving\One Edit\obj\Debug\net7.0\ref\One Edit.dll

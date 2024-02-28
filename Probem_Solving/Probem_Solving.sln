@@ -111,6 +111,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse Words In String", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minimum Characters For Words", "Minimum Characters For Words\Minimum Characters For Words.csproj", "{6A005880-547B-4D8A-A139-8F8289474AC6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "One Edit", "One Edit\One Edit.csproj", "{6A2E3B95-C09C-45A0-8252-DF46F1FE7594}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -333,6 +335,10 @@ Global
 		{6A005880-547B-4D8A-A139-8F8289474AC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6A005880-547B-4D8A-A139-8F8289474AC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6A005880-547B-4D8A-A139-8F8289474AC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A2E3B95-C09C-45A0-8252-DF46F1FE7594}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A2E3B95-C09C-45A0-8252-DF46F1FE7594}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A2E3B95-C09C-45A0-8252-DF46F1FE7594}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A2E3B95-C09C-45A0-8252-DF46F1FE7594}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
