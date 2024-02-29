@@ -1,0 +1,15 @@
+D:\Repos\Problem_Solving\Probem_Solving\Search In Sorted Matrix\bin\Debug\net7.0\Search In Sorted Matrix.exe
+D:\Repos\Problem_Solving\Probem_Solving\Search In Sorted Matrix\bin\Debug\net7.0\Search In Sorted Matrix.deps.json
+D:\Repos\Problem_Solving\Probem_Solving\Search In Sorted Matrix\bin\Debug\net7.0\Search In Sorted Matrix.runtimeconfig.json
+D:\Repos\Problem_Solving\Probem_Solving\Search In Sorted Matrix\bin\Debug\net7.0\Search In Sorted Matrix.dll
+D:\Repos\Problem_Solving\Probem_Solving\Search In Sorted Matrix\bin\Debug\net7.0\Search In Sorted Matrix.pdb
+D:\Repos\Problem_Solving\Probem_Solving\Search In Sorted Matrix\obj\Debug\net7.0\Search In Sorted Matrix.csproj.AssemblyReference.cache
+D:\Repos\Problem_Solving\Probem_Solving\Search In Sorted Matrix\obj\Debug\net7.0\Search In Sorted Matrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Problem_Solving\Probem_Solving\Search In Sorted Matrix\obj\Debug\net7.0\Search In Sorted Matrix.AssemblyInfoInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\Search In Sorted Matrix\obj\Debug\net7.0\Search In Sorted Matrix.AssemblyInfo.cs
+D:\Repos\Problem_Solving\Probem_Solving\Search In Sorted Matrix\obj\Debug\net7.0\Search In Sorted Matrix.csproj.CoreCompileInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\Search In Sorted Matrix\obj\Debug\net7.0\Search In Sorted Matrix.dll
+D:\Repos\Problem_Solving\Probem_Solving\Search In Sorted Matrix\obj\Debug\net7.0\refint\Search In Sorted Matrix.dll
+D:\Repos\Problem_Solving\Probem_Solving\Search In Sorted Matrix\obj\Debug\net7.0\Search In Sorted Matrix.pdb
+D:\Repos\Problem_Solving\Probem_Solving\Search In Sorted Matrix\obj\Debug\net7.0\Search In Sorted Matrix.genruntimeconfig.cache
+D:\Repos\Problem_Solving\Probem_Solving\Search In Sorted Matrix\obj\Debug\net7.0\ref\Search In Sorted Matrix.dll
