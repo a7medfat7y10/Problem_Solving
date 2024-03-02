@@ -1,0 +1,15 @@
+D:\Repos\Problem_Solving\Probem_Solving\StaircaseTraversal\bin\Debug\net7.0\StaircaseTraversal.exe
+D:\Repos\Problem_Solving\Probem_Solving\StaircaseTraversal\bin\Debug\net7.0\StaircaseTraversal.deps.json
+D:\Repos\Problem_Solving\Probem_Solving\StaircaseTraversal\bin\Debug\net7.0\StaircaseTraversal.runtimeconfig.json
+D:\Repos\Problem_Solving\Probem_Solving\StaircaseTraversal\bin\Debug\net7.0\StaircaseTraversal.dll
+D:\Repos\Problem_Solving\Probem_Solving\StaircaseTraversal\bin\Debug\net7.0\StaircaseTraversal.pdb
+D:\Repos\Problem_Solving\Probem_Solving\StaircaseTraversal\obj\Debug\net7.0\StaircaseTraversal.csproj.AssemblyReference.cache
+D:\Repos\Problem_Solving\Probem_Solving\StaircaseTraversal\obj\Debug\net7.0\StaircaseTraversal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Problem_Solving\Probem_Solving\StaircaseTraversal\obj\Debug\net7.0\StaircaseTraversal.AssemblyInfoInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\StaircaseTraversal\obj\Debug\net7.0\StaircaseTraversal.AssemblyInfo.cs
+D:\Repos\Problem_Solving\Probem_Solving\StaircaseTraversal\obj\Debug\net7.0\StaircaseTraversal.csproj.CoreCompileInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\StaircaseTraversal\obj\Debug\net7.0\StaircaseTraversal.dll
+D:\Repos\Problem_Solving\Probem_Solving\StaircaseTraversal\obj\Debug\net7.0\refint\StaircaseTraversal.dll
+D:\Repos\Problem_Solving\Probem_Solving\StaircaseTraversal\obj\Debug\net7.0\StaircaseTraversal.pdb
+D:\Repos\Problem_Solving\Probem_Solving\StaircaseTraversal\obj\Debug\net7.0\StaircaseTraversal.genruntimeconfig.cache
+D:\Repos\Problem_Solving\Probem_Solving\StaircaseTraversal\obj\Debug\net7.0\ref\StaircaseTraversal.dll
