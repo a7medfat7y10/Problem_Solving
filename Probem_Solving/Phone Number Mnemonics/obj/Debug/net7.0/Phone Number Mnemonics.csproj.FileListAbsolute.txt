@@ -1,0 +1,15 @@
+D:\Repos\Problem_Solving\Probem_Solving\Phone Number Mnemonics\bin\Debug\net7.0\Phone Number Mnemonics.exe
+D:\Repos\Problem_Solving\Probem_Solving\Phone Number Mnemonics\bin\Debug\net7.0\Phone Number Mnemonics.deps.json
+D:\Repos\Problem_Solving\Probem_Solving\Phone Number Mnemonics\bin\Debug\net7.0\Phone Number Mnemonics.runtimeconfig.json
+D:\Repos\Problem_Solving\Probem_Solving\Phone Number Mnemonics\bin\Debug\net7.0\Phone Number Mnemonics.dll
+D:\Repos\Problem_Solving\Probem_Solving\Phone Number Mnemonics\bin\Debug\net7.0\Phone Number Mnemonics.pdb
+D:\Repos\Problem_Solving\Probem_Solving\Phone Number Mnemonics\obj\Debug\net7.0\Phone Number Mnemonics.csproj.AssemblyReference.cache
+D:\Repos\Problem_Solving\Probem_Solving\Phone Number Mnemonics\obj\Debug\net7.0\Phone Number Mnemonics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Problem_Solving\Probem_Solving\Phone Number Mnemonics\obj\Debug\net7.0\Phone Number Mnemonics.AssemblyInfoInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\Phone Number Mnemonics\obj\Debug\net7.0\Phone Number Mnemonics.AssemblyInfo.cs
+D:\Repos\Problem_Solving\Probem_Solving\Phone Number Mnemonics\obj\Debug\net7.0\Phone Number Mnemonics.csproj.CoreCompileInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\Phone Number Mnemonics\obj\Debug\net7.0\Phone Number Mnemonics.dll
+D:\Repos\Problem_Solving\Probem_Solving\Phone Number Mnemonics\obj\Debug\net7.0\refint\Phone Number Mnemonics.dll
+D:\Repos\Problem_Solving\Probem_Solving\Phone Number Mnemonics\obj\Debug\net7.0\Phone Number Mnemonics.pdb
+D:\Repos\Problem_Solving\Probem_Solving\Phone Number Mnemonics\obj\Debug\net7.0\Phone Number Mnemonics.genruntimeconfig.cache
+D:\Repos\Problem_Solving\Probem_Solving\Phone Number Mnemonics\obj\Debug\net7.0\ref\Phone Number Mnemonics.dll
