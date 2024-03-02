@@ -123,6 +123,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phone Number Mnemonics", "P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaircaseTraversal", "StaircaseTraversal\StaircaseTraversal.csproj", "{122BD105-532F-4EAA-9CAD-50AC7AD5B03E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blackjack Probability", "Blackjack Probability\Blackjack Probability.csproj", "{B739D35D-3559-468E-A1F7-964A71C18C0A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -369,6 +371,10 @@ Global
 		{122BD105-532F-4EAA-9CAD-50AC7AD5B03E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{122BD105-532F-4EAA-9CAD-50AC7AD5B03E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{122BD105-532F-4EAA-9CAD-50AC7AD5B03E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B739D35D-3559-468E-A1F7-964A71C18C0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B739D35D-3559-468E-A1F7-964A71C18C0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B739D35D-3559-468E-A1F7-964A71C18C0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B739D35D-3559-468E-A1F7-964A71C18C0A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
