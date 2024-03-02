@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Reveal Minesweeper/1.0.0": {
+        "runtime": {
+          "Reveal Minesweeper.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Reveal Minesweeper/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

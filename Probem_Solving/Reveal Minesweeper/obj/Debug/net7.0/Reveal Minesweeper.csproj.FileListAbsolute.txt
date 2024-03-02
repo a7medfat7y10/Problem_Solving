@@ -1,0 +1,15 @@
+D:\Repos\Problem_Solving\Probem_Solving\Reveal Minesweeper\bin\Debug\net7.0\Reveal Minesweeper.exe
+D:\Repos\Problem_Solving\Probem_Solving\Reveal Minesweeper\bin\Debug\net7.0\Reveal Minesweeper.deps.json
+D:\Repos\Problem_Solving\Probem_Solving\Reveal Minesweeper\bin\Debug\net7.0\Reveal Minesweeper.runtimeconfig.json
+D:\Repos\Problem_Solving\Probem_Solving\Reveal Minesweeper\bin\Debug\net7.0\Reveal Minesweeper.dll
+D:\Repos\Problem_Solving\Probem_Solving\Reveal Minesweeper\bin\Debug\net7.0\Reveal Minesweeper.pdb
+D:\Repos\Problem_Solving\Probem_Solving\Reveal Minesweeper\obj\Debug\net7.0\Reveal Minesweeper.csproj.AssemblyReference.cache
+D:\Repos\Problem_Solving\Probem_Solving\Reveal Minesweeper\obj\Debug\net7.0\Reveal Minesweeper.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Problem_Solving\Probem_Solving\Reveal Minesweeper\obj\Debug\net7.0\Reveal Minesweeper.AssemblyInfoInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\Reveal Minesweeper\obj\Debug\net7.0\Reveal Minesweeper.AssemblyInfo.cs
+D:\Repos\Problem_Solving\Probem_Solving\Reveal Minesweeper\obj\Debug\net7.0\Reveal Minesweeper.csproj.CoreCompileInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\Reveal Minesweeper\obj\Debug\net7.0\Reveal Minesweeper.dll
+D:\Repos\Problem_Solving\Probem_Solving\Reveal Minesweeper\obj\Debug\net7.0\refint\Reveal Minesweeper.dll
+D:\Repos\Problem_Solving\Probem_Solving\Reveal Minesweeper\obj\Debug\net7.0\Reveal Minesweeper.pdb
+D:\Repos\Problem_Solving\Probem_Solving\Reveal Minesweeper\obj\Debug\net7.0\Reveal Minesweeper.genruntimeconfig.cache
+D:\Repos\Problem_Solving\Probem_Solving\Reveal Minesweeper\obj\Debug\net7.0\ref\Reveal Minesweeper.dll
