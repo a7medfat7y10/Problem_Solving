@@ -1,0 +1,15 @@
+D:\Repos\Problem_Solving\Probem_Solving\Powerset\bin\Debug\net7.0\Powerset.exe
+D:\Repos\Problem_Solving\Probem_Solving\Powerset\bin\Debug\net7.0\Powerset.deps.json
+D:\Repos\Problem_Solving\Probem_Solving\Powerset\bin\Debug\net7.0\Powerset.runtimeconfig.json
+D:\Repos\Problem_Solving\Probem_Solving\Powerset\bin\Debug\net7.0\Powerset.dll
+D:\Repos\Problem_Solving\Probem_Solving\Powerset\bin\Debug\net7.0\Powerset.pdb
+D:\Repos\Problem_Solving\Probem_Solving\Powerset\obj\Debug\net7.0\Powerset.csproj.AssemblyReference.cache
+D:\Repos\Problem_Solving\Probem_Solving\Powerset\obj\Debug\net7.0\Powerset.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Problem_Solving\Probem_Solving\Powerset\obj\Debug\net7.0\Powerset.AssemblyInfoInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\Powerset\obj\Debug\net7.0\Powerset.AssemblyInfo.cs
+D:\Repos\Problem_Solving\Probem_Solving\Powerset\obj\Debug\net7.0\Powerset.csproj.CoreCompileInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\Powerset\obj\Debug\net7.0\Powerset.dll
+D:\Repos\Problem_Solving\Probem_Solving\Powerset\obj\Debug\net7.0\refint\Powerset.dll
+D:\Repos\Problem_Solving\Probem_Solving\Powerset\obj\Debug\net7.0\Powerset.pdb
+D:\Repos\Problem_Solving\Probem_Solving\Powerset\obj\Debug\net7.0\Powerset.genruntimeconfig.cache
+D:\Repos\Problem_Solving\Probem_Solving\Powerset\obj\Debug\net7.0\ref\Powerset.dll
