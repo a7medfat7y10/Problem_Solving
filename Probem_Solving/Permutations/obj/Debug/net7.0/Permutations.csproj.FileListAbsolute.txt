@@ -1,0 +1,15 @@
+D:\Repos\Problem_Solving\Probem_Solving\Permutations\bin\Debug\net7.0\Permutations.exe
+D:\Repos\Problem_Solving\Probem_Solving\Permutations\bin\Debug\net7.0\Permutations.deps.json
+D:\Repos\Problem_Solving\Probem_Solving\Permutations\bin\Debug\net7.0\Permutations.runtimeconfig.json
+D:\Repos\Problem_Solving\Probem_Solving\Permutations\bin\Debug\net7.0\Permutations.dll
+D:\Repos\Problem_Solving\Probem_Solving\Permutations\bin\Debug\net7.0\Permutations.pdb
+D:\Repos\Problem_Solving\Probem_Solving\Permutations\obj\Debug\net7.0\Permutations.csproj.AssemblyReference.cache
+D:\Repos\Problem_Solving\Probem_Solving\Permutations\obj\Debug\net7.0\Permutations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Problem_Solving\Probem_Solving\Permutations\obj\Debug\net7.0\Permutations.AssemblyInfoInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\Permutations\obj\Debug\net7.0\Permutations.AssemblyInfo.cs
+D:\Repos\Problem_Solving\Probem_Solving\Permutations\obj\Debug\net7.0\Permutations.csproj.CoreCompileInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\Permutations\obj\Debug\net7.0\Permutations.dll
+D:\Repos\Problem_Solving\Probem_Solving\Permutations\obj\Debug\net7.0\refint\Permutations.dll
+D:\Repos\Problem_Solving\Probem_Solving\Permutations\obj\Debug\net7.0\Permutations.pdb
+D:\Repos\Problem_Solving\Probem_Solving\Permutations\obj\Debug\net7.0\Permutations.genruntimeconfig.cache
+D:\Repos\Problem_Solving\Probem_Solving\Permutations\obj\Debug\net7.0\ref\Permutations.dll
