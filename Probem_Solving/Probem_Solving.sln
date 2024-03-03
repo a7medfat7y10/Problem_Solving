@@ -137,6 +137,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Merging Linked Lists", "Mer
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Min Max Stack Construction", "Min Max Stack Construction\Min Max Stack Construction.csproj", "{B887579E-2924-498E-AFBD-23E298757D1D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Balanced Brackets", "Balanced Brackets\Balanced Brackets.csproj", "{F796EE37-9E36-4185-8FE6-A247DB90B9CC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -411,6 +413,10 @@ Global
 		{B887579E-2924-498E-AFBD-23E298757D1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B887579E-2924-498E-AFBD-23E298757D1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B887579E-2924-498E-AFBD-23E298757D1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F796EE37-9E36-4185-8FE6-A247DB90B9CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F796EE37-9E36-4185-8FE6-A247DB90B9CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F796EE37-9E36-4185-8FE6-A247DB90B9CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F796EE37-9E36-4185-8FE6-A247DB90B9CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

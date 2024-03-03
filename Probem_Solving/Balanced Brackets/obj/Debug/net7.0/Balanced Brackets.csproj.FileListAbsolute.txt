@@ -1,0 +1,15 @@
+D:\Repos\Problem_Solving\Probem_Solving\Balanced Brackets\bin\Debug\net7.0\Balanced Brackets.exe
+D:\Repos\Problem_Solving\Probem_Solving\Balanced Brackets\bin\Debug\net7.0\Balanced Brackets.deps.json
+D:\Repos\Problem_Solving\Probem_Solving\Balanced Brackets\bin\Debug\net7.0\Balanced Brackets.runtimeconfig.json
+D:\Repos\Problem_Solving\Probem_Solving\Balanced Brackets\bin\Debug\net7.0\Balanced Brackets.dll
+D:\Repos\Problem_Solving\Probem_Solving\Balanced Brackets\bin\Debug\net7.0\Balanced Brackets.pdb
+D:\Repos\Problem_Solving\Probem_Solving\Balanced Brackets\obj\Debug\net7.0\Balanced Brackets.csproj.AssemblyReference.cache
+D:\Repos\Problem_Solving\Probem_Solving\Balanced Brackets\obj\Debug\net7.0\Balanced Brackets.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Problem_Solving\Probem_Solving\Balanced Brackets\obj\Debug\net7.0\Balanced Brackets.AssemblyInfoInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\Balanced Brackets\obj\Debug\net7.0\Balanced Brackets.AssemblyInfo.cs
+D:\Repos\Problem_Solving\Probem_Solving\Balanced Brackets\obj\Debug\net7.0\Balanced Brackets.csproj.CoreCompileInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\Balanced Brackets\obj\Debug\net7.0\Balanced Brackets.dll
+D:\Repos\Problem_Solving\Probem_Solving\Balanced Brackets\obj\Debug\net7.0\refint\Balanced Brackets.dll
+D:\Repos\Problem_Solving\Probem_Solving\Balanced Brackets\obj\Debug\net7.0\Balanced Brackets.pdb
+D:\Repos\Problem_Solving\Probem_Solving\Balanced Brackets\obj\Debug\net7.0\Balanced Brackets.genruntimeconfig.cache
+D:\Repos\Problem_Solving\Probem_Solving\Balanced Brackets\obj\Debug\net7.0\ref\Balanced Brackets.dll
