@@ -139,6 +139,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Min Max Stack Construction"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Balanced Brackets", "Balanced Brackets\Balanced Brackets.csproj", "{F796EE37-9E36-4185-8FE6-A247DB90B9CC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sunset Views", "Sunset Views\Sunset Views.csproj", "{537A144A-6858-4E78-9A9D-271EDC48F8F9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -417,6 +419,10 @@ Global
 		{F796EE37-9E36-4185-8FE6-A247DB90B9CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F796EE37-9E36-4185-8FE6-A247DB90B9CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F796EE37-9E36-4185-8FE6-A247DB90B9CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{537A144A-6858-4E78-9A9D-271EDC48F8F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{537A144A-6858-4E78-9A9D-271EDC48F8F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{537A144A-6858-4E78-9A9D-271EDC48F8F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{537A144A-6858-4E78-9A9D-271EDC48F8F9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

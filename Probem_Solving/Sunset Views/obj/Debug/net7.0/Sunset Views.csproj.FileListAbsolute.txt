@@ -1,0 +1,15 @@
+D:\Repos\Problem_Solving\Probem_Solving\Sunset Views\bin\Debug\net7.0\Sunset Views.exe
+D:\Repos\Problem_Solving\Probem_Solving\Sunset Views\bin\Debug\net7.0\Sunset Views.deps.json
+D:\Repos\Problem_Solving\Probem_Solving\Sunset Views\bin\Debug\net7.0\Sunset Views.runtimeconfig.json
+D:\Repos\Problem_Solving\Probem_Solving\Sunset Views\bin\Debug\net7.0\Sunset Views.dll
+D:\Repos\Problem_Solving\Probem_Solving\Sunset Views\bin\Debug\net7.0\Sunset Views.pdb
+D:\Repos\Problem_Solving\Probem_Solving\Sunset Views\obj\Debug\net7.0\Sunset Views.csproj.AssemblyReference.cache
+D:\Repos\Problem_Solving\Probem_Solving\Sunset Views\obj\Debug\net7.0\Sunset Views.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Problem_Solving\Probem_Solving\Sunset Views\obj\Debug\net7.0\Sunset Views.AssemblyInfoInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\Sunset Views\obj\Debug\net7.0\Sunset Views.AssemblyInfo.cs
+D:\Repos\Problem_Solving\Probem_Solving\Sunset Views\obj\Debug\net7.0\Sunset Views.csproj.CoreCompileInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\Sunset Views\obj\Debug\net7.0\Sunset Views.dll
+D:\Repos\Problem_Solving\Probem_Solving\Sunset Views\obj\Debug\net7.0\refint\Sunset Views.dll
+D:\Repos\Problem_Solving\Probem_Solving\Sunset Views\obj\Debug\net7.0\Sunset Views.pdb
+D:\Repos\Problem_Solving\Probem_Solving\Sunset Views\obj\Debug\net7.0\Sunset Views.genruntimeconfig.cache
+D:\Repos\Problem_Solving\Probem_Solving\Sunset Views\obj\Debug\net7.0\ref\Sunset Views.dll
