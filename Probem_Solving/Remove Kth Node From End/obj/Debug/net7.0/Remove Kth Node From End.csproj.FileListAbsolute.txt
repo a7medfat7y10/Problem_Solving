@@ -1,0 +1,15 @@
+D:\Repos\Problem_Solving\Probem_Solving\Remove Kth Node From End\bin\Debug\net7.0\Remove Kth Node From End.exe
+D:\Repos\Problem_Solving\Probem_Solving\Remove Kth Node From End\bin\Debug\net7.0\Remove Kth Node From End.deps.json
+D:\Repos\Problem_Solving\Probem_Solving\Remove Kth Node From End\bin\Debug\net7.0\Remove Kth Node From End.runtimeconfig.json
+D:\Repos\Problem_Solving\Probem_Solving\Remove Kth Node From End\bin\Debug\net7.0\Remove Kth Node From End.dll
+D:\Repos\Problem_Solving\Probem_Solving\Remove Kth Node From End\bin\Debug\net7.0\Remove Kth Node From End.pdb
+D:\Repos\Problem_Solving\Probem_Solving\Remove Kth Node From End\obj\Debug\net7.0\Remove Kth Node From End.csproj.AssemblyReference.cache
+D:\Repos\Problem_Solving\Probem_Solving\Remove Kth Node From End\obj\Debug\net7.0\Remove Kth Node From End.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Problem_Solving\Probem_Solving\Remove Kth Node From End\obj\Debug\net7.0\Remove Kth Node From End.AssemblyInfoInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\Remove Kth Node From End\obj\Debug\net7.0\Remove Kth Node From End.AssemblyInfo.cs
+D:\Repos\Problem_Solving\Probem_Solving\Remove Kth Node From End\obj\Debug\net7.0\Remove Kth Node From End.csproj.CoreCompileInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\Remove Kth Node From End\obj\Debug\net7.0\Remove Kth Node From End.dll
+D:\Repos\Problem_Solving\Probem_Solving\Remove Kth Node From End\obj\Debug\net7.0\refint\Remove Kth Node From End.dll
+D:\Repos\Problem_Solving\Probem_Solving\Remove Kth Node From End\obj\Debug\net7.0\Remove Kth Node From End.pdb
+D:\Repos\Problem_Solving\Probem_Solving\Remove Kth Node From End\obj\Debug\net7.0\Remove Kth Node From End.genruntimeconfig.cache
+D:\Repos\Problem_Solving\Probem_Solving\Remove Kth Node From End\obj\Debug\net7.0\ref\Remove Kth Node From End.dll

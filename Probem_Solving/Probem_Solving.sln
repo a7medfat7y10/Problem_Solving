@@ -129,6 +129,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reveal Minesweeper", "Revea
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linked List Construction", "Linked List Construction\Linked List Construction.csproj", "{30675D91-A1B9-484B-82F6-D6D5A8F0BE44}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove Kth Node From End", "Remove Kth Node From End\Remove Kth Node From End.csproj", "{8DD9E383-EAF9-4BE5-AD02-1A896B69897B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -387,6 +389,10 @@ Global
 		{30675D91-A1B9-484B-82F6-D6D5A8F0BE44}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{30675D91-A1B9-484B-82F6-D6D5A8F0BE44}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{30675D91-A1B9-484B-82F6-D6D5A8F0BE44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DD9E383-EAF9-4BE5-AD02-1A896B69897B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DD9E383-EAF9-4BE5-AD02-1A896B69897B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DD9E383-EAF9-4BE5-AD02-1A896B69897B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DD9E383-EAF9-4BE5-AD02-1A896B69897B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
