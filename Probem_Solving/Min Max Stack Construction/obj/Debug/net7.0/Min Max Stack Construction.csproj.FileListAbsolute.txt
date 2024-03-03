@@ -1,0 +1,15 @@
+D:\Repos\Problem_Solving\Probem_Solving\Min Max Stack Construction\bin\Debug\net7.0\Min Max Stack Construction.exe
+D:\Repos\Problem_Solving\Probem_Solving\Min Max Stack Construction\bin\Debug\net7.0\Min Max Stack Construction.deps.json
+D:\Repos\Problem_Solving\Probem_Solving\Min Max Stack Construction\bin\Debug\net7.0\Min Max Stack Construction.runtimeconfig.json
+D:\Repos\Problem_Solving\Probem_Solving\Min Max Stack Construction\bin\Debug\net7.0\Min Max Stack Construction.dll
+D:\Repos\Problem_Solving\Probem_Solving\Min Max Stack Construction\bin\Debug\net7.0\Min Max Stack Construction.pdb
+D:\Repos\Problem_Solving\Probem_Solving\Min Max Stack Construction\obj\Debug\net7.0\Min Max Stack Construction.csproj.AssemblyReference.cache
+D:\Repos\Problem_Solving\Probem_Solving\Min Max Stack Construction\obj\Debug\net7.0\Min Max Stack Construction.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Problem_Solving\Probem_Solving\Min Max Stack Construction\obj\Debug\net7.0\Min Max Stack Construction.AssemblyInfoInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\Min Max Stack Construction\obj\Debug\net7.0\Min Max Stack Construction.AssemblyInfo.cs
+D:\Repos\Problem_Solving\Probem_Solving\Min Max Stack Construction\obj\Debug\net7.0\Min Max Stack Construction.csproj.CoreCompileInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\Min Max Stack Construction\obj\Debug\net7.0\Min Max Stack Construction.dll
+D:\Repos\Problem_Solving\Probem_Solving\Min Max Stack Construction\obj\Debug\net7.0\refint\Min Max Stack Construction.dll
+D:\Repos\Problem_Solving\Probem_Solving\Min Max Stack Construction\obj\Debug\net7.0\Min Max Stack Construction.pdb
+D:\Repos\Problem_Solving\Probem_Solving\Min Max Stack Construction\obj\Debug\net7.0\Min Max Stack Construction.genruntimeconfig.cache
+D:\Repos\Problem_Solving\Probem_Solving\Min Max Stack Construction\obj\Debug\net7.0\ref\Min Max Stack Construction.dll
