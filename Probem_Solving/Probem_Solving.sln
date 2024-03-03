@@ -133,6 +133,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove Kth Node From End", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum Of Linked Lists", "Sum Of Linked Lists\Sum Of Linked Lists.csproj", "{C430A863-51A5-4009-A15F-B986A89C159B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Merging Linked Lists", "Merging Linked Lists\Merging Linked Lists.csproj", "{F829D3E2-2C2D-482D-ABE8-D15429622DF7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -399,6 +401,10 @@ Global
 		{C430A863-51A5-4009-A15F-B986A89C159B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C430A863-51A5-4009-A15F-B986A89C159B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C430A863-51A5-4009-A15F-B986A89C159B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F829D3E2-2C2D-482D-ABE8-D15429622DF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F829D3E2-2C2D-482D-ABE8-D15429622DF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F829D3E2-2C2D-482D-ABE8-D15429622DF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F829D3E2-2C2D-482D-ABE8-D15429622DF7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
