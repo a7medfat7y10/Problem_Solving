@@ -1,0 +1,15 @@
+D:\Repos\Problem_Solving\Probem_Solving\Best Digits\bin\Debug\net7.0\Best Digits.exe
+D:\Repos\Problem_Solving\Probem_Solving\Best Digits\bin\Debug\net7.0\Best Digits.deps.json
+D:\Repos\Problem_Solving\Probem_Solving\Best Digits\bin\Debug\net7.0\Best Digits.runtimeconfig.json
+D:\Repos\Problem_Solving\Probem_Solving\Best Digits\bin\Debug\net7.0\Best Digits.dll
+D:\Repos\Problem_Solving\Probem_Solving\Best Digits\bin\Debug\net7.0\Best Digits.pdb
+D:\Repos\Problem_Solving\Probem_Solving\Best Digits\obj\Debug\net7.0\Best Digits.csproj.AssemblyReference.cache
+D:\Repos\Problem_Solving\Probem_Solving\Best Digits\obj\Debug\net7.0\Best Digits.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Problem_Solving\Probem_Solving\Best Digits\obj\Debug\net7.0\Best Digits.AssemblyInfoInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\Best Digits\obj\Debug\net7.0\Best Digits.AssemblyInfo.cs
+D:\Repos\Problem_Solving\Probem_Solving\Best Digits\obj\Debug\net7.0\Best Digits.csproj.CoreCompileInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\Best Digits\obj\Debug\net7.0\Best Digits.dll
+D:\Repos\Problem_Solving\Probem_Solving\Best Digits\obj\Debug\net7.0\refint\Best Digits.dll
+D:\Repos\Problem_Solving\Probem_Solving\Best Digits\obj\Debug\net7.0\Best Digits.pdb
+D:\Repos\Problem_Solving\Probem_Solving\Best Digits\obj\Debug\net7.0\Best Digits.genruntimeconfig.cache
+D:\Repos\Problem_Solving\Probem_Solving\Best Digits\obj\Debug\net7.0\ref\Best Digits.dll
