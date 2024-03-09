@@ -145,6 +145,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Best Digits", "Best Digits\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sort Stack", "Sort Stack\Sort Stack.csproj", "{BAA422B3-45E7-4C8B-B1B4-DFEA4B639F99}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Next Greater Element", "Next Greater Element\Next Greater Element.csproj", "{686B277D-0B3D-4D7C-ADF9-F9CC3FC2CC3A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -435,6 +437,10 @@ Global
 		{BAA422B3-45E7-4C8B-B1B4-DFEA4B639F99}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BAA422B3-45E7-4C8B-B1B4-DFEA4B639F99}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BAA422B3-45E7-4C8B-B1B4-DFEA4B639F99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{686B277D-0B3D-4D7C-ADF9-F9CC3FC2CC3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{686B277D-0B3D-4D7C-ADF9-F9CC3FC2CC3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{686B277D-0B3D-4D7C-ADF9-F9CC3FC2CC3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{686B277D-0B3D-4D7C-ADF9-F9CC3FC2CC3A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

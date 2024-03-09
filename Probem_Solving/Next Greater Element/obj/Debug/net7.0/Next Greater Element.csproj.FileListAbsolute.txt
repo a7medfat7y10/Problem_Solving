@@ -1,0 +1,15 @@
+D:\Repos\Problem_Solving\Probem_Solving\Next Greater Element\bin\Debug\net7.0\Next Greater Element.exe
+D:\Repos\Problem_Solving\Probem_Solving\Next Greater Element\bin\Debug\net7.0\Next Greater Element.deps.json
+D:\Repos\Problem_Solving\Probem_Solving\Next Greater Element\bin\Debug\net7.0\Next Greater Element.runtimeconfig.json
+D:\Repos\Problem_Solving\Probem_Solving\Next Greater Element\bin\Debug\net7.0\Next Greater Element.dll
+D:\Repos\Problem_Solving\Probem_Solving\Next Greater Element\bin\Debug\net7.0\Next Greater Element.pdb
+D:\Repos\Problem_Solving\Probem_Solving\Next Greater Element\obj\Debug\net7.0\Next Greater Element.csproj.AssemblyReference.cache
+D:\Repos\Problem_Solving\Probem_Solving\Next Greater Element\obj\Debug\net7.0\Next Greater Element.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Problem_Solving\Probem_Solving\Next Greater Element\obj\Debug\net7.0\Next Greater Element.AssemblyInfoInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\Next Greater Element\obj\Debug\net7.0\Next Greater Element.AssemblyInfo.cs
+D:\Repos\Problem_Solving\Probem_Solving\Next Greater Element\obj\Debug\net7.0\Next Greater Element.csproj.CoreCompileInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\Next Greater Element\obj\Debug\net7.0\Next Greater Element.dll
+D:\Repos\Problem_Solving\Probem_Solving\Next Greater Element\obj\Debug\net7.0\refint\Next Greater Element.dll
+D:\Repos\Problem_Solving\Probem_Solving\Next Greater Element\obj\Debug\net7.0\Next Greater Element.pdb
+D:\Repos\Problem_Solving\Probem_Solving\Next Greater Element\obj\Debug\net7.0\Next Greater Element.genruntimeconfig.cache
+D:\Repos\Problem_Solving\Probem_Solving\Next Greater Element\obj\Debug\net7.0\ref\Next Greater Element.dll
