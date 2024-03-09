@@ -1,0 +1,15 @@
+D:\Repos\Problem_Solving\Probem_Solving\Colliding Asteroids\bin\Debug\net7.0\Colliding Asteroids.exe
+D:\Repos\Problem_Solving\Probem_Solving\Colliding Asteroids\bin\Debug\net7.0\Colliding Asteroids.deps.json
+D:\Repos\Problem_Solving\Probem_Solving\Colliding Asteroids\bin\Debug\net7.0\Colliding Asteroids.runtimeconfig.json
+D:\Repos\Problem_Solving\Probem_Solving\Colliding Asteroids\bin\Debug\net7.0\Colliding Asteroids.dll
+D:\Repos\Problem_Solving\Probem_Solving\Colliding Asteroids\bin\Debug\net7.0\Colliding Asteroids.pdb
+D:\Repos\Problem_Solving\Probem_Solving\Colliding Asteroids\obj\Debug\net7.0\Colliding Asteroids.csproj.AssemblyReference.cache
+D:\Repos\Problem_Solving\Probem_Solving\Colliding Asteroids\obj\Debug\net7.0\Colliding Asteroids.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Problem_Solving\Probem_Solving\Colliding Asteroids\obj\Debug\net7.0\Colliding Asteroids.AssemblyInfoInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\Colliding Asteroids\obj\Debug\net7.0\Colliding Asteroids.AssemblyInfo.cs
+D:\Repos\Problem_Solving\Probem_Solving\Colliding Asteroids\obj\Debug\net7.0\Colliding Asteroids.csproj.CoreCompileInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\Colliding Asteroids\obj\Debug\net7.0\Colliding Asteroids.dll
+D:\Repos\Problem_Solving\Probem_Solving\Colliding Asteroids\obj\Debug\net7.0\refint\Colliding Asteroids.dll
+D:\Repos\Problem_Solving\Probem_Solving\Colliding Asteroids\obj\Debug\net7.0\Colliding Asteroids.pdb
+D:\Repos\Problem_Solving\Probem_Solving\Colliding Asteroids\obj\Debug\net7.0\Colliding Asteroids.genruntimeconfig.cache
+D:\Repos\Problem_Solving\Probem_Solving\Colliding Asteroids\obj\Debug\net7.0\ref\Colliding Asteroids.dll
