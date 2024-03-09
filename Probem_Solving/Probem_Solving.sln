@@ -113,35 +113,37 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Minimum Characters For Word
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "One Edit", "One Edit\One Edit.csproj", "{6A2E3B95-C09C-45A0-8252-DF46F1FE7594}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Search In Sorted Matrix", "Search In Sorted Matrix\Search In Sorted Matrix.csproj", "{FB12B54C-C9C8-4E3A-86D0-2DD9C8B26E86}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Search In Sorted Matrix", "Search In Sorted Matrix\Search In Sorted Matrix.csproj", "{FB12B54C-C9C8-4E3A-86D0-2DD9C8B26E86}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Permutations", "Permutations\Permutations.csproj", "{69514DFF-2413-443A-AC82-1141E46CFA9B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Permutations", "Permutations\Permutations.csproj", "{69514DFF-2413-443A-AC82-1141E46CFA9B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Powerset", "Powerset\Powerset.csproj", "{E8EEF89D-F13B-41C6-9919-FFA2BE570E8D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Powerset", "Powerset\Powerset.csproj", "{E8EEF89D-F13B-41C6-9919-FFA2BE570E8D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phone Number Mnemonics", "Phone Number Mnemonics\Phone Number Mnemonics.csproj", "{E0C8EEA7-0B71-4A77-A4B5-CB33535035A0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Phone Number Mnemonics", "Phone Number Mnemonics\Phone Number Mnemonics.csproj", "{E0C8EEA7-0B71-4A77-A4B5-CB33535035A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaircaseTraversal", "StaircaseTraversal\StaircaseTraversal.csproj", "{122BD105-532F-4EAA-9CAD-50AC7AD5B03E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StaircaseTraversal", "StaircaseTraversal\StaircaseTraversal.csproj", "{122BD105-532F-4EAA-9CAD-50AC7AD5B03E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blackjack Probability", "Blackjack Probability\Blackjack Probability.csproj", "{B739D35D-3559-468E-A1F7-964A71C18C0A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Blackjack Probability", "Blackjack Probability\Blackjack Probability.csproj", "{B739D35D-3559-468E-A1F7-964A71C18C0A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reveal Minesweeper", "Reveal Minesweeper\Reveal Minesweeper.csproj", "{25ECBB33-A6E3-4B7E-835D-C6CE9C4AC5A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reveal Minesweeper", "Reveal Minesweeper\Reveal Minesweeper.csproj", "{25ECBB33-A6E3-4B7E-835D-C6CE9C4AC5A2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linked List Construction", "Linked List Construction\Linked List Construction.csproj", "{30675D91-A1B9-484B-82F6-D6D5A8F0BE44}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Linked List Construction", "Linked List Construction\Linked List Construction.csproj", "{30675D91-A1B9-484B-82F6-D6D5A8F0BE44}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove Kth Node From End", "Remove Kth Node From End\Remove Kth Node From End.csproj", "{8DD9E383-EAF9-4BE5-AD02-1A896B69897B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Remove Kth Node From End", "Remove Kth Node From End\Remove Kth Node From End.csproj", "{8DD9E383-EAF9-4BE5-AD02-1A896B69897B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum Of Linked Lists", "Sum Of Linked Lists\Sum Of Linked Lists.csproj", "{C430A863-51A5-4009-A15F-B986A89C159B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sum Of Linked Lists", "Sum Of Linked Lists\Sum Of Linked Lists.csproj", "{C430A863-51A5-4009-A15F-B986A89C159B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Merging Linked Lists", "Merging Linked Lists\Merging Linked Lists.csproj", "{F829D3E2-2C2D-482D-ABE8-D15429622DF7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Merging Linked Lists", "Merging Linked Lists\Merging Linked Lists.csproj", "{F829D3E2-2C2D-482D-ABE8-D15429622DF7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Min Max Stack Construction", "Min Max Stack Construction\Min Max Stack Construction.csproj", "{B887579E-2924-498E-AFBD-23E298757D1D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Min Max Stack Construction", "Min Max Stack Construction\Min Max Stack Construction.csproj", "{B887579E-2924-498E-AFBD-23E298757D1D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Balanced Brackets", "Balanced Brackets\Balanced Brackets.csproj", "{F796EE37-9E36-4185-8FE6-A247DB90B9CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Balanced Brackets", "Balanced Brackets\Balanced Brackets.csproj", "{F796EE37-9E36-4185-8FE6-A247DB90B9CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sunset Views", "Sunset Views\Sunset Views.csproj", "{537A144A-6858-4E78-9A9D-271EDC48F8F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sunset Views", "Sunset Views\Sunset Views.csproj", "{537A144A-6858-4E78-9A9D-271EDC48F8F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Best Digits", "Best Digits\Best Digits.csproj", "{9CA706E7-C0EE-4D75-A92E-C57F66C32C3B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Best Digits", "Best Digits\Best Digits.csproj", "{9CA706E7-C0EE-4D75-A92E-C57F66C32C3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sort Stack", "Sort Stack\Sort Stack.csproj", "{BAA422B3-45E7-4C8B-B1B4-DFEA4B639F99}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -429,6 +431,10 @@ Global
 		{9CA706E7-C0EE-4D75-A92E-C57F66C32C3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9CA706E7-C0EE-4D75-A92E-C57F66C32C3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9CA706E7-C0EE-4D75-A92E-C57F66C32C3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAA422B3-45E7-4C8B-B1B4-DFEA4B639F99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAA422B3-45E7-4C8B-B1B4-DFEA4B639F99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAA422B3-45E7-4C8B-B1B4-DFEA4B639F99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAA422B3-45E7-4C8B-B1B4-DFEA4B639F99}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

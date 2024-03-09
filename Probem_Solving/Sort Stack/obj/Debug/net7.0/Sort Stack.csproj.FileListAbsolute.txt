@@ -1,0 +1,15 @@
+D:\Repos\Problem_Solving\Probem_Solving\Sort Stack\bin\Debug\net7.0\Sort Stack.exe
+D:\Repos\Problem_Solving\Probem_Solving\Sort Stack\bin\Debug\net7.0\Sort Stack.deps.json
+D:\Repos\Problem_Solving\Probem_Solving\Sort Stack\bin\Debug\net7.0\Sort Stack.runtimeconfig.json
+D:\Repos\Problem_Solving\Probem_Solving\Sort Stack\bin\Debug\net7.0\Sort Stack.dll
+D:\Repos\Problem_Solving\Probem_Solving\Sort Stack\bin\Debug\net7.0\Sort Stack.pdb
+D:\Repos\Problem_Solving\Probem_Solving\Sort Stack\obj\Debug\net7.0\Sort Stack.csproj.AssemblyReference.cache
+D:\Repos\Problem_Solving\Probem_Solving\Sort Stack\obj\Debug\net7.0\Sort Stack.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Problem_Solving\Probem_Solving\Sort Stack\obj\Debug\net7.0\Sort Stack.AssemblyInfoInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\Sort Stack\obj\Debug\net7.0\Sort Stack.AssemblyInfo.cs
+D:\Repos\Problem_Solving\Probem_Solving\Sort Stack\obj\Debug\net7.0\Sort Stack.csproj.CoreCompileInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\Sort Stack\obj\Debug\net7.0\Sort Stack.dll
+D:\Repos\Problem_Solving\Probem_Solving\Sort Stack\obj\Debug\net7.0\refint\Sort Stack.dll
+D:\Repos\Problem_Solving\Probem_Solving\Sort Stack\obj\Debug\net7.0\Sort Stack.pdb
+D:\Repos\Problem_Solving\Probem_Solving\Sort Stack\obj\Debug\net7.0\Sort Stack.genruntimeconfig.cache
+D:\Repos\Problem_Solving\Probem_Solving\Sort Stack\obj\Debug\net7.0\ref\Sort Stack.dll
