@@ -1,0 +1,15 @@
+D:\Repos\Problem_Solving\Probem_Solving\Symmetrical Tree\bin\Debug\net7.0\Symmetrical Tree.exe
+D:\Repos\Problem_Solving\Probem_Solving\Symmetrical Tree\bin\Debug\net7.0\Symmetrical Tree.deps.json
+D:\Repos\Problem_Solving\Probem_Solving\Symmetrical Tree\bin\Debug\net7.0\Symmetrical Tree.runtimeconfig.json
+D:\Repos\Problem_Solving\Probem_Solving\Symmetrical Tree\bin\Debug\net7.0\Symmetrical Tree.dll
+D:\Repos\Problem_Solving\Probem_Solving\Symmetrical Tree\bin\Debug\net7.0\Symmetrical Tree.pdb
+D:\Repos\Problem_Solving\Probem_Solving\Symmetrical Tree\obj\Debug\net7.0\Symmetrical Tree.csproj.AssemblyReference.cache
+D:\Repos\Problem_Solving\Probem_Solving\Symmetrical Tree\obj\Debug\net7.0\Symmetrical Tree.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Problem_Solving\Probem_Solving\Symmetrical Tree\obj\Debug\net7.0\Symmetrical Tree.AssemblyInfoInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\Symmetrical Tree\obj\Debug\net7.0\Symmetrical Tree.AssemblyInfo.cs
+D:\Repos\Problem_Solving\Probem_Solving\Symmetrical Tree\obj\Debug\net7.0\Symmetrical Tree.csproj.CoreCompileInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\Symmetrical Tree\obj\Debug\net7.0\Symmetrical Tree.dll
+D:\Repos\Problem_Solving\Probem_Solving\Symmetrical Tree\obj\Debug\net7.0\refint\Symmetrical Tree.dll
+D:\Repos\Problem_Solving\Probem_Solving\Symmetrical Tree\obj\Debug\net7.0\Symmetrical Tree.pdb
+D:\Repos\Problem_Solving\Probem_Solving\Symmetrical Tree\obj\Debug\net7.0\Symmetrical Tree.genruntimeconfig.cache
+D:\Repos\Problem_Solving\Probem_Solving\Symmetrical Tree\obj\Debug\net7.0\ref\Symmetrical Tree.dll

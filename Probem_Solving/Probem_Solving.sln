@@ -167,6 +167,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Height Balanced Binary Tree
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Merge Binary Trees", "Merge Binary Trees\Merge Binary Trees.csproj", "{DA7787EC-ECBD-465D-AA12-779496034F36}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Symmetrical Tree", "Symmetrical Tree\Symmetrical Tree.csproj", "{C332A5F1-DE4E-4BE0-BE16-FEC3E574E0B6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -501,6 +503,10 @@ Global
 		{DA7787EC-ECBD-465D-AA12-779496034F36}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA7787EC-ECBD-465D-AA12-779496034F36}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA7787EC-ECBD-465D-AA12-779496034F36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C332A5F1-DE4E-4BE0-BE16-FEC3E574E0B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C332A5F1-DE4E-4BE0-BE16-FEC3E574E0B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C332A5F1-DE4E-4BE0-BE16-FEC3E574E0B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C332A5F1-DE4E-4BE0-BE16-FEC3E574E0B6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
