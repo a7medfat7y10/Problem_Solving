@@ -6,7 +6,7 @@
         {
             Console.WriteLine(NumberOfWaysToMakeChange(6, new int[] { 1, 5 }));
         }
-        //O(n) time / O(n) space
+        //O(nd) time / O(n) space
         public static int NumberOfWaysToMakeChange(int n, int[] denoms)
         {
             // Write your code here.
