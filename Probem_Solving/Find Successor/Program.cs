@@ -44,10 +44,11 @@
             getNodesListInOrder(node.right, list);
         }
         //Another Solution
-        //O(n) time / O(1) space
+        //O(h) time / O(1) space
         public BinaryTree FindSuccessorV2(BinaryTree tree, BinaryTree node)
         {
             // Write your code here.
+            //the node successor will be always the left most node in the right sub tree    
             if (node.right != null)
                 return getLeftmostChild(node.right);
             return getRightmostParent(node);
