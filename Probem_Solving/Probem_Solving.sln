@@ -153,6 +153,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colliding Asteroids", "Coll
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Max Subset Sum No Adjacent", "Max Subset Sum No Adjacent\Max Subset Sum No Adjacent.csproj", "{2678C81B-70CE-4A53-94BB-B4F0B8C75CA9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number Of Ways To Make Change", "Number Of Ways To Make Change\Number Of Ways To Make Change.csproj", "{EFE5C638-7503-4B19-B78C-C218501CDD0C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -459,6 +461,10 @@ Global
 		{2678C81B-70CE-4A53-94BB-B4F0B8C75CA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2678C81B-70CE-4A53-94BB-B4F0B8C75CA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2678C81B-70CE-4A53-94BB-B4F0B8C75CA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFE5C638-7503-4B19-B78C-C218501CDD0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFE5C638-7503-4B19-B78C-C218501CDD0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFE5C638-7503-4B19-B78C-C218501CDD0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFE5C638-7503-4B19-B78C-C218501CDD0C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

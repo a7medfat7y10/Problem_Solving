@@ -1,0 +1,15 @@
+D:\Repos\Problem_Solving\Probem_Solving\Number Of Ways To Make Change\bin\Debug\net7.0\Number Of Ways To Make Change.exe
+D:\Repos\Problem_Solving\Probem_Solving\Number Of Ways To Make Change\bin\Debug\net7.0\Number Of Ways To Make Change.deps.json
+D:\Repos\Problem_Solving\Probem_Solving\Number Of Ways To Make Change\bin\Debug\net7.0\Number Of Ways To Make Change.runtimeconfig.json
+D:\Repos\Problem_Solving\Probem_Solving\Number Of Ways To Make Change\bin\Debug\net7.0\Number Of Ways To Make Change.dll
+D:\Repos\Problem_Solving\Probem_Solving\Number Of Ways To Make Change\bin\Debug\net7.0\Number Of Ways To Make Change.pdb
+D:\Repos\Problem_Solving\Probem_Solving\Number Of Ways To Make Change\obj\Debug\net7.0\Number Of Ways To Make Change.csproj.AssemblyReference.cache
+D:\Repos\Problem_Solving\Probem_Solving\Number Of Ways To Make Change\obj\Debug\net7.0\Number Of Ways To Make Change.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Problem_Solving\Probem_Solving\Number Of Ways To Make Change\obj\Debug\net7.0\Number Of Ways To Make Change.AssemblyInfoInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\Number Of Ways To Make Change\obj\Debug\net7.0\Number Of Ways To Make Change.AssemblyInfo.cs
+D:\Repos\Problem_Solving\Probem_Solving\Number Of Ways To Make Change\obj\Debug\net7.0\Number Of Ways To Make Change.csproj.CoreCompileInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\Number Of Ways To Make Change\obj\Debug\net7.0\Number Of Ways To Make Change.dll
+D:\Repos\Problem_Solving\Probem_Solving\Number Of Ways To Make Change\obj\Debug\net7.0\refint\Number Of Ways To Make Change.dll
+D:\Repos\Problem_Solving\Probem_Solving\Number Of Ways To Make Change\obj\Debug\net7.0\Number Of Ways To Make Change.pdb
+D:\Repos\Problem_Solving\Probem_Solving\Number Of Ways To Make Change\obj\Debug\net7.0\Number Of Ways To Make Change.genruntimeconfig.cache
+D:\Repos\Problem_Solving\Probem_Solving\Number Of Ways To Make Change\obj\Debug\net7.0\ref\Number Of Ways To Make Change.dll
