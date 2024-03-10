@@ -1,0 +1,15 @@
+D:\Repos\Problem_Solving\Probem_Solving\Max Subset Sum No Adjacent\bin\Debug\net7.0\Max Subset Sum No Adjacent.exe
+D:\Repos\Problem_Solving\Probem_Solving\Max Subset Sum No Adjacent\bin\Debug\net7.0\Max Subset Sum No Adjacent.deps.json
+D:\Repos\Problem_Solving\Probem_Solving\Max Subset Sum No Adjacent\bin\Debug\net7.0\Max Subset Sum No Adjacent.runtimeconfig.json
+D:\Repos\Problem_Solving\Probem_Solving\Max Subset Sum No Adjacent\bin\Debug\net7.0\Max Subset Sum No Adjacent.dll
+D:\Repos\Problem_Solving\Probem_Solving\Max Subset Sum No Adjacent\bin\Debug\net7.0\Max Subset Sum No Adjacent.pdb
+D:\Repos\Problem_Solving\Probem_Solving\Max Subset Sum No Adjacent\obj\Debug\net7.0\Max Subset Sum No Adjacent.csproj.AssemblyReference.cache
+D:\Repos\Problem_Solving\Probem_Solving\Max Subset Sum No Adjacent\obj\Debug\net7.0\Max Subset Sum No Adjacent.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Problem_Solving\Probem_Solving\Max Subset Sum No Adjacent\obj\Debug\net7.0\Max Subset Sum No Adjacent.AssemblyInfoInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\Max Subset Sum No Adjacent\obj\Debug\net7.0\Max Subset Sum No Adjacent.AssemblyInfo.cs
+D:\Repos\Problem_Solving\Probem_Solving\Max Subset Sum No Adjacent\obj\Debug\net7.0\Max Subset Sum No Adjacent.csproj.CoreCompileInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\Max Subset Sum No Adjacent\obj\Debug\net7.0\Max Subset Sum No Adjacent.dll
+D:\Repos\Problem_Solving\Probem_Solving\Max Subset Sum No Adjacent\obj\Debug\net7.0\refint\Max Subset Sum No Adjacent.dll
+D:\Repos\Problem_Solving\Probem_Solving\Max Subset Sum No Adjacent\obj\Debug\net7.0\Max Subset Sum No Adjacent.pdb
+D:\Repos\Problem_Solving\Probem_Solving\Max Subset Sum No Adjacent\obj\Debug\net7.0\Max Subset Sum No Adjacent.genruntimeconfig.cache
+D:\Repos\Problem_Solving\Probem_Solving\Max Subset Sum No Adjacent\obj\Debug\net7.0\ref\Max Subset Sum No Adjacent.dll
