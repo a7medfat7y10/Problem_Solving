@@ -1,0 +1,15 @@
+D:\Repos\Problem_Solving\Probem_Solving\Invert Binary Tree\bin\Debug\net7.0\Invert Binary Tree.exe
+D:\Repos\Problem_Solving\Probem_Solving\Invert Binary Tree\bin\Debug\net7.0\Invert Binary Tree.deps.json
+D:\Repos\Problem_Solving\Probem_Solving\Invert Binary Tree\bin\Debug\net7.0\Invert Binary Tree.runtimeconfig.json
+D:\Repos\Problem_Solving\Probem_Solving\Invert Binary Tree\bin\Debug\net7.0\Invert Binary Tree.dll
+D:\Repos\Problem_Solving\Probem_Solving\Invert Binary Tree\bin\Debug\net7.0\Invert Binary Tree.pdb
+D:\Repos\Problem_Solving\Probem_Solving\Invert Binary Tree\obj\Debug\net7.0\Invert Binary Tree.csproj.AssemblyReference.cache
+D:\Repos\Problem_Solving\Probem_Solving\Invert Binary Tree\obj\Debug\net7.0\Invert Binary Tree.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Problem_Solving\Probem_Solving\Invert Binary Tree\obj\Debug\net7.0\Invert Binary Tree.AssemblyInfoInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\Invert Binary Tree\obj\Debug\net7.0\Invert Binary Tree.AssemblyInfo.cs
+D:\Repos\Problem_Solving\Probem_Solving\Invert Binary Tree\obj\Debug\net7.0\Invert Binary Tree.csproj.CoreCompileInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\Invert Binary Tree\obj\Debug\net7.0\Invert Binary Tree.dll
+D:\Repos\Problem_Solving\Probem_Solving\Invert Binary Tree\obj\Debug\net7.0\refint\Invert Binary Tree.dll
+D:\Repos\Problem_Solving\Probem_Solving\Invert Binary Tree\obj\Debug\net7.0\Invert Binary Tree.pdb
+D:\Repos\Problem_Solving\Probem_Solving\Invert Binary Tree\obj\Debug\net7.0\Invert Binary Tree.genruntimeconfig.cache
+D:\Repos\Problem_Solving\Probem_Solving\Invert Binary Tree\obj\Debug\net7.0\ref\Invert Binary Tree.dll
