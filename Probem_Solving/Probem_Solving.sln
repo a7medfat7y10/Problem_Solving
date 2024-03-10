@@ -155,6 +155,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Max Subset Sum No Adjacent"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number Of Ways To Make Change", "Number Of Ways To Make Change\Number Of Ways To Make Change.csproj", "{EFE5C638-7503-4B19-B78C-C218501CDD0C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Min Number Of Coins For Change", "Min Number Of Coins For Change\Min Number Of Coins For Change.csproj", "{F0638121-33F8-41C4-A70F-A0E27C7840EC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -465,6 +467,10 @@ Global
 		{EFE5C638-7503-4B19-B78C-C218501CDD0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EFE5C638-7503-4B19-B78C-C218501CDD0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EFE5C638-7503-4B19-B78C-C218501CDD0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0638121-33F8-41C4-A70F-A0E27C7840EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0638121-33F8-41C4-A70F-A0E27C7840EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0638121-33F8-41C4-A70F-A0E27C7840EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0638121-33F8-41C4-A70F-A0E27C7840EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

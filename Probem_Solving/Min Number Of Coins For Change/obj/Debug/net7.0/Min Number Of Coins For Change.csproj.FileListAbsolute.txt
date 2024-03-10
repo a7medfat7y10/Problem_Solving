@@ -1,0 +1,15 @@
+D:\Repos\Problem_Solving\Probem_Solving\Min Number Of Coins For Change\bin\Debug\net7.0\Min Number Of Coins For Change.exe
+D:\Repos\Problem_Solving\Probem_Solving\Min Number Of Coins For Change\bin\Debug\net7.0\Min Number Of Coins For Change.deps.json
+D:\Repos\Problem_Solving\Probem_Solving\Min Number Of Coins For Change\bin\Debug\net7.0\Min Number Of Coins For Change.runtimeconfig.json
+D:\Repos\Problem_Solving\Probem_Solving\Min Number Of Coins For Change\bin\Debug\net7.0\Min Number Of Coins For Change.dll
+D:\Repos\Problem_Solving\Probem_Solving\Min Number Of Coins For Change\bin\Debug\net7.0\Min Number Of Coins For Change.pdb
+D:\Repos\Problem_Solving\Probem_Solving\Min Number Of Coins For Change\obj\Debug\net7.0\Min Number Of Coins For Change.csproj.AssemblyReference.cache
+D:\Repos\Problem_Solving\Probem_Solving\Min Number Of Coins For Change\obj\Debug\net7.0\Min Number Of Coins For Change.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Problem_Solving\Probem_Solving\Min Number Of Coins For Change\obj\Debug\net7.0\Min Number Of Coins For Change.AssemblyInfoInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\Min Number Of Coins For Change\obj\Debug\net7.0\Min Number Of Coins For Change.AssemblyInfo.cs
+D:\Repos\Problem_Solving\Probem_Solving\Min Number Of Coins For Change\obj\Debug\net7.0\Min Number Of Coins For Change.csproj.CoreCompileInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\Min Number Of Coins For Change\obj\Debug\net7.0\Min Number Of Coins For Change.dll
+D:\Repos\Problem_Solving\Probem_Solving\Min Number Of Coins For Change\obj\Debug\net7.0\refint\Min Number Of Coins For Change.dll
+D:\Repos\Problem_Solving\Probem_Solving\Min Number Of Coins For Change\obj\Debug\net7.0\Min Number Of Coins For Change.pdb
+D:\Repos\Problem_Solving\Probem_Solving\Min Number Of Coins For Change\obj\Debug\net7.0\Min Number Of Coins For Change.genruntimeconfig.cache
+D:\Repos\Problem_Solving\Probem_Solving\Min Number Of Coins For Change\obj\Debug\net7.0\ref\Min Number Of Coins For Change.dll
