@@ -1,0 +1,15 @@
+D:\Repos\Problem_Solving\Probem_Solving\Find Successor\bin\Debug\net7.0\Find Successor.exe
+D:\Repos\Problem_Solving\Probem_Solving\Find Successor\bin\Debug\net7.0\Find Successor.deps.json
+D:\Repos\Problem_Solving\Probem_Solving\Find Successor\bin\Debug\net7.0\Find Successor.runtimeconfig.json
+D:\Repos\Problem_Solving\Probem_Solving\Find Successor\bin\Debug\net7.0\Find Successor.dll
+D:\Repos\Problem_Solving\Probem_Solving\Find Successor\bin\Debug\net7.0\Find Successor.pdb
+D:\Repos\Problem_Solving\Probem_Solving\Find Successor\obj\Debug\net7.0\Find Successor.csproj.AssemblyReference.cache
+D:\Repos\Problem_Solving\Probem_Solving\Find Successor\obj\Debug\net7.0\Find Successor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Problem_Solving\Probem_Solving\Find Successor\obj\Debug\net7.0\Find Successor.AssemblyInfoInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\Find Successor\obj\Debug\net7.0\Find Successor.AssemblyInfo.cs
+D:\Repos\Problem_Solving\Probem_Solving\Find Successor\obj\Debug\net7.0\Find Successor.csproj.CoreCompileInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\Find Successor\obj\Debug\net7.0\Find Successor.dll
+D:\Repos\Problem_Solving\Probem_Solving\Find Successor\obj\Debug\net7.0\refint\Find Successor.dll
+D:\Repos\Problem_Solving\Probem_Solving\Find Successor\obj\Debug\net7.0\Find Successor.pdb
+D:\Repos\Problem_Solving\Probem_Solving\Find Successor\obj\Debug\net7.0\Find Successor.genruntimeconfig.cache
+D:\Repos\Problem_Solving\Probem_Solving\Find Successor\obj\Debug\net7.0\ref\Find Successor.dll

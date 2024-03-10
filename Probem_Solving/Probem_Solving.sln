@@ -161,6 +161,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Invert Binary Tree", "Inver
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binary Tree Diameter", "Binary Tree Diameter\Binary Tree Diameter.csproj", "{71BF2047-C8D3-4CA5-90B2-71F5644CAA63}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find Successor", "Find Successor\Find Successor.csproj", "{7B356AD2-1F15-43D7-AFB1-D4E1A5C850DF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -483,6 +485,10 @@ Global
 		{71BF2047-C8D3-4CA5-90B2-71F5644CAA63}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71BF2047-C8D3-4CA5-90B2-71F5644CAA63}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71BF2047-C8D3-4CA5-90B2-71F5644CAA63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B356AD2-1F15-43D7-AFB1-D4E1A5C850DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B356AD2-1F15-43D7-AFB1-D4E1A5C850DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B356AD2-1F15-43D7-AFB1-D4E1A5C850DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B356AD2-1F15-43D7-AFB1-D4E1A5C850DF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
