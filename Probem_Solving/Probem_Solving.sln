@@ -159,6 +159,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Min Number Of Coins For Cha
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Invert Binary Tree", "Invert Binary Tree\Invert Binary Tree.csproj", "{C087267E-B3A7-40B0-862B-7B7FD48BFBF5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binary Tree Diameter", "Binary Tree Diameter\Binary Tree Diameter.csproj", "{71BF2047-C8D3-4CA5-90B2-71F5644CAA63}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -477,6 +479,10 @@ Global
 		{C087267E-B3A7-40B0-862B-7B7FD48BFBF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C087267E-B3A7-40B0-862B-7B7FD48BFBF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C087267E-B3A7-40B0-862B-7B7FD48BFBF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71BF2047-C8D3-4CA5-90B2-71F5644CAA63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71BF2047-C8D3-4CA5-90B2-71F5644CAA63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71BF2047-C8D3-4CA5-90B2-71F5644CAA63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71BF2047-C8D3-4CA5-90B2-71F5644CAA63}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
