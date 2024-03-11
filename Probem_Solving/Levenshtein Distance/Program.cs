@@ -6,6 +6,7 @@
         {
             Console.WriteLine(LevenshteinDistance("abd", "yabc"));
         }
+        //O(nm) time / O(nm) space
         public static int LevenshteinDistance(string str1, string str2)
         {
             // Write your code here.
