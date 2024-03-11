@@ -173,6 +173,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Levenshtein Distance", "Lev
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number Of Ways To Traverse Graph", "Number Of Ways To Traverse Graph\Number Of Ways To Traverse Graph.csproj", "{2B854DDF-732B-4DEC-9C7C-6298DCD95402}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BST Construction", "BST Construction\BST Construction.csproj", "{A7B35708-21DC-48FC-93DB-47A3243FA2EE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -519,6 +521,10 @@ Global
 		{2B854DDF-732B-4DEC-9C7C-6298DCD95402}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B854DDF-732B-4DEC-9C7C-6298DCD95402}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2B854DDF-732B-4DEC-9C7C-6298DCD95402}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7B35708-21DC-48FC-93DB-47A3243FA2EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7B35708-21DC-48FC-93DB-47A3243FA2EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7B35708-21DC-48FC-93DB-47A3243FA2EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7B35708-21DC-48FC-93DB-47A3243FA2EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
