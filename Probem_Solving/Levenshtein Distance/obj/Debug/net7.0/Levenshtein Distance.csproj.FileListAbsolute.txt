@@ -1,0 +1,15 @@
+D:\Repos\Problem_Solving\Probem_Solving\Levenshtein Distance\bin\Debug\net7.0\Levenshtein Distance.exe
+D:\Repos\Problem_Solving\Probem_Solving\Levenshtein Distance\bin\Debug\net7.0\Levenshtein Distance.deps.json
+D:\Repos\Problem_Solving\Probem_Solving\Levenshtein Distance\bin\Debug\net7.0\Levenshtein Distance.runtimeconfig.json
+D:\Repos\Problem_Solving\Probem_Solving\Levenshtein Distance\bin\Debug\net7.0\Levenshtein Distance.dll
+D:\Repos\Problem_Solving\Probem_Solving\Levenshtein Distance\bin\Debug\net7.0\Levenshtein Distance.pdb
+D:\Repos\Problem_Solving\Probem_Solving\Levenshtein Distance\obj\Debug\net7.0\Levenshtein Distance.csproj.AssemblyReference.cache
+D:\Repos\Problem_Solving\Probem_Solving\Levenshtein Distance\obj\Debug\net7.0\Levenshtein Distance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Problem_Solving\Probem_Solving\Levenshtein Distance\obj\Debug\net7.0\Levenshtein Distance.AssemblyInfoInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\Levenshtein Distance\obj\Debug\net7.0\Levenshtein Distance.AssemblyInfo.cs
+D:\Repos\Problem_Solving\Probem_Solving\Levenshtein Distance\obj\Debug\net7.0\Levenshtein Distance.csproj.CoreCompileInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\Levenshtein Distance\obj\Debug\net7.0\Levenshtein Distance.dll
+D:\Repos\Problem_Solving\Probem_Solving\Levenshtein Distance\obj\Debug\net7.0\refint\Levenshtein Distance.dll
+D:\Repos\Problem_Solving\Probem_Solving\Levenshtein Distance\obj\Debug\net7.0\Levenshtein Distance.pdb
+D:\Repos\Problem_Solving\Probem_Solving\Levenshtein Distance\obj\Debug\net7.0\Levenshtein Distance.genruntimeconfig.cache
+D:\Repos\Problem_Solving\Probem_Solving\Levenshtein Distance\obj\Debug\net7.0\ref\Levenshtein Distance.dll
