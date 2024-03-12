@@ -177,6 +177,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BST Construction", "BST Con
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Single Cycle Check", "Single Cycle Check\Single Cycle Check.csproj", "{61CAC9E5-B298-41B3-8507-85A6FAE3FC27}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Validate BST", "Validate BST\Validate BST.csproj", "{EC4C3AFE-E0FA-44C0-BC4A-FFC82419C684}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -531,6 +533,10 @@ Global
 		{61CAC9E5-B298-41B3-8507-85A6FAE3FC27}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{61CAC9E5-B298-41B3-8507-85A6FAE3FC27}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{61CAC9E5-B298-41B3-8507-85A6FAE3FC27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC4C3AFE-E0FA-44C0-BC4A-FFC82419C684}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC4C3AFE-E0FA-44C0-BC4A-FFC82419C684}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC4C3AFE-E0FA-44C0-BC4A-FFC82419C684}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC4C3AFE-E0FA-44C0-BC4A-FFC82419C684}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

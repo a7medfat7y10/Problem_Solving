@@ -1,0 +1,15 @@
+D:\Repos\Problem_Solving\Probem_Solving\Validate BST\bin\Debug\net7.0\Validate BST.exe
+D:\Repos\Problem_Solving\Probem_Solving\Validate BST\bin\Debug\net7.0\Validate BST.deps.json
+D:\Repos\Problem_Solving\Probem_Solving\Validate BST\bin\Debug\net7.0\Validate BST.runtimeconfig.json
+D:\Repos\Problem_Solving\Probem_Solving\Validate BST\bin\Debug\net7.0\Validate BST.dll
+D:\Repos\Problem_Solving\Probem_Solving\Validate BST\bin\Debug\net7.0\Validate BST.pdb
+D:\Repos\Problem_Solving\Probem_Solving\Validate BST\obj\Debug\net7.0\Validate BST.csproj.AssemblyReference.cache
+D:\Repos\Problem_Solving\Probem_Solving\Validate BST\obj\Debug\net7.0\Validate BST.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Problem_Solving\Probem_Solving\Validate BST\obj\Debug\net7.0\Validate BST.AssemblyInfoInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\Validate BST\obj\Debug\net7.0\Validate BST.AssemblyInfo.cs
+D:\Repos\Problem_Solving\Probem_Solving\Validate BST\obj\Debug\net7.0\Validate BST.csproj.CoreCompileInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\Validate BST\obj\Debug\net7.0\Validate BST.dll
+D:\Repos\Problem_Solving\Probem_Solving\Validate BST\obj\Debug\net7.0\refint\Validate BST.dll
+D:\Repos\Problem_Solving\Probem_Solving\Validate BST\obj\Debug\net7.0\Validate BST.pdb
+D:\Repos\Problem_Solving\Probem_Solving\Validate BST\obj\Debug\net7.0\Validate BST.genruntimeconfig.cache
+D:\Repos\Problem_Solving\Probem_Solving\Validate BST\obj\Debug\net7.0\ref\Validate BST.dll
