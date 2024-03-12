@@ -175,6 +175,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number Of Ways To Traverse 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BST Construction", "BST Construction\BST Construction.csproj", "{A7B35708-21DC-48FC-93DB-47A3243FA2EE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Single Cycle Check", "Single Cycle Check\Single Cycle Check.csproj", "{61CAC9E5-B298-41B3-8507-85A6FAE3FC27}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -525,6 +527,10 @@ Global
 		{A7B35708-21DC-48FC-93DB-47A3243FA2EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A7B35708-21DC-48FC-93DB-47A3243FA2EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A7B35708-21DC-48FC-93DB-47A3243FA2EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61CAC9E5-B298-41B3-8507-85A6FAE3FC27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61CAC9E5-B298-41B3-8507-85A6FAE3FC27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61CAC9E5-B298-41B3-8507-85A6FAE3FC27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61CAC9E5-B298-41B3-8507-85A6FAE3FC27}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
