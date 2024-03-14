@@ -1,0 +1,15 @@
+D:\Repos\Problem_Solving\Probem_Solving\Min Height BST\bin\Debug\net7.0\Min Height BST.exe
+D:\Repos\Problem_Solving\Probem_Solving\Min Height BST\bin\Debug\net7.0\Min Height BST.deps.json
+D:\Repos\Problem_Solving\Probem_Solving\Min Height BST\bin\Debug\net7.0\Min Height BST.runtimeconfig.json
+D:\Repos\Problem_Solving\Probem_Solving\Min Height BST\bin\Debug\net7.0\Min Height BST.dll
+D:\Repos\Problem_Solving\Probem_Solving\Min Height BST\bin\Debug\net7.0\Min Height BST.pdb
+D:\Repos\Problem_Solving\Probem_Solving\Min Height BST\obj\Debug\net7.0\Min Height BST.csproj.AssemblyReference.cache
+D:\Repos\Problem_Solving\Probem_Solving\Min Height BST\obj\Debug\net7.0\Min Height BST.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Problem_Solving\Probem_Solving\Min Height BST\obj\Debug\net7.0\Min Height BST.AssemblyInfoInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\Min Height BST\obj\Debug\net7.0\Min Height BST.AssemblyInfo.cs
+D:\Repos\Problem_Solving\Probem_Solving\Min Height BST\obj\Debug\net7.0\Min Height BST.csproj.CoreCompileInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\Min Height BST\obj\Debug\net7.0\Min Height BST.dll
+D:\Repos\Problem_Solving\Probem_Solving\Min Height BST\obj\Debug\net7.0\refint\Min Height BST.dll
+D:\Repos\Problem_Solving\Probem_Solving\Min Height BST\obj\Debug\net7.0\Min Height BST.pdb
+D:\Repos\Problem_Solving\Probem_Solving\Min Height BST\obj\Debug\net7.0\Min Height BST.genruntimeconfig.cache
+D:\Repos\Problem_Solving\Probem_Solving\Min Height BST\obj\Debug\net7.0\ref\Min Height BST.dll

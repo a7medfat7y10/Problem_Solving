@@ -181,6 +181,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Validate BST", "Validate BS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BST Traversal", "BST Traversal\BST Traversal.csproj", "{F3C30942-2277-4A52-A0E7-F7528F2AFDCB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Min Height BST", "Min Height BST\Min Height BST.csproj", "{60AA51D9-3B0F-4A22-8E8C-5513EB5AF10A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -543,6 +545,10 @@ Global
 		{F3C30942-2277-4A52-A0E7-F7528F2AFDCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F3C30942-2277-4A52-A0E7-F7528F2AFDCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F3C30942-2277-4A52-A0E7-F7528F2AFDCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60AA51D9-3B0F-4A22-8E8C-5513EB5AF10A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60AA51D9-3B0F-4A22-8E8C-5513EB5AF10A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60AA51D9-3B0F-4A22-8E8C-5513EB5AF10A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60AA51D9-3B0F-4A22-8E8C-5513EB5AF10A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
