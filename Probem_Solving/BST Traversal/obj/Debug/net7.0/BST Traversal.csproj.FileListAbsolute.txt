@@ -1,0 +1,15 @@
+D:\Repos\Problem_Solving\Probem_Solving\BST Traversal\bin\Debug\net7.0\BST Traversal.exe
+D:\Repos\Problem_Solving\Probem_Solving\BST Traversal\bin\Debug\net7.0\BST Traversal.deps.json
+D:\Repos\Problem_Solving\Probem_Solving\BST Traversal\bin\Debug\net7.0\BST Traversal.runtimeconfig.json
+D:\Repos\Problem_Solving\Probem_Solving\BST Traversal\bin\Debug\net7.0\BST Traversal.dll
+D:\Repos\Problem_Solving\Probem_Solving\BST Traversal\bin\Debug\net7.0\BST Traversal.pdb
+D:\Repos\Problem_Solving\Probem_Solving\BST Traversal\obj\Debug\net7.0\BST Traversal.csproj.AssemblyReference.cache
+D:\Repos\Problem_Solving\Probem_Solving\BST Traversal\obj\Debug\net7.0\BST Traversal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Problem_Solving\Probem_Solving\BST Traversal\obj\Debug\net7.0\BST Traversal.AssemblyInfoInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\BST Traversal\obj\Debug\net7.0\BST Traversal.AssemblyInfo.cs
+D:\Repos\Problem_Solving\Probem_Solving\BST Traversal\obj\Debug\net7.0\BST Traversal.csproj.CoreCompileInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\BST Traversal\obj\Debug\net7.0\BST Traversal.dll
+D:\Repos\Problem_Solving\Probem_Solving\BST Traversal\obj\Debug\net7.0\refint\BST Traversal.dll
+D:\Repos\Problem_Solving\Probem_Solving\BST Traversal\obj\Debug\net7.0\BST Traversal.pdb
+D:\Repos\Problem_Solving\Probem_Solving\BST Traversal\obj\Debug\net7.0\BST Traversal.genruntimeconfig.cache
+D:\Repos\Problem_Solving\Probem_Solving\BST Traversal\obj\Debug\net7.0\ref\BST Traversal.dll
