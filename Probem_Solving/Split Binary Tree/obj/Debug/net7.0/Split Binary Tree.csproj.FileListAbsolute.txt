@@ -1,0 +1,15 @@
+D:\Repos\Problem_Solving\Probem_Solving\Split Binary Tree\bin\Debug\net7.0\Split Binary Tree.exe
+D:\Repos\Problem_Solving\Probem_Solving\Split Binary Tree\bin\Debug\net7.0\Split Binary Tree.deps.json
+D:\Repos\Problem_Solving\Probem_Solving\Split Binary Tree\bin\Debug\net7.0\Split Binary Tree.runtimeconfig.json
+D:\Repos\Problem_Solving\Probem_Solving\Split Binary Tree\bin\Debug\net7.0\Split Binary Tree.dll
+D:\Repos\Problem_Solving\Probem_Solving\Split Binary Tree\bin\Debug\net7.0\Split Binary Tree.pdb
+D:\Repos\Problem_Solving\Probem_Solving\Split Binary Tree\obj\Debug\net7.0\Split Binary Tree.csproj.AssemblyReference.cache
+D:\Repos\Problem_Solving\Probem_Solving\Split Binary Tree\obj\Debug\net7.0\Split Binary Tree.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Problem_Solving\Probem_Solving\Split Binary Tree\obj\Debug\net7.0\Split Binary Tree.AssemblyInfoInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\Split Binary Tree\obj\Debug\net7.0\Split Binary Tree.AssemblyInfo.cs
+D:\Repos\Problem_Solving\Probem_Solving\Split Binary Tree\obj\Debug\net7.0\Split Binary Tree.csproj.CoreCompileInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\Split Binary Tree\obj\Debug\net7.0\Split Binary Tree.dll
+D:\Repos\Problem_Solving\Probem_Solving\Split Binary Tree\obj\Debug\net7.0\refint\Split Binary Tree.dll
+D:\Repos\Problem_Solving\Probem_Solving\Split Binary Tree\obj\Debug\net7.0\Split Binary Tree.pdb
+D:\Repos\Problem_Solving\Probem_Solving\Split Binary Tree\obj\Debug\net7.0\Split Binary Tree.genruntimeconfig.cache
+D:\Repos\Problem_Solving\Probem_Solving\Split Binary Tree\obj\Debug\net7.0\ref\Split Binary Tree.dll
