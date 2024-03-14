@@ -1,0 +1,15 @@
+D:\Repos\Problem_Solving\Probem_Solving\Find Kth Largest Value In BST\bin\Debug\net7.0\Find Kth Largest Value In BST.exe
+D:\Repos\Problem_Solving\Probem_Solving\Find Kth Largest Value In BST\bin\Debug\net7.0\Find Kth Largest Value In BST.deps.json
+D:\Repos\Problem_Solving\Probem_Solving\Find Kth Largest Value In BST\bin\Debug\net7.0\Find Kth Largest Value In BST.runtimeconfig.json
+D:\Repos\Problem_Solving\Probem_Solving\Find Kth Largest Value In BST\bin\Debug\net7.0\Find Kth Largest Value In BST.dll
+D:\Repos\Problem_Solving\Probem_Solving\Find Kth Largest Value In BST\bin\Debug\net7.0\Find Kth Largest Value In BST.pdb
+D:\Repos\Problem_Solving\Probem_Solving\Find Kth Largest Value In BST\obj\Debug\net7.0\Find Kth Largest Value In BST.csproj.AssemblyReference.cache
+D:\Repos\Problem_Solving\Probem_Solving\Find Kth Largest Value In BST\obj\Debug\net7.0\Find Kth Largest Value In BST.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Problem_Solving\Probem_Solving\Find Kth Largest Value In BST\obj\Debug\net7.0\Find Kth Largest Value In BST.AssemblyInfoInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\Find Kth Largest Value In BST\obj\Debug\net7.0\Find Kth Largest Value In BST.AssemblyInfo.cs
+D:\Repos\Problem_Solving\Probem_Solving\Find Kth Largest Value In BST\obj\Debug\net7.0\Find Kth Largest Value In BST.csproj.CoreCompileInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\Find Kth Largest Value In BST\obj\Debug\net7.0\Find Kth Largest Value In BST.dll
+D:\Repos\Problem_Solving\Probem_Solving\Find Kth Largest Value In BST\obj\Debug\net7.0\refint\Find Kth Largest Value In BST.dll
+D:\Repos\Problem_Solving\Probem_Solving\Find Kth Largest Value In BST\obj\Debug\net7.0\Find Kth Largest Value In BST.pdb
+D:\Repos\Problem_Solving\Probem_Solving\Find Kth Largest Value In BST\obj\Debug\net7.0\Find Kth Largest Value In BST.genruntimeconfig.cache
+D:\Repos\Problem_Solving\Probem_Solving\Find Kth Largest Value In BST\obj\Debug\net7.0\ref\Find Kth Largest Value In BST.dll

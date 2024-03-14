@@ -143,45 +143,47 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sunset Views", "Sunset View
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Best Digits", "Best Digits\Best Digits.csproj", "{9CA706E7-C0EE-4D75-A92E-C57F66C32C3B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sort Stack", "Sort Stack\Sort Stack.csproj", "{BAA422B3-45E7-4C8B-B1B4-DFEA4B639F99}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sort Stack", "Sort Stack\Sort Stack.csproj", "{BAA422B3-45E7-4C8B-B1B4-DFEA4B639F99}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Next Greater Element", "Next Greater Element\Next Greater Element.csproj", "{686B277D-0B3D-4D7C-ADF9-F9CC3FC2CC3A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Next Greater Element", "Next Greater Element\Next Greater Element.csproj", "{686B277D-0B3D-4D7C-ADF9-F9CC3FC2CC3A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse Polish Notation", "Reverse Polish Notation\Reverse Polish Notation.csproj", "{532EF06E-452F-460E-80FE-F0B434F8B6C6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reverse Polish Notation", "Reverse Polish Notation\Reverse Polish Notation.csproj", "{532EF06E-452F-460E-80FE-F0B434F8B6C6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colliding Asteroids", "Colliding Asteroids\Colliding Asteroids.csproj", "{FF4F59DC-B5C9-43ED-A6A3-AAF84FF2ACE8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Colliding Asteroids", "Colliding Asteroids\Colliding Asteroids.csproj", "{FF4F59DC-B5C9-43ED-A6A3-AAF84FF2ACE8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Max Subset Sum No Adjacent", "Max Subset Sum No Adjacent\Max Subset Sum No Adjacent.csproj", "{2678C81B-70CE-4A53-94BB-B4F0B8C75CA9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Max Subset Sum No Adjacent", "Max Subset Sum No Adjacent\Max Subset Sum No Adjacent.csproj", "{2678C81B-70CE-4A53-94BB-B4F0B8C75CA9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number Of Ways To Make Change", "Number Of Ways To Make Change\Number Of Ways To Make Change.csproj", "{EFE5C638-7503-4B19-B78C-C218501CDD0C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Number Of Ways To Make Change", "Number Of Ways To Make Change\Number Of Ways To Make Change.csproj", "{EFE5C638-7503-4B19-B78C-C218501CDD0C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Min Number Of Coins For Change", "Min Number Of Coins For Change\Min Number Of Coins For Change.csproj", "{F0638121-33F8-41C4-A70F-A0E27C7840EC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Min Number Of Coins For Change", "Min Number Of Coins For Change\Min Number Of Coins For Change.csproj", "{F0638121-33F8-41C4-A70F-A0E27C7840EC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Invert Binary Tree", "Invert Binary Tree\Invert Binary Tree.csproj", "{C087267E-B3A7-40B0-862B-7B7FD48BFBF5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Invert Binary Tree", "Invert Binary Tree\Invert Binary Tree.csproj", "{C087267E-B3A7-40B0-862B-7B7FD48BFBF5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binary Tree Diameter", "Binary Tree Diameter\Binary Tree Diameter.csproj", "{71BF2047-C8D3-4CA5-90B2-71F5644CAA63}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Binary Tree Diameter", "Binary Tree Diameter\Binary Tree Diameter.csproj", "{71BF2047-C8D3-4CA5-90B2-71F5644CAA63}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find Successor", "Find Successor\Find Successor.csproj", "{7B356AD2-1F15-43D7-AFB1-D4E1A5C850DF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Find Successor", "Find Successor\Find Successor.csproj", "{7B356AD2-1F15-43D7-AFB1-D4E1A5C850DF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Height Balanced Binary Tree", "Height Balanced Binary Tree\Height Balanced Binary Tree.csproj", "{5C4E6B81-9AFD-4969-A225-85CBB7DF60C9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Height Balanced Binary Tree", "Height Balanced Binary Tree\Height Balanced Binary Tree.csproj", "{5C4E6B81-9AFD-4969-A225-85CBB7DF60C9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Merge Binary Trees", "Merge Binary Trees\Merge Binary Trees.csproj", "{DA7787EC-ECBD-465D-AA12-779496034F36}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Merge Binary Trees", "Merge Binary Trees\Merge Binary Trees.csproj", "{DA7787EC-ECBD-465D-AA12-779496034F36}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Symmetrical Tree", "Symmetrical Tree\Symmetrical Tree.csproj", "{C332A5F1-DE4E-4BE0-BE16-FEC3E574E0B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Symmetrical Tree", "Symmetrical Tree\Symmetrical Tree.csproj", "{C332A5F1-DE4E-4BE0-BE16-FEC3E574E0B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Levenshtein Distance", "Levenshtein Distance\Levenshtein Distance.csproj", "{A7596B52-4495-46B4-97C6-956F0D38D7A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Levenshtein Distance", "Levenshtein Distance\Levenshtein Distance.csproj", "{A7596B52-4495-46B4-97C6-956F0D38D7A7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number Of Ways To Traverse Graph", "Number Of Ways To Traverse Graph\Number Of Ways To Traverse Graph.csproj", "{2B854DDF-732B-4DEC-9C7C-6298DCD95402}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Number Of Ways To Traverse Graph", "Number Of Ways To Traverse Graph\Number Of Ways To Traverse Graph.csproj", "{2B854DDF-732B-4DEC-9C7C-6298DCD95402}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BST Construction", "BST Construction\BST Construction.csproj", "{A7B35708-21DC-48FC-93DB-47A3243FA2EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BST Construction", "BST Construction\BST Construction.csproj", "{A7B35708-21DC-48FC-93DB-47A3243FA2EE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Single Cycle Check", "Single Cycle Check\Single Cycle Check.csproj", "{61CAC9E5-B298-41B3-8507-85A6FAE3FC27}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Single Cycle Check", "Single Cycle Check\Single Cycle Check.csproj", "{61CAC9E5-B298-41B3-8507-85A6FAE3FC27}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Validate BST", "Validate BST\Validate BST.csproj", "{EC4C3AFE-E0FA-44C0-BC4A-FFC82419C684}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Validate BST", "Validate BST\Validate BST.csproj", "{EC4C3AFE-E0FA-44C0-BC4A-FFC82419C684}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BST Traversal", "BST Traversal\BST Traversal.csproj", "{F3C30942-2277-4A52-A0E7-F7528F2AFDCB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BST Traversal", "BST Traversal\BST Traversal.csproj", "{F3C30942-2277-4A52-A0E7-F7528F2AFDCB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Min Height BST", "Min Height BST\Min Height BST.csproj", "{60AA51D9-3B0F-4A22-8E8C-5513EB5AF10A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Min Height BST", "Min Height BST\Min Height BST.csproj", "{60AA51D9-3B0F-4A22-8E8C-5513EB5AF10A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find Kth Largest Value In BST", "Find Kth Largest Value In BST\Find Kth Largest Value In BST.csproj", "{36E815F6-3B25-4606-92EF-5D96B9585785}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -549,6 +551,10 @@ Global
 		{60AA51D9-3B0F-4A22-8E8C-5513EB5AF10A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{60AA51D9-3B0F-4A22-8E8C-5513EB5AF10A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{60AA51D9-3B0F-4A22-8E8C-5513EB5AF10A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36E815F6-3B25-4606-92EF-5D96B9585785}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36E815F6-3B25-4606-92EF-5D96B9585785}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36E815F6-3B25-4606-92EF-5D96B9585785}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36E815F6-3B25-4606-92EF-5D96B9585785}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
