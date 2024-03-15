@@ -1,0 +1,15 @@
+D:\Repos\Problem_Solving\Probem_Solving\Remove Islands\bin\Debug\net7.0\Remove Islands.exe
+D:\Repos\Problem_Solving\Probem_Solving\Remove Islands\bin\Debug\net7.0\Remove Islands.deps.json
+D:\Repos\Problem_Solving\Probem_Solving\Remove Islands\bin\Debug\net7.0\Remove Islands.runtimeconfig.json
+D:\Repos\Problem_Solving\Probem_Solving\Remove Islands\bin\Debug\net7.0\Remove Islands.dll
+D:\Repos\Problem_Solving\Probem_Solving\Remove Islands\bin\Debug\net7.0\Remove Islands.pdb
+D:\Repos\Problem_Solving\Probem_Solving\Remove Islands\obj\Debug\net7.0\Remove Islands.csproj.AssemblyReference.cache
+D:\Repos\Problem_Solving\Probem_Solving\Remove Islands\obj\Debug\net7.0\Remove Islands.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Problem_Solving\Probem_Solving\Remove Islands\obj\Debug\net7.0\Remove Islands.AssemblyInfoInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\Remove Islands\obj\Debug\net7.0\Remove Islands.AssemblyInfo.cs
+D:\Repos\Problem_Solving\Probem_Solving\Remove Islands\obj\Debug\net7.0\Remove Islands.csproj.CoreCompileInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\Remove Islands\obj\Debug\net7.0\Remove Islands.dll
+D:\Repos\Problem_Solving\Probem_Solving\Remove Islands\obj\Debug\net7.0\refint\Remove Islands.dll
+D:\Repos\Problem_Solving\Probem_Solving\Remove Islands\obj\Debug\net7.0\Remove Islands.pdb
+D:\Repos\Problem_Solving\Probem_Solving\Remove Islands\obj\Debug\net7.0\Remove Islands.genruntimeconfig.cache
+D:\Repos\Problem_Solving\Probem_Solving\Remove Islands\obj\Debug\net7.0\ref\Remove Islands.dll
