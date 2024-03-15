@@ -189,6 +189,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Split Binary Tree", "Split 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reconstruct BST", "Reconstruct BST\Reconstruct BST.csproj", "{5BCCA47C-0C81-40B8-8701-0AA2D7FA082B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "River Sizes", "River Sizes\River Sizes.csproj", "{AD451412-01DC-40E5-B0EA-288D2F420D9F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -567,6 +569,10 @@ Global
 		{5BCCA47C-0C81-40B8-8701-0AA2D7FA082B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5BCCA47C-0C81-40B8-8701-0AA2D7FA082B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5BCCA47C-0C81-40B8-8701-0AA2D7FA082B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD451412-01DC-40E5-B0EA-288D2F420D9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD451412-01DC-40E5-B0EA-288D2F420D9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD451412-01DC-40E5-B0EA-288D2F420D9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD451412-01DC-40E5-B0EA-288D2F420D9F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

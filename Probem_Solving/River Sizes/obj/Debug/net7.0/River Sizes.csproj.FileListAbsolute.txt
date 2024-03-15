@@ -1,0 +1,15 @@
+D:\Repos\Problem_Solving\Probem_Solving\River Sizes\bin\Debug\net7.0\River Sizes.exe
+D:\Repos\Problem_Solving\Probem_Solving\River Sizes\bin\Debug\net7.0\River Sizes.deps.json
+D:\Repos\Problem_Solving\Probem_Solving\River Sizes\bin\Debug\net7.0\River Sizes.runtimeconfig.json
+D:\Repos\Problem_Solving\Probem_Solving\River Sizes\bin\Debug\net7.0\River Sizes.dll
+D:\Repos\Problem_Solving\Probem_Solving\River Sizes\bin\Debug\net7.0\River Sizes.pdb
+D:\Repos\Problem_Solving\Probem_Solving\River Sizes\obj\Debug\net7.0\River Sizes.csproj.AssemblyReference.cache
+D:\Repos\Problem_Solving\Probem_Solving\River Sizes\obj\Debug\net7.0\River Sizes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Problem_Solving\Probem_Solving\River Sizes\obj\Debug\net7.0\River Sizes.AssemblyInfoInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\River Sizes\obj\Debug\net7.0\River Sizes.AssemblyInfo.cs
+D:\Repos\Problem_Solving\Probem_Solving\River Sizes\obj\Debug\net7.0\River Sizes.csproj.CoreCompileInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\River Sizes\obj\Debug\net7.0\River Sizes.dll
+D:\Repos\Problem_Solving\Probem_Solving\River Sizes\obj\Debug\net7.0\refint\River Sizes.dll
+D:\Repos\Problem_Solving\Probem_Solving\River Sizes\obj\Debug\net7.0\River Sizes.pdb
+D:\Repos\Problem_Solving\Probem_Solving\River Sizes\obj\Debug\net7.0\River Sizes.genruntimeconfig.cache
+D:\Repos\Problem_Solving\Probem_Solving\River Sizes\obj\Debug\net7.0\ref\River Sizes.dll
