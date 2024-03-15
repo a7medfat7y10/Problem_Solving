@@ -1,0 +1,15 @@
+D:\Repos\Problem_Solving\Probem_Solving\Reconstruct BST\bin\Debug\net7.0\Reconstruct BST.exe
+D:\Repos\Problem_Solving\Probem_Solving\Reconstruct BST\bin\Debug\net7.0\Reconstruct BST.deps.json
+D:\Repos\Problem_Solving\Probem_Solving\Reconstruct BST\bin\Debug\net7.0\Reconstruct BST.runtimeconfig.json
+D:\Repos\Problem_Solving\Probem_Solving\Reconstruct BST\bin\Debug\net7.0\Reconstruct BST.dll
+D:\Repos\Problem_Solving\Probem_Solving\Reconstruct BST\bin\Debug\net7.0\Reconstruct BST.pdb
+D:\Repos\Problem_Solving\Probem_Solving\Reconstruct BST\obj\Debug\net7.0\Reconstruct BST.csproj.AssemblyReference.cache
+D:\Repos\Problem_Solving\Probem_Solving\Reconstruct BST\obj\Debug\net7.0\Reconstruct BST.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Problem_Solving\Probem_Solving\Reconstruct BST\obj\Debug\net7.0\Reconstruct BST.AssemblyInfoInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\Reconstruct BST\obj\Debug\net7.0\Reconstruct BST.AssemblyInfo.cs
+D:\Repos\Problem_Solving\Probem_Solving\Reconstruct BST\obj\Debug\net7.0\Reconstruct BST.csproj.CoreCompileInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\Reconstruct BST\obj\Debug\net7.0\Reconstruct BST.dll
+D:\Repos\Problem_Solving\Probem_Solving\Reconstruct BST\obj\Debug\net7.0\refint\Reconstruct BST.dll
+D:\Repos\Problem_Solving\Probem_Solving\Reconstruct BST\obj\Debug\net7.0\Reconstruct BST.pdb
+D:\Repos\Problem_Solving\Probem_Solving\Reconstruct BST\obj\Debug\net7.0\Reconstruct BST.genruntimeconfig.cache
+D:\Repos\Problem_Solving\Probem_Solving\Reconstruct BST\obj\Debug\net7.0\ref\Reconstruct BST.dll

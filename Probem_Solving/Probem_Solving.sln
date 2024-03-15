@@ -183,9 +183,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BST Traversal", "BST Traver
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Min Height BST", "Min Height BST\Min Height BST.csproj", "{60AA51D9-3B0F-4A22-8E8C-5513EB5AF10A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find Kth Largest Value In BST", "Find Kth Largest Value In BST\Find Kth Largest Value In BST.csproj", "{36E815F6-3B25-4606-92EF-5D96B9585785}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Find Kth Largest Value In BST", "Find Kth Largest Value In BST\Find Kth Largest Value In BST.csproj", "{36E815F6-3B25-4606-92EF-5D96B9585785}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Split Binary Tree", "Split Binary Tree\Split Binary Tree.csproj", "{0CDBAF09-235D-4526-9946-3C672B5B4B12}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Split Binary Tree", "Split Binary Tree\Split Binary Tree.csproj", "{0CDBAF09-235D-4526-9946-3C672B5B4B12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reconstruct BST", "Reconstruct BST\Reconstruct BST.csproj", "{5BCCA47C-0C81-40B8-8701-0AA2D7FA082B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -561,6 +563,10 @@ Global
 		{0CDBAF09-235D-4526-9946-3C672B5B4B12}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0CDBAF09-235D-4526-9946-3C672B5B4B12}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0CDBAF09-235D-4526-9946-3C672B5B4B12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BCCA47C-0C81-40B8-8701-0AA2D7FA082B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BCCA47C-0C81-40B8-8701-0AA2D7FA082B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BCCA47C-0C81-40B8-8701-0AA2D7FA082B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BCCA47C-0C81-40B8-8701-0AA2D7FA082B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
