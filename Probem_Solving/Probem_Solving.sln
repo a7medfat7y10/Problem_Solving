@@ -201,6 +201,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minimum Passes Of Matrix", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Two-Colorable", "Two-Colorable\Two-Colorable.csproj", "{1611B970-88AE-40B9-BD4F-05008FF79692}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kadane's Algorithm", "Kadane's Algorithm\Kadane's Algorithm.csproj", "{0B508C45-E947-4491-A8B1-895233412320}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -603,6 +605,10 @@ Global
 		{1611B970-88AE-40B9-BD4F-05008FF79692}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1611B970-88AE-40B9-BD4F-05008FF79692}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1611B970-88AE-40B9-BD4F-05008FF79692}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B508C45-E947-4491-A8B1-895233412320}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B508C45-E947-4491-A8B1-895233412320}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B508C45-E947-4491-A8B1-895233412320}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B508C45-E947-4491-A8B1-895233412320}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,15 @@
+D:\Repos\Problem_Solving\Probem_Solving\Kadane's Algorithm\bin\Debug\net7.0\Kadane's Algorithm.exe
+D:\Repos\Problem_Solving\Probem_Solving\Kadane's Algorithm\bin\Debug\net7.0\Kadane's Algorithm.deps.json
+D:\Repos\Problem_Solving\Probem_Solving\Kadane's Algorithm\bin\Debug\net7.0\Kadane's Algorithm.runtimeconfig.json
+D:\Repos\Problem_Solving\Probem_Solving\Kadane's Algorithm\bin\Debug\net7.0\Kadane's Algorithm.dll
+D:\Repos\Problem_Solving\Probem_Solving\Kadane's Algorithm\bin\Debug\net7.0\Kadane's Algorithm.pdb
+D:\Repos\Problem_Solving\Probem_Solving\Kadane's Algorithm\obj\Debug\net7.0\Kadane's Algorithm.csproj.AssemblyReference.cache
+D:\Repos\Problem_Solving\Probem_Solving\Kadane's Algorithm\obj\Debug\net7.0\Kadane's Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Problem_Solving\Probem_Solving\Kadane's Algorithm\obj\Debug\net7.0\Kadane's Algorithm.AssemblyInfoInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\Kadane's Algorithm\obj\Debug\net7.0\Kadane's Algorithm.AssemblyInfo.cs
+D:\Repos\Problem_Solving\Probem_Solving\Kadane's Algorithm\obj\Debug\net7.0\Kadane's Algorithm.csproj.CoreCompileInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\Kadane's Algorithm\obj\Debug\net7.0\Kadane's Algorithm.dll
+D:\Repos\Problem_Solving\Probem_Solving\Kadane's Algorithm\obj\Debug\net7.0\refint\Kadane's Algorithm.dll
+D:\Repos\Problem_Solving\Probem_Solving\Kadane's Algorithm\obj\Debug\net7.0\Kadane's Algorithm.pdb
+D:\Repos\Problem_Solving\Probem_Solving\Kadane's Algorithm\obj\Debug\net7.0\Kadane's Algorithm.genruntimeconfig.cache
+D:\Repos\Problem_Solving\Probem_Solving\Kadane's Algorithm\obj\Debug\net7.0\ref\Kadane's Algorithm.dll
