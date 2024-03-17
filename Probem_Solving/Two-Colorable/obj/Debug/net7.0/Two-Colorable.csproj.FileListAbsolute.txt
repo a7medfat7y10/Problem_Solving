@@ -1,0 +1,15 @@
+D:\Repos\Problem_Solving\Probem_Solving\Two-Colorable\bin\Debug\net7.0\Two-Colorable.exe
+D:\Repos\Problem_Solving\Probem_Solving\Two-Colorable\bin\Debug\net7.0\Two-Colorable.deps.json
+D:\Repos\Problem_Solving\Probem_Solving\Two-Colorable\bin\Debug\net7.0\Two-Colorable.runtimeconfig.json
+D:\Repos\Problem_Solving\Probem_Solving\Two-Colorable\bin\Debug\net7.0\Two-Colorable.dll
+D:\Repos\Problem_Solving\Probem_Solving\Two-Colorable\bin\Debug\net7.0\Two-Colorable.pdb
+D:\Repos\Problem_Solving\Probem_Solving\Two-Colorable\obj\Debug\net7.0\Two-Colorable.csproj.AssemblyReference.cache
+D:\Repos\Problem_Solving\Probem_Solving\Two-Colorable\obj\Debug\net7.0\Two-Colorable.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Problem_Solving\Probem_Solving\Two-Colorable\obj\Debug\net7.0\Two-Colorable.AssemblyInfoInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\Two-Colorable\obj\Debug\net7.0\Two-Colorable.AssemblyInfo.cs
+D:\Repos\Problem_Solving\Probem_Solving\Two-Colorable\obj\Debug\net7.0\Two-Colorable.csproj.CoreCompileInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\Two-Colorable\obj\Debug\net7.0\Two-Colorable.dll
+D:\Repos\Problem_Solving\Probem_Solving\Two-Colorable\obj\Debug\net7.0\refint\Two-Colorable.dll
+D:\Repos\Problem_Solving\Probem_Solving\Two-Colorable\obj\Debug\net7.0\Two-Colorable.pdb
+D:\Repos\Problem_Solving\Probem_Solving\Two-Colorable\obj\Debug\net7.0\Two-Colorable.genruntimeconfig.cache
+D:\Repos\Problem_Solving\Probem_Solving\Two-Colorable\obj\Debug\net7.0\ref\Two-Colorable.dll
