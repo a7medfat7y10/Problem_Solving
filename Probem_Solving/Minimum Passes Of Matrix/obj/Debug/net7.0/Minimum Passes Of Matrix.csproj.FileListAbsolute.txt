@@ -1,0 +1,15 @@
+D:\Repos\Problem_Solving\Probem_Solving\Minimum Passes Of Matrix\bin\Debug\net7.0\Minimum Passes Of Matrix.exe
+D:\Repos\Problem_Solving\Probem_Solving\Minimum Passes Of Matrix\bin\Debug\net7.0\Minimum Passes Of Matrix.deps.json
+D:\Repos\Problem_Solving\Probem_Solving\Minimum Passes Of Matrix\bin\Debug\net7.0\Minimum Passes Of Matrix.runtimeconfig.json
+D:\Repos\Problem_Solving\Probem_Solving\Minimum Passes Of Matrix\bin\Debug\net7.0\Minimum Passes Of Matrix.dll
+D:\Repos\Problem_Solving\Probem_Solving\Minimum Passes Of Matrix\bin\Debug\net7.0\Minimum Passes Of Matrix.pdb
+D:\Repos\Problem_Solving\Probem_Solving\Minimum Passes Of Matrix\obj\Debug\net7.0\Minimum Passes Of Matrix.csproj.AssemblyReference.cache
+D:\Repos\Problem_Solving\Probem_Solving\Minimum Passes Of Matrix\obj\Debug\net7.0\Minimum Passes Of Matrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Problem_Solving\Probem_Solving\Minimum Passes Of Matrix\obj\Debug\net7.0\Minimum Passes Of Matrix.AssemblyInfoInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\Minimum Passes Of Matrix\obj\Debug\net7.0\Minimum Passes Of Matrix.AssemblyInfo.cs
+D:\Repos\Problem_Solving\Probem_Solving\Minimum Passes Of Matrix\obj\Debug\net7.0\Minimum Passes Of Matrix.csproj.CoreCompileInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\Minimum Passes Of Matrix\obj\Debug\net7.0\Minimum Passes Of Matrix.dll
+D:\Repos\Problem_Solving\Probem_Solving\Minimum Passes Of Matrix\obj\Debug\net7.0\refint\Minimum Passes Of Matrix.dll
+D:\Repos\Problem_Solving\Probem_Solving\Minimum Passes Of Matrix\obj\Debug\net7.0\Minimum Passes Of Matrix.pdb
+D:\Repos\Problem_Solving\Probem_Solving\Minimum Passes Of Matrix\obj\Debug\net7.0\Minimum Passes Of Matrix.genruntimeconfig.cache
+D:\Repos\Problem_Solving\Probem_Solving\Minimum Passes Of Matrix\obj\Debug\net7.0\ref\Minimum Passes Of Matrix.dll
