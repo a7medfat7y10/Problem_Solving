@@ -203,6 +203,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Two-Colorable", "Two-Colora
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kadane's Algorithm", "Kadane's Algorithm\Kadane's Algorithm.csproj", "{0B508C45-E947-4491-A8B1-895233412320}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stable Internships", "Stable Internships\Stable Internships.csproj", "{2F777891-132D-476D-91B8-E9BE80C519DA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -609,6 +611,10 @@ Global
 		{0B508C45-E947-4491-A8B1-895233412320}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B508C45-E947-4491-A8B1-895233412320}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B508C45-E947-4491-A8B1-895233412320}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F777891-132D-476D-91B8-E9BE80C519DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F777891-132D-476D-91B8-E9BE80C519DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F777891-132D-476D-91B8-E9BE80C519DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F777891-132D-476D-91B8-E9BE80C519DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,15 @@
+D:\Repos\Problem_Solving\Probem_Solving\Stable Internships\bin\Debug\net7.0\Stable Internships.exe
+D:\Repos\Problem_Solving\Probem_Solving\Stable Internships\bin\Debug\net7.0\Stable Internships.deps.json
+D:\Repos\Problem_Solving\Probem_Solving\Stable Internships\bin\Debug\net7.0\Stable Internships.runtimeconfig.json
+D:\Repos\Problem_Solving\Probem_Solving\Stable Internships\bin\Debug\net7.0\Stable Internships.dll
+D:\Repos\Problem_Solving\Probem_Solving\Stable Internships\bin\Debug\net7.0\Stable Internships.pdb
+D:\Repos\Problem_Solving\Probem_Solving\Stable Internships\obj\Debug\net7.0\Stable Internships.csproj.AssemblyReference.cache
+D:\Repos\Problem_Solving\Probem_Solving\Stable Internships\obj\Debug\net7.0\Stable Internships.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Problem_Solving\Probem_Solving\Stable Internships\obj\Debug\net7.0\Stable Internships.AssemblyInfoInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\Stable Internships\obj\Debug\net7.0\Stable Internships.AssemblyInfo.cs
+D:\Repos\Problem_Solving\Probem_Solving\Stable Internships\obj\Debug\net7.0\Stable Internships.csproj.CoreCompileInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\Stable Internships\obj\Debug\net7.0\Stable Internships.dll
+D:\Repos\Problem_Solving\Probem_Solving\Stable Internships\obj\Debug\net7.0\refint\Stable Internships.dll
+D:\Repos\Problem_Solving\Probem_Solving\Stable Internships\obj\Debug\net7.0\Stable Internships.pdb
+D:\Repos\Problem_Solving\Probem_Solving\Stable Internships\obj\Debug\net7.0\Stable Internships.genruntimeconfig.cache
+D:\Repos\Problem_Solving\Probem_Solving\Stable Internships\obj\Debug\net7.0\ref\Stable Internships.dll
