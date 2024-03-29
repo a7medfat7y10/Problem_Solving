@@ -1,0 +1,15 @@
+D:\Repos\Problem_Solving\Probem_Solving\Union Find\bin\Debug\net7.0\Union Find.exe
+D:\Repos\Problem_Solving\Probem_Solving\Union Find\bin\Debug\net7.0\Union Find.deps.json
+D:\Repos\Problem_Solving\Probem_Solving\Union Find\bin\Debug\net7.0\Union Find.runtimeconfig.json
+D:\Repos\Problem_Solving\Probem_Solving\Union Find\bin\Debug\net7.0\Union Find.dll
+D:\Repos\Problem_Solving\Probem_Solving\Union Find\bin\Debug\net7.0\Union Find.pdb
+D:\Repos\Problem_Solving\Probem_Solving\Union Find\obj\Debug\net7.0\Union Find.csproj.AssemblyReference.cache
+D:\Repos\Problem_Solving\Probem_Solving\Union Find\obj\Debug\net7.0\Union Find.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Problem_Solving\Probem_Solving\Union Find\obj\Debug\net7.0\Union Find.AssemblyInfoInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\Union Find\obj\Debug\net7.0\Union Find.AssemblyInfo.cs
+D:\Repos\Problem_Solving\Probem_Solving\Union Find\obj\Debug\net7.0\Union Find.csproj.CoreCompileInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\Union Find\obj\Debug\net7.0\Union Find.dll
+D:\Repos\Problem_Solving\Probem_Solving\Union Find\obj\Debug\net7.0\refint\Union Find.dll
+D:\Repos\Problem_Solving\Probem_Solving\Union Find\obj\Debug\net7.0\Union Find.pdb
+D:\Repos\Problem_Solving\Probem_Solving\Union Find\obj\Debug\net7.0\Union Find.genruntimeconfig.cache
+D:\Repos\Problem_Solving\Probem_Solving\Union Find\obj\Debug\net7.0\ref\Union Find.dll
