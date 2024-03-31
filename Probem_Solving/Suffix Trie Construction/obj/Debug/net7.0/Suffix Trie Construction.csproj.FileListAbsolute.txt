@@ -1,0 +1,15 @@
+D:\Repos\Problem_Solving\Probem_Solving\Suffix Trie Construction\bin\Debug\net7.0\Suffix Trie Construction.exe
+D:\Repos\Problem_Solving\Probem_Solving\Suffix Trie Construction\bin\Debug\net7.0\Suffix Trie Construction.deps.json
+D:\Repos\Problem_Solving\Probem_Solving\Suffix Trie Construction\bin\Debug\net7.0\Suffix Trie Construction.runtimeconfig.json
+D:\Repos\Problem_Solving\Probem_Solving\Suffix Trie Construction\bin\Debug\net7.0\Suffix Trie Construction.dll
+D:\Repos\Problem_Solving\Probem_Solving\Suffix Trie Construction\bin\Debug\net7.0\Suffix Trie Construction.pdb
+D:\Repos\Problem_Solving\Probem_Solving\Suffix Trie Construction\obj\Debug\net7.0\Suffix Trie Construction.csproj.AssemblyReference.cache
+D:\Repos\Problem_Solving\Probem_Solving\Suffix Trie Construction\obj\Debug\net7.0\Suffix Trie Construction.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Problem_Solving\Probem_Solving\Suffix Trie Construction\obj\Debug\net7.0\Suffix Trie Construction.AssemblyInfoInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\Suffix Trie Construction\obj\Debug\net7.0\Suffix Trie Construction.AssemblyInfo.cs
+D:\Repos\Problem_Solving\Probem_Solving\Suffix Trie Construction\obj\Debug\net7.0\Suffix Trie Construction.csproj.CoreCompileInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\Suffix Trie Construction\obj\Debug\net7.0\Suffix Trie Construction.dll
+D:\Repos\Problem_Solving\Probem_Solving\Suffix Trie Construction\obj\Debug\net7.0\refint\Suffix Trie Construction.dll
+D:\Repos\Problem_Solving\Probem_Solving\Suffix Trie Construction\obj\Debug\net7.0\Suffix Trie Construction.pdb
+D:\Repos\Problem_Solving\Probem_Solving\Suffix Trie Construction\obj\Debug\net7.0\Suffix Trie Construction.genruntimeconfig.cache
+D:\Repos\Problem_Solving\Probem_Solving\Suffix Trie Construction\obj\Debug\net7.0\ref\Suffix Trie Construction.dll

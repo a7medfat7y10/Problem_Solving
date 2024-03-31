@@ -209,6 +209,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Union Find", "Union Find\Un
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Min Heap Construction", "Min Heap Construction\Min Heap Construction.csproj", "{C427DD36-1C48-4698-874E-09A834A41752}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Suffix Trie Construction", "Suffix Trie Construction\Suffix Trie Construction.csproj", "{69E8D175-0AA4-400E-8A79-17993A26D14A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -627,6 +629,10 @@ Global
 		{C427DD36-1C48-4698-874E-09A834A41752}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C427DD36-1C48-4698-874E-09A834A41752}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C427DD36-1C48-4698-874E-09A834A41752}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69E8D175-0AA4-400E-8A79-17993A26D14A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69E8D175-0AA4-400E-8A79-17993A26D14A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69E8D175-0AA4-400E-8A79-17993A26D14A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69E8D175-0AA4-400E-8A79-17993A26D14A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
