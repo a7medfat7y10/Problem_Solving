@@ -1,0 +1,15 @@
+D:\Repos\Problem_Solving\Probem_Solving\Valid Starting City\bin\Debug\net7.0\Valid Starting City.exe
+D:\Repos\Problem_Solving\Probem_Solving\Valid Starting City\bin\Debug\net7.0\Valid Starting City.deps.json
+D:\Repos\Problem_Solving\Probem_Solving\Valid Starting City\bin\Debug\net7.0\Valid Starting City.runtimeconfig.json
+D:\Repos\Problem_Solving\Probem_Solving\Valid Starting City\bin\Debug\net7.0\Valid Starting City.dll
+D:\Repos\Problem_Solving\Probem_Solving\Valid Starting City\bin\Debug\net7.0\Valid Starting City.pdb
+D:\Repos\Problem_Solving\Probem_Solving\Valid Starting City\obj\Debug\net7.0\Valid Starting City.csproj.AssemblyReference.cache
+D:\Repos\Problem_Solving\Probem_Solving\Valid Starting City\obj\Debug\net7.0\Valid Starting City.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Problem_Solving\Probem_Solving\Valid Starting City\obj\Debug\net7.0\Valid Starting City.AssemblyInfoInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\Valid Starting City\obj\Debug\net7.0\Valid Starting City.AssemblyInfo.cs
+D:\Repos\Problem_Solving\Probem_Solving\Valid Starting City\obj\Debug\net7.0\Valid Starting City.csproj.CoreCompileInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\Valid Starting City\obj\Debug\net7.0\Valid Starting City.dll
+D:\Repos\Problem_Solving\Probem_Solving\Valid Starting City\obj\Debug\net7.0\refint\Valid Starting City.dll
+D:\Repos\Problem_Solving\Probem_Solving\Valid Starting City\obj\Debug\net7.0\Valid Starting City.pdb
+D:\Repos\Problem_Solving\Probem_Solving\Valid Starting City\obj\Debug\net7.0\Valid Starting City.genruntimeconfig.cache
+D:\Repos\Problem_Solving\Probem_Solving\Valid Starting City\obj\Debug\net7.0\ref\Valid Starting City.dll
