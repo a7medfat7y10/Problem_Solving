@@ -187,25 +187,27 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Find Kth Largest Value In B
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Split Binary Tree", "Split Binary Tree\Split Binary Tree.csproj", "{0CDBAF09-235D-4526-9946-3C672B5B4B12}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reconstruct BST", "Reconstruct BST\Reconstruct BST.csproj", "{5BCCA47C-0C81-40B8-8701-0AA2D7FA082B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reconstruct BST", "Reconstruct BST\Reconstruct BST.csproj", "{5BCCA47C-0C81-40B8-8701-0AA2D7FA082B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "River Sizes", "River Sizes\River Sizes.csproj", "{AD451412-01DC-40E5-B0EA-288D2F420D9F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "River Sizes", "River Sizes\River Sizes.csproj", "{AD451412-01DC-40E5-B0EA-288D2F420D9F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Youngest Common Ancestor", "Youngest Common Ancestor\Youngest Common Ancestor.csproj", "{3A40CACB-B45C-422B-B807-E647BB7DA948}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Youngest Common Ancestor", "Youngest Common Ancestor\Youngest Common Ancestor.csproj", "{3A40CACB-B45C-422B-B807-E647BB7DA948}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove Islands", "Remove Islands\Remove Islands.csproj", "{E414AFCF-5298-419A-BA29-5A5313208883}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Remove Islands", "Remove Islands\Remove Islands.csproj", "{E414AFCF-5298-419A-BA29-5A5313208883}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cycle In Graph", "Cycle In Graph\Cycle In Graph.csproj", "{ABCCD2DE-CA4A-48A9-B1EE-B36C6473409F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cycle In Graph", "Cycle In Graph\Cycle In Graph.csproj", "{ABCCD2DE-CA4A-48A9-B1EE-B36C6473409F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minimum Passes Of Matrix", "Minimum Passes Of Matrix\Minimum Passes Of Matrix.csproj", "{5136F171-BDB9-4871-9774-F67A3B4D315B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Minimum Passes Of Matrix", "Minimum Passes Of Matrix\Minimum Passes Of Matrix.csproj", "{5136F171-BDB9-4871-9774-F67A3B4D315B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Two-Colorable", "Two-Colorable\Two-Colorable.csproj", "{1611B970-88AE-40B9-BD4F-05008FF79692}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Two-Colorable", "Two-Colorable\Two-Colorable.csproj", "{1611B970-88AE-40B9-BD4F-05008FF79692}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kadane's Algorithm", "Kadane's Algorithm\Kadane's Algorithm.csproj", "{0B508C45-E947-4491-A8B1-895233412320}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kadane's Algorithm", "Kadane's Algorithm\Kadane's Algorithm.csproj", "{0B508C45-E947-4491-A8B1-895233412320}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stable Internships", "Stable Internships\Stable Internships.csproj", "{2F777891-132D-476D-91B8-E9BE80C519DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stable Internships", "Stable Internships\Stable Internships.csproj", "{2F777891-132D-476D-91B8-E9BE80C519DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Union Find", "Union Find\Union Find.csproj", "{6067AEC2-5768-4989-85E6-D60F47445EDF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Union Find", "Union Find\Union Find.csproj", "{6067AEC2-5768-4989-85E6-D60F47445EDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Min Heap Construction", "Min Heap Construction\Min Heap Construction.csproj", "{C427DD36-1C48-4698-874E-09A834A41752}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -621,6 +623,10 @@ Global
 		{6067AEC2-5768-4989-85E6-D60F47445EDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6067AEC2-5768-4989-85E6-D60F47445EDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6067AEC2-5768-4989-85E6-D60F47445EDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C427DD36-1C48-4698-874E-09A834A41752}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C427DD36-1C48-4698-874E-09A834A41752}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C427DD36-1C48-4698-874E-09A834A41752}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C427DD36-1C48-4698-874E-09A834A41752}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
