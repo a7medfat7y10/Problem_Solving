@@ -1,0 +1,15 @@
+D:\Repos\Problem_Solving\Probem_Solving\Task Assignment\bin\Debug\net7.0\Task Assignment.exe
+D:\Repos\Problem_Solving\Probem_Solving\Task Assignment\bin\Debug\net7.0\Task Assignment.deps.json
+D:\Repos\Problem_Solving\Probem_Solving\Task Assignment\bin\Debug\net7.0\Task Assignment.runtimeconfig.json
+D:\Repos\Problem_Solving\Probem_Solving\Task Assignment\bin\Debug\net7.0\Task Assignment.dll
+D:\Repos\Problem_Solving\Probem_Solving\Task Assignment\bin\Debug\net7.0\Task Assignment.pdb
+D:\Repos\Problem_Solving\Probem_Solving\Task Assignment\obj\Debug\net7.0\Task Assignment.csproj.AssemblyReference.cache
+D:\Repos\Problem_Solving\Probem_Solving\Task Assignment\obj\Debug\net7.0\Task Assignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Problem_Solving\Probem_Solving\Task Assignment\obj\Debug\net7.0\Task Assignment.AssemblyInfoInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\Task Assignment\obj\Debug\net7.0\Task Assignment.AssemblyInfo.cs
+D:\Repos\Problem_Solving\Probem_Solving\Task Assignment\obj\Debug\net7.0\Task Assignment.csproj.CoreCompileInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\Task Assignment\obj\Debug\net7.0\Task Assignment.dll
+D:\Repos\Problem_Solving\Probem_Solving\Task Assignment\obj\Debug\net7.0\refint\Task Assignment.dll
+D:\Repos\Problem_Solving\Probem_Solving\Task Assignment\obj\Debug\net7.0\Task Assignment.pdb
+D:\Repos\Problem_Solving\Probem_Solving\Task Assignment\obj\Debug\net7.0\Task Assignment.genruntimeconfig.cache
+D:\Repos\Problem_Solving\Probem_Solving\Task Assignment\obj\Debug\net7.0\ref\Task Assignment.dll

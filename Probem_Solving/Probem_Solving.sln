@@ -211,6 +211,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Min Heap Construction", "Mi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Suffix Trie Construction", "Suffix Trie Construction\Suffix Trie Construction.csproj", "{69E8D175-0AA4-400E-8A79-17993A26D14A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task Assignment", "Task Assignment\Task Assignment.csproj", "{B2340F02-FDF0-4220-A1CD-0F48428C1F85}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -633,6 +635,10 @@ Global
 		{69E8D175-0AA4-400E-8A79-17993A26D14A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{69E8D175-0AA4-400E-8A79-17993A26D14A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{69E8D175-0AA4-400E-8A79-17993A26D14A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2340F02-FDF0-4220-A1CD-0F48428C1F85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2340F02-FDF0-4220-A1CD-0F48428C1F85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2340F02-FDF0-4220-A1CD-0F48428C1F85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2340F02-FDF0-4220-A1CD-0F48428C1F85}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
