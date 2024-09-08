@@ -1,0 +1,15 @@
+D:\Repos\Problem_Solving\Probem_Solving\Four Number Sum\bin\Debug\net7.0\Four Number Sum.exe
+D:\Repos\Problem_Solving\Probem_Solving\Four Number Sum\bin\Debug\net7.0\Four Number Sum.deps.json
+D:\Repos\Problem_Solving\Probem_Solving\Four Number Sum\bin\Debug\net7.0\Four Number Sum.runtimeconfig.json
+D:\Repos\Problem_Solving\Probem_Solving\Four Number Sum\bin\Debug\net7.0\Four Number Sum.dll
+D:\Repos\Problem_Solving\Probem_Solving\Four Number Sum\bin\Debug\net7.0\Four Number Sum.pdb
+D:\Repos\Problem_Solving\Probem_Solving\Four Number Sum\obj\Debug\net7.0\Four Number Sum.csproj.AssemblyReference.cache
+D:\Repos\Problem_Solving\Probem_Solving\Four Number Sum\obj\Debug\net7.0\Four Number Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Problem_Solving\Probem_Solving\Four Number Sum\obj\Debug\net7.0\Four Number Sum.AssemblyInfoInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\Four Number Sum\obj\Debug\net7.0\Four Number Sum.AssemblyInfo.cs
+D:\Repos\Problem_Solving\Probem_Solving\Four Number Sum\obj\Debug\net7.0\Four Number Sum.csproj.CoreCompileInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\Four Number Sum\obj\Debug\net7.0\Four Number Sum.dll
+D:\Repos\Problem_Solving\Probem_Solving\Four Number Sum\obj\Debug\net7.0\refint\Four Number Sum.dll
+D:\Repos\Problem_Solving\Probem_Solving\Four Number Sum\obj\Debug\net7.0\Four Number Sum.pdb
+D:\Repos\Problem_Solving\Probem_Solving\Four Number Sum\obj\Debug\net7.0\Four Number Sum.genruntimeconfig.cache
+D:\Repos\Problem_Solving\Probem_Solving\Four Number Sum\obj\Debug\net7.0\ref\Four Number Sum.dll
