@@ -1,0 +1,15 @@
+D:\Repos\Problem_Solving\Probem_Solving\Subarray Sort\bin\Debug\net7.0\Subarray Sort.exe
+D:\Repos\Problem_Solving\Probem_Solving\Subarray Sort\bin\Debug\net7.0\Subarray Sort.deps.json
+D:\Repos\Problem_Solving\Probem_Solving\Subarray Sort\bin\Debug\net7.0\Subarray Sort.runtimeconfig.json
+D:\Repos\Problem_Solving\Probem_Solving\Subarray Sort\bin\Debug\net7.0\Subarray Sort.dll
+D:\Repos\Problem_Solving\Probem_Solving\Subarray Sort\bin\Debug\net7.0\Subarray Sort.pdb
+D:\Repos\Problem_Solving\Probem_Solving\Subarray Sort\obj\Debug\net7.0\Subarray Sort.csproj.AssemblyReference.cache
+D:\Repos\Problem_Solving\Probem_Solving\Subarray Sort\obj\Debug\net7.0\Subarray Sort.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Problem_Solving\Probem_Solving\Subarray Sort\obj\Debug\net7.0\Subarray Sort.AssemblyInfoInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\Subarray Sort\obj\Debug\net7.0\Subarray Sort.AssemblyInfo.cs
+D:\Repos\Problem_Solving\Probem_Solving\Subarray Sort\obj\Debug\net7.0\Subarray Sort.csproj.CoreCompileInputs.cache
+D:\Repos\Problem_Solving\Probem_Solving\Subarray Sort\obj\Debug\net7.0\Subarray Sort.dll
+D:\Repos\Problem_Solving\Probem_Solving\Subarray Sort\obj\Debug\net7.0\refint\Subarray Sort.dll
+D:\Repos\Problem_Solving\Probem_Solving\Subarray Sort\obj\Debug\net7.0\Subarray Sort.pdb
+D:\Repos\Problem_Solving\Probem_Solving\Subarray Sort\obj\Debug\net7.0\Subarray Sort.genruntimeconfig.cache
+D:\Repos\Problem_Solving\Probem_Solving\Subarray Sort\obj\Debug\net7.0\ref\Subarray Sort.dll

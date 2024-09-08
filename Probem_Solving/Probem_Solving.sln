@@ -221,6 +221,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Radix Sort", "Radix Sort\Ra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Four Number Sum", "Four Number Sum\Four Number Sum.csproj", "{11125EE9-1B2D-453E-A5DD-831655D66340}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Subarray Sort", "Subarray Sort\Subarray Sort.csproj", "{09DD175B-1B19-4481-B286-D0A0C5EABC9D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -663,6 +665,10 @@ Global
 		{11125EE9-1B2D-453E-A5DD-831655D66340}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{11125EE9-1B2D-453E-A5DD-831655D66340}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{11125EE9-1B2D-453E-A5DD-831655D66340}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09DD175B-1B19-4481-B286-D0A0C5EABC9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09DD175B-1B19-4481-B286-D0A0C5EABC9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09DD175B-1B19-4481-B286-D0A0C5EABC9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09DD175B-1B19-4481-B286-D0A0C5EABC9D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
